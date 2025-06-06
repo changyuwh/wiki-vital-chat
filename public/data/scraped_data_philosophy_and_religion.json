@@ -1,0 +1,3242 @@
+[
+  {
+    "name": "Philosophy",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Philosophy-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Philosophy: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Philosophy:_General-Philosophy",
+        "children": [
+          {
+            "name": "Philosophy",
+            "link": "https://en.wikipedia.org/wiki/Philosophy",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Philosophy by region and period",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Philosophy_by_region_and_period-Philosophy",
+        "children": [
+          {
+            "name": "Western philosophy",
+            "link": "https://en.wikipedia.org/wiki/Western_philosophy",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Ancient Greek philosophy",
+                "link": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Medieval philosophy",
+                "link": "https://en.wikipedia.org/wiki/Medieval_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Renaissance philosophy",
+                "link": "https://en.wikipedia.org/wiki/Renaissance_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Modern philosophy",
+                "link": "https://en.wikipedia.org/wiki/Modern_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Contemporary philosophy",
+                "link": "https://en.wikipedia.org/wiki/Contemporary_philosophy",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Eastern philosophy",
+            "link": "https://en.wikipedia.org/wiki/Eastern_philosophy",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chinese philosophy",
+                "link": "https://en.wikipedia.org/wiki/Chinese_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indian philosophy",
+                "link": "https://en.wikipedia.org/wiki/Indian_philosophy",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Ancient philosophy",
+            "link": "https://en.wikipedia.org/wiki/Ancient_philosophy",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Philosophical schools and traditions",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Philosophical_schools_and_traditions-Philosophy",
+        "children": [
+          {
+            "name": "Analytic philosophy",
+            "link": "https://en.wikipedia.org/wiki/Analytic_philosophy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Confucianism",
+            "link": "https://en.wikipedia.org/wiki/Confucianism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Legalism (Chinese philosophy)",
+            "link": "https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Phenomenology (philosophy)",
+            "link": "https://en.wikipedia.org/wiki/Phenomenology_(philosophy)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Positivism",
+            "link": "https://en.wikipedia.org/wiki/Positivism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pragmatism",
+            "link": "https://en.wikipedia.org/wiki/Pragmatism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sophist",
+            "link": "https://en.wikipedia.org/wiki/Sophist",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Stoicism",
+            "link": "https://en.wikipedia.org/wiki/Stoicism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Thomism",
+            "link": "https://en.wikipedia.org/wiki/Thomism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Religious philosophy",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Religious_philosophy-Philosophy",
+        "children": [
+          {
+            "name": "Buddhist philosophy",
+            "link": "https://en.wikipedia.org/wiki/Buddhist_philosophy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Christian philosophy",
+            "link": "https://en.wikipedia.org/wiki/Christian_philosophy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Islamic philosophy",
+            "link": "https://en.wikipedia.org/wiki/Islamic_philosophy",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Philosophical branches, approaches and concepts",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Philosophical_branches,_approaches_and_concepts-Philosophy",
+        "children": [
+          {
+            "name": "Ethics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Ethics-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Ethics",
+                "link": "https://en.wikipedia.org/wiki/Ethics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Concepts",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Concepts-Ethics",
+                "children": [
+                  {
+                    "name": "Free will",
+                    "link": "https://en.wikipedia.org/wiki/Free_will",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Good and evil",
+                    "link": "https://en.wikipedia.org/wiki/Good_and_evil",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Conscience",
+                    "link": "https://en.wikipedia.org/wiki/Conscience",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Golden Rule",
+                    "link": "https://en.wikipedia.org/wiki/Golden_Rule",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Is–ought problem",
+                    "link": "https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Morality",
+                    "link": "https://en.wikipedia.org/wiki/Morality",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Plagiarism",
+                    "link": "https://en.wikipedia.org/wiki/Plagiarism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Value (ethics)",
+                    "link": "https://en.wikipedia.org/wiki/Value_(ethics)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Virtue",
+                    "link": "https://en.wikipedia.org/wiki/Virtue",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Wisdom",
+                    "link": "https://en.wikipedia.org/wiki/Wisdom",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Approaches",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Approaches-Ethics",
+                "children": [
+                  {
+                    "name": "Consequentialism",
+                    "link": "https://en.wikipedia.org/wiki/Consequentialism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Deontology",
+                    "link": "https://en.wikipedia.org/wiki/Deontology",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Humanism",
+                    "link": "https://en.wikipedia.org/wiki/Humanism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Nihilism",
+                    "link": "https://en.wikipedia.org/wiki/Nihilism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Relativism",
+                    "link": "https://en.wikipedia.org/wiki/Relativism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Utilitarianism",
+                    "link": "https://en.wikipedia.org/wiki/Utilitarianism",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Logic",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Logic-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Logic",
+                "link": "https://en.wikipedia.org/wiki/Logic",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Argument",
+                "link": "https://en.wikipedia.org/wiki/Argument",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "A priorianda posteriori",
+                "link": "https://en.wikipedia.org/wiki/A_priori_and_a_posteriori",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Critical thinking",
+                "link": "https://en.wikipedia.org/wiki/Critical_thinking",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dialectic",
+                "link": "https://en.wikipedia.org/wiki/Dialectic",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Socratic method",
+                    "link": "https://en.wikipedia.org/wiki/Socratic_method",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Inference",
+                "link": "https://en.wikipedia.org/wiki/Inference",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Deductive reasoning",
+                    "link": "https://en.wikipedia.org/wiki/Deductive_reasoning",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Fallacy",
+                    "link": "https://en.wikipedia.org/wiki/Fallacy",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Inductive reasoning",
+                    "link": "https://en.wikipedia.org/wiki/Inductive_reasoning",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Paradox",
+                "link": "https://en.wikipedia.org/wiki/Paradox",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Thought experiment",
+                "link": "https://en.wikipedia.org/wiki/Thought_experiment",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Epistemology",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Epistemology-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Epistemology",
+                "link": "https://en.wikipedia.org/wiki/Epistemology",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Concepts",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Concepts_2-Epistemology",
+                "children": [
+                  {
+                    "name": "Knowledge",
+                    "link": "https://en.wikipedia.org/wiki/Knowledge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Truth",
+                    "link": "https://en.wikipedia.org/wiki/Truth",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Reason",
+                    "link": "https://en.wikipedia.org/wiki/Reason",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Belief",
+                    "link": "https://en.wikipedia.org/wiki/Belief",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Common sense",
+                    "link": "https://en.wikipedia.org/wiki/Common_sense",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Concept",
+                    "link": "https://en.wikipedia.org/wiki/Concept",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Experience",
+                    "link": "https://en.wikipedia.org/wiki/Experience",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Occam's razor",
+                    "link": "https://en.wikipedia.org/wiki/Occam%27s_razor",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Opinion",
+                    "link": "https://en.wikipedia.org/wiki/Opinion",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Worldview",
+                    "link": "https://en.wikipedia.org/wiki/Worldview",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Approaches",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Approaches_2-Epistemology",
+                "children": [
+                  {
+                    "name": "Empiricism",
+                    "link": "https://en.wikipedia.org/wiki/Empiricism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Naturalism (philosophy)",
+                    "link": "https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Rationalism",
+                    "link": "https://en.wikipedia.org/wiki/Rationalism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Skepticism",
+                    "link": "https://en.wikipedia.org/wiki/Skepticism",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Metaphysics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Metaphysics-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Metaphysics",
+                "link": "https://en.wikipedia.org/wiki/Metaphysics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Concepts",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Concepts_3-Metaphysics",
+                "children": [
+                  {
+                    "name": "Ontology",
+                    "link": "https://en.wikipedia.org/wiki/Ontology",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Abstraction",
+                    "link": "https://en.wikipedia.org/wiki/Abstraction",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Causality (physics)",
+                    "link": "https://en.wikipedia.org/wiki/Causality_(physics)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Existence",
+                    "link": "https://en.wikipedia.org/wiki/Existence",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Mental representation",
+                    "link": "https://en.wikipedia.org/wiki/Mental_representation",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Reality",
+                    "link": "https://en.wikipedia.org/wiki/Reality",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Approaches",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Approaches_3-Metaphysics",
+                "children": [
+                  {
+                    "name": "Determinism",
+                    "link": "https://en.wikipedia.org/wiki/Determinism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Idealism",
+                    "link": "https://en.wikipedia.org/wiki/Idealism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Materialism",
+                    "link": "https://en.wikipedia.org/wiki/Materialism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Mind–body dualism",
+                    "link": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Monism",
+                    "link": "https://en.wikipedia.org/wiki/Monism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Theory of forms",
+                    "link": "https://en.wikipedia.org/wiki/Theory_of_forms",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Aesthetics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Aesthetics-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Aesthetics",
+                "link": "https://en.wikipedia.org/wiki/Aesthetics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Beauty",
+                "link": "https://en.wikipedia.org/wiki/Beauty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Philosophy of science",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Philosophy_of_science-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Philosophy of science",
+                "link": "https://en.wikipedia.org/wiki/Philosophy_of_science",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fact",
+                "link": "https://en.wikipedia.org/wiki/Fact",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hypothesis",
+                "link": "https://en.wikipedia.org/wiki/Hypothesis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Natural philosophy",
+                "link": "https://en.wikipedia.org/wiki/Natural_philosophy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Paradigm",
+                "link": "https://en.wikipedia.org/wiki/Paradigm",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pseudoscience",
+                "link": "https://en.wikipedia.org/wiki/Pseudoscience",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Parapsychology",
+                    "link": "https://en.wikipedia.org/wiki/Parapsychology",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Reductionism",
+                "link": "https://en.wikipedia.org/wiki/Reductionism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Theory",
+                "link": "https://en.wikipedia.org/wiki/Theory",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Other branches of philosophy",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Other_branches_of_philosophy-Philosophical_branches,_approaches_and_concepts",
+            "children": [
+              {
+                "name": "Philosophy of language",
+                "link": "https://en.wikipedia.org/wiki/Philosophy_of_language",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Meaning (philosophy)",
+                    "link": "https://en.wikipedia.org/wiki/Meaning_(philosophy)",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Philosophy of mathematics",
+                "link": "https://en.wikipedia.org/wiki/Philosophy_of_mathematics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Philosophy of mind",
+                "link": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Philosophy of religion",
+                "link": "https://en.wikipedia.org/wiki/Philosophy_of_religion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Political philosophy",
+                "link": "https://en.wikipedia.org/wiki/Political_philosophy",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Religion and spirituality",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Religion_and_spirituality-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Religion and spirituality: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Religion_and_spirituality:_General-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Religion",
+            "link": "https://en.wikipedia.org/wiki/Religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Comparative religion",
+            "link": "https://en.wikipedia.org/wiki/Comparative_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Folk religion",
+            "link": "https://en.wikipedia.org/wiki/Folk_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mysticism",
+            "link": "https://en.wikipedia.org/wiki/Mysticism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Theology",
+            "link": "https://en.wikipedia.org/wiki/Theology",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Deity",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Deity-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Deity",
+            "link": "https://en.wikipedia.org/wiki/Deity",
+            "layer": 3,
+            "children": [
+              {
+                "name": "God",
+                "link": "https://en.wikipedia.org/wiki/God",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Goddess",
+                "link": "https://en.wikipedia.org/wiki/Goddess",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Practices",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Practices-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Ritual",
+            "link": "https://en.wikipedia.org/wiki/Ritual",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Prayer",
+            "link": "https://en.wikipedia.org/wiki/Prayer",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Lord's Prayer",
+                "link": "https://en.wikipedia.org/wiki/Lord%27s_Prayer",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Meditation",
+            "link": "https://en.wikipedia.org/wiki/Meditation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Apologetics",
+            "link": "https://en.wikipedia.org/wiki/Apologetics",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Apostasy",
+            "link": "https://en.wikipedia.org/wiki/Apostasy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Celibacy",
+            "link": "https://en.wikipedia.org/wiki/Celibacy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fasting",
+            "link": "https://en.wikipedia.org/wiki/Fasting",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Heresy",
+            "link": "https://en.wikipedia.org/wiki/Heresy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Icon",
+            "link": "https://en.wikipedia.org/wiki/Icon",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Iconoclasm",
+                "link": "https://en.wikipedia.org/wiki/Iconoclasm",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Idolatry",
+            "link": "https://en.wikipedia.org/wiki/Idolatry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Liturgy",
+            "link": "https://en.wikipedia.org/wiki/Liturgy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pilgrimage",
+            "link": "https://en.wikipedia.org/wiki/Pilgrimage",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Prophecy",
+            "link": "https://en.wikipedia.org/wiki/Prophecy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Relic",
+            "link": "https://en.wikipedia.org/wiki/Relic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Religious conversion",
+            "link": "https://en.wikipedia.org/wiki/Religious_conversion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sacrifice",
+            "link": "https://en.wikipedia.org/wiki/Sacrifice",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Saint",
+            "link": "https://en.wikipedia.org/wiki/Saint",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Veneration of the dead",
+            "link": "https://en.wikipedia.org/wiki/Veneration_of_the_dead",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Worship",
+            "link": "https://en.wikipedia.org/wiki/Worship",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Beliefs",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Beliefs-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Spirituality",
+            "link": "https://en.wikipedia.org/wiki/Spirituality",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Animism",
+            "link": "https://en.wikipedia.org/wiki/Animism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Astrology",
+            "link": "https://en.wikipedia.org/wiki/Astrology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Creation myth",
+            "link": "https://en.wikipedia.org/wiki/Creation_myth",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Curse",
+            "link": "https://en.wikipedia.org/wiki/Curse",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Divination",
+            "link": "https://en.wikipedia.org/wiki/Divination",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Eschatology",
+            "link": "https://en.wikipedia.org/wiki/Eschatology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Faith",
+            "link": "https://en.wikipedia.org/wiki/Faith",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Magic (supernatural)",
+            "link": "https://en.wikipedia.org/wiki/Magic_(supernatural)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Witchcraft",
+                "link": "https://en.wikipedia.org/wiki/Witchcraft",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mandate of Heaven",
+            "link": "https://en.wikipedia.org/wiki/Mandate_of_Heaven",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Origin myth",
+            "link": "https://en.wikipedia.org/wiki/Origin_myth",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Religious experience",
+            "link": "https://en.wikipedia.org/wiki/Religious_experience",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sacredness",
+            "link": "https://en.wikipedia.org/wiki/Sacredness",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Supernatural",
+            "link": "https://en.wikipedia.org/wiki/Supernatural",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Superstition",
+            "link": "https://en.wikipedia.org/wiki/Superstition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Totem",
+            "link": "https://en.wikipedia.org/wiki/Totem",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Death",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Death-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Burial",
+            "link": "https://en.wikipedia.org/wiki/Burial",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cemetery",
+            "link": "https://en.wikipedia.org/wiki/Cemetery",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cremation",
+            "link": "https://en.wikipedia.org/wiki/Cremation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Funeral",
+            "link": "https://en.wikipedia.org/wiki/Funeral",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mummy",
+            "link": "https://en.wikipedia.org/wiki/Mummy",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Afterlife",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Afterlife-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Afterlife",
+            "link": "https://en.wikipedia.org/wiki/Afterlife",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Heaven",
+                "link": "https://en.wikipedia.org/wiki/Heaven",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hell",
+                "link": "https://en.wikipedia.org/wiki/Hell",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Incarnation",
+                "link": "https://en.wikipedia.org/wiki/Incarnation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Reincarnation",
+                "link": "https://en.wikipedia.org/wiki/Reincarnation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Resurrection",
+                "link": "https://en.wikipedia.org/wiki/Resurrection",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soul",
+            "link": "https://en.wikipedia.org/wiki/Soul",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Institutions",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Institutions-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Altar",
+            "link": "https://en.wikipedia.org/wiki/Altar",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Anti-clericalism",
+            "link": "https://en.wikipedia.org/wiki/Anti-clericalism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Creed",
+            "link": "https://en.wikipedia.org/wiki/Creed",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cult",
+            "link": "https://en.wikipedia.org/wiki/Cult",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Monastery",
+            "link": "https://en.wikipedia.org/wiki/Monastery",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Priest",
+            "link": "https://en.wikipedia.org/wiki/Priest",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Schism",
+            "link": "https://en.wikipedia.org/wiki/Schism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sect",
+            "link": "https://en.wikipedia.org/wiki/Sect",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "State religion",
+            "link": "https://en.wikipedia.org/wiki/State_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Temple",
+            "link": "https://en.wikipedia.org/wiki/Temple",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Theistic philosophies",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Theistic_philosophies-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Theism",
+            "link": "https://en.wikipedia.org/wiki/Theism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Deism",
+            "link": "https://en.wikipedia.org/wiki/Deism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fundamentalism",
+            "link": "https://en.wikipedia.org/wiki/Fundamentalism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Monotheism",
+            "link": "https://en.wikipedia.org/wiki/Monotheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Orthodoxy",
+            "link": "https://en.wikipedia.org/wiki/Orthodoxy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Paganism",
+            "link": "https://en.wikipedia.org/wiki/Paganism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Panentheism",
+            "link": "https://en.wikipedia.org/wiki/Panentheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pantheism",
+            "link": "https://en.wikipedia.org/wiki/Pantheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polytheism",
+            "link": "https://en.wikipedia.org/wiki/Polytheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Syncretism",
+            "link": "https://en.wikipedia.org/wiki/Syncretism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Non-theistic philosophies",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Non-theistic_philosophies-Religion_and_spirituality",
+        "children": [
+          {
+            "name": "Atheism",
+            "link": "https://en.wikipedia.org/wiki/Atheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Agnosticism",
+            "link": "https://en.wikipedia.org/wiki/Agnosticism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Freethought",
+            "link": "https://en.wikipedia.org/wiki/Freethought",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Secularism",
+            "link": "https://en.wikipedia.org/wiki/Secularism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abrahamic religions",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Abrahamic_religions-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Main branches",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Main_branches-Abrahamic_religions",
+        "children": [
+          {
+            "name": "Christianity",
+            "link": "https://en.wikipedia.org/wiki/Christianity",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Islam",
+            "link": "https://en.wikipedia.org/wiki/Islam",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Judaism",
+            "link": "https://en.wikipedia.org/wiki/Judaism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Baháʼí Faith",
+            "link": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Druze",
+            "link": "https://en.wikipedia.org/wiki/Druze",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Gnosticism",
+            "link": "https://en.wikipedia.org/wiki/Gnosticism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rastafari",
+            "link": "https://en.wikipedia.org/wiki/Rastafari",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Common concepts",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Common_concepts-Abrahamic_religions",
+        "children": [
+          {
+            "name": "Apocalypse",
+            "link": "https://en.wikipedia.org/wiki/Apocalypse",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bible",
+            "link": "https://en.wikipedia.org/wiki/Bible",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Old Testament",
+                "link": "https://en.wikipedia.org/wiki/Old_Testament",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "New Testament",
+                "link": "https://en.wikipedia.org/wiki/New_Testament",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Holy Spirit",
+            "link": "https://en.wikipedia.org/wiki/Holy_Spirit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Messiah",
+            "link": "https://en.wikipedia.org/wiki/Messiah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Predestination",
+            "link": "https://en.wikipedia.org/wiki/Predestination",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Salvation",
+            "link": "https://en.wikipedia.org/wiki/Salvation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sin",
+            "link": "https://en.wikipedia.org/wiki/Sin",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ten Commandments",
+            "link": "https://en.wikipedia.org/wiki/Ten_Commandments",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Judaism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Judaism-Abrahamic_religions",
+        "children": [
+          {
+            "name": "Talmud",
+            "link": "https://en.wikipedia.org/wiki/Talmud",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Torah",
+            "link": "https://en.wikipedia.org/wiki/Torah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Halakha",
+            "link": "https://en.wikipedia.org/wiki/Halakha",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Kashrut",
+                "link": "https://en.wikipedia.org/wiki/Kashrut",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hebrew Bible",
+            "link": "https://en.wikipedia.org/wiki/Hebrew_Bible",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rabbi",
+            "link": "https://en.wikipedia.org/wiki/Rabbi",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Synagogue",
+            "link": "https://en.wikipedia.org/wiki/Synagogue",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Conservative Judaism",
+            "link": "https://en.wikipedia.org/wiki/Conservative_Judaism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Orthodox Judaism",
+            "link": "https://en.wikipedia.org/wiki/Orthodox_Judaism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Reform Judaism",
+            "link": "https://en.wikipedia.org/wiki/Reform_Judaism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Christianity",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Christianity-Abrahamic_religions",
+        "children": [
+          {
+            "name": "Branches",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Branches-Christianity",
+            "children": [
+              {
+                "name": "Catholic Church",
+                "link": "https://en.wikipedia.org/wiki/Catholic_Church",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Eastern Catholic Churches",
+                    "link": "https://en.wikipedia.org/wiki/Eastern_Catholic_Churches",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Eastern Christianity",
+                "link": "https://en.wikipedia.org/wiki/Eastern_Christianity",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Eastern Orthodox Church",
+                    "link": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Ecumenical Patriarchate of Constantinople",
+                        "link": "https://en.wikipedia.org/wiki/Ecumenical_Patriarchate_of_Constantinople",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Russian Orthodox Church",
+                        "link": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Oriental Orthodox Churches",
+                    "link": "https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Coptic Orthodox Church",
+                        "link": "https://en.wikipedia.org/wiki/Coptic_Orthodox_Church",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Ethiopian Orthodox Tewahedo Church",
+                        "link": "https://en.wikipedia.org/wiki/Ethiopian_Orthodox_Tewahedo_Church",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Nontrinitarianism",
+                "link": "https://en.wikipedia.org/wiki/Nontrinitarianism",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Jehovah's Witnesses",
+                    "link": "https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Mormonism",
+                    "link": "https://en.wikipedia.org/wiki/Mormonism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Unitarianism",
+                    "link": "https://en.wikipedia.org/wiki/Unitarianism",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Protestantism",
+                "link": "https://en.wikipedia.org/wiki/Protestantism",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Anglicanism",
+                    "link": "https://en.wikipedia.org/wiki/Anglicanism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Arminianism",
+                    "link": "https://en.wikipedia.org/wiki/Arminianism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Baptists",
+                    "link": "https://en.wikipedia.org/wiki/Baptists",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Reformed Christianity",
+                    "link": "https://en.wikipedia.org/wiki/Reformed_Christianity",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Evangelicalism",
+                    "link": "https://en.wikipedia.org/wiki/Evangelicalism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Lutheranism",
+                    "link": "https://en.wikipedia.org/wiki/Lutheranism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Methodism",
+                    "link": "https://en.wikipedia.org/wiki/Methodism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Pentecostalism",
+                    "link": "https://en.wikipedia.org/wiki/Pentecostalism",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Quakers",
+                    "link": "https://en.wikipedia.org/wiki/Quakers",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Seventh-day Adventist Church",
+                    "link": "https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Concepts",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Concepts_4-Christianity",
+            "children": [
+              {
+                "name": "Catholicity",
+                "link": "https://en.wikipedia.org/wiki/Catholicity",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Pope",
+                    "link": "https://en.wikipedia.org/wiki/Pope",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Purgatory",
+                    "link": "https://en.wikipedia.org/wiki/Purgatory",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Baptism",
+                "link": "https://en.wikipedia.org/wiki/Baptism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Church (congregation)",
+                "link": "https://en.wikipedia.org/wiki/Church_(congregation)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Church (building)",
+                "link": "https://en.wikipedia.org/wiki/Church_(building)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ecumenism",
+                "link": "https://en.wikipedia.org/wiki/Ecumenism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Eucharist",
+                "link": "https://en.wikipedia.org/wiki/Eucharist",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Grace",
+                "link": "https://en.wikipedia.org/wiki/Grace_in_Christianity",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Second Coming",
+                "link": "https://en.wikipedia.org/wiki/Second_Coming",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Trinity",
+                "link": "https://en.wikipedia.org/wiki/Trinity",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Islam",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Islam-Abrahamic_religions",
+        "children": [
+          {
+            "name": "Islamic schools and branches",
+            "link": "https://en.wikipedia.org/wiki/Islamic_schools_and_branches",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Sunni Islam",
+                "link": "https://en.wikipedia.org/wiki/Sunni_Islam",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Shia Islam",
+                "link": "https://en.wikipedia.org/wiki/Shia_Islam",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sufism",
+                "link": "https://en.wikipedia.org/wiki/Sufism",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Quran",
+            "link": "https://en.wikipedia.org/wiki/Quran",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Allah",
+            "link": "https://en.wikipedia.org/wiki/Allah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Five Pillars of Islam",
+            "link": "https://en.wikipedia.org/wiki/Five_Pillars_of_Islam",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Hajj",
+                "link": "https://en.wikipedia.org/wiki/Hajj",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fiqh",
+            "link": "https://en.wikipedia.org/wiki/Fiqh",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hadith",
+            "link": "https://en.wikipedia.org/wiki/Hadith",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Halal",
+            "link": "https://en.wikipedia.org/wiki/Halal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Haram",
+            "link": "https://en.wikipedia.org/wiki/Haram",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Imam",
+            "link": "https://en.wikipedia.org/wiki/Imam",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mosque",
+            "link": "https://en.wikipedia.org/wiki/Mosque",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sharia",
+            "link": "https://en.wikipedia.org/wiki/Sharia",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eastern religions",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Eastern_religions-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Major religions",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Major_religions-Eastern_religions",
+        "children": [
+          {
+            "name": "Hinduism",
+            "link": "https://en.wikipedia.org/wiki/Hinduism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Buddhism",
+            "link": "https://en.wikipedia.org/wiki/Buddhism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Jainism",
+            "link": "https://en.wikipedia.org/wiki/Jainism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sikhism",
+            "link": "https://en.wikipedia.org/wiki/Sikhism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Taoism",
+            "link": "https://en.wikipedia.org/wiki/Taoism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shinto",
+            "link": "https://en.wikipedia.org/wiki/Shinto",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Manichaeism",
+            "link": "https://en.wikipedia.org/wiki/Manichaeism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Common concepts",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Common_concepts_2-Eastern_religions",
+        "children": [
+          {
+            "name": "Dhammapada",
+            "link": "https://en.wikipedia.org/wiki/Dhammapada",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dharma",
+            "link": "https://en.wikipedia.org/wiki/Dharma",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Karma",
+            "link": "https://en.wikipedia.org/wiki/Karma",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mantra",
+            "link": "https://en.wikipedia.org/wiki/Mantra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Om",
+            "link": "https://en.wikipedia.org/wiki/Om",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Qi",
+            "link": "https://en.wikipedia.org/wiki/Qi",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Swastika",
+            "link": "https://en.wikipedia.org/wiki/Swastika",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tantra",
+            "link": "https://en.wikipedia.org/wiki/Tantra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Yin and yang",
+            "link": "https://en.wikipedia.org/wiki/Yin_and_yang",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Yoga",
+            "link": "https://en.wikipedia.org/wiki/Yoga",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Buddhism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Buddhism-Eastern_religions",
+        "children": [
+          {
+            "name": "Mahayana",
+            "link": "https://en.wikipedia.org/wiki/Mahayana",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Avalokiteśvara",
+                "link": "https://en.wikipedia.org/wiki/Avalokite%C5%9Bvara",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Theravada",
+            "link": "https://en.wikipedia.org/wiki/Theravada",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Pali Canon",
+                "link": "https://en.wikipedia.org/wiki/Pali_Canon",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Vajrayana",
+            "link": "https://en.wikipedia.org/wiki/Vajrayana",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Four Noble Truths",
+            "link": "https://en.wikipedia.org/wiki/Four_Noble_Truths",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nirvana",
+            "link": "https://en.wikipedia.org/wiki/Nirvana",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Zen",
+            "link": "https://en.wikipedia.org/wiki/Zen",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hinduism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Hinduism-Eastern_religions",
+        "children": [
+          {
+            "name": "Bhagavad Gita",
+            "link": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vedas",
+            "link": "https://en.wikipedia.org/wiki/Vedas",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Brahman",
+            "link": "https://en.wikipedia.org/wiki/Brahman",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Kumbh Mela",
+            "link": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shaivism",
+            "link": "https://en.wikipedia.org/wiki/Shaivism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shaktism",
+            "link": "https://en.wikipedia.org/wiki/Shaktism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Upanishads",
+            "link": "https://en.wikipedia.org/wiki/Upanishads",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vaishnavism",
+            "link": "https://en.wikipedia.org/wiki/Vaishnavism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vedanta",
+            "link": "https://en.wikipedia.org/wiki/Vedanta",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sikhism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Sikhism-Eastern_religions",
+        "children": []
+      },
+      {
+        "name": "Taoism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Taoism-Eastern_religions",
+        "children": [
+          {
+            "name": "Zhuangzi(book)",
+            "link": "https://en.wikipedia.org/wiki/Zhuangzi_(book)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Shinto",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Shinto-Eastern_religions",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Other religions",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Other_religions-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Other religions: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Other_religions:_General-Other_religions",
+        "children": [
+          {
+            "name": "Shamanism",
+            "link": "https://en.wikipedia.org/wiki/Shamanism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Zoroastrianism",
+            "link": "https://en.wikipedia.org/wiki/Zoroastrianism",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Avesta",
+                "link": "https://en.wikipedia.org/wiki/Avesta",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Chinese folk religion",
+            "link": "https://en.wikipedia.org/wiki/Chinese_folk_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Haitian Vodou",
+            "link": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Traditional African religions",
+            "link": "https://en.wikipedia.org/wiki/Traditional_African_religions",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Yoruba religion",
+                "link": "https://en.wikipedia.org/wiki/Yoruba_religion",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ancient religions",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Ancient_religions-Other_religions",
+        "children": [
+          {
+            "name": "Prehistoric religion",
+            "link": "https://en.wikipedia.org/wiki/Prehistoric_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Celtic religion",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Celtic_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Egyptian religion",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Greek religion",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Mesopotamian religion",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Aztec religion",
+            "link": "https://en.wikipedia.org/wiki/Aztec_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Germanic paganism",
+            "link": "https://en.wikipedia.org/wiki/Germanic_paganism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Maya religion",
+            "link": "https://en.wikipedia.org/wiki/Maya_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Old Norse religion",
+            "link": "https://en.wikipedia.org/wiki/Old_Norse_religion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Religion in ancient Rome",
+            "link": "https://en.wikipedia.org/wiki/Religion_in_ancient_Rome",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Religion in pre-Islamic Arabia",
+            "link": "https://en.wikipedia.org/wiki/Religion_in_pre-Islamic_Arabia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Slavic paganism",
+            "link": "https://en.wikipedia.org/wiki/Slavic_paganism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Western esotericism",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Western_esotericism-Other_religions",
+        "children": [
+          {
+            "name": "Western esotericism",
+            "link": "https://en.wikipedia.org/wiki/Western_esotericism",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Freemasonry",
+                "link": "https://en.wikipedia.org/wiki/Freemasonry",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "New Age",
+                "link": "https://en.wikipedia.org/wiki/New_Age",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "New religious movements",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-New_religious_movements-Other_religions",
+        "children": [
+          {
+            "name": "New religious movement",
+            "link": "https://en.wikipedia.org/wiki/New_religious_movement",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Falun Gong",
+                "link": "https://en.wikipedia.org/wiki/Falun_Gong",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Modern paganism",
+                "link": "https://en.wikipedia.org/wiki/Modern_paganism",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Wicca",
+                    "link": "https://en.wikipedia.org/wiki/Wicca",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Satanism",
+                "link": "https://en.wikipedia.org/wiki/Satanism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spiritualism (movement)",
+                "link": "https://en.wikipedia.org/wiki/Spiritualism_(movement)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mythology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Mythology-Philosophy_and_religion",
+    "children": [
+      {
+        "name": "Mythology: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Mythology:_General-Mythology",
+        "children": [
+          {
+            "name": "Folklore",
+            "link": "https://en.wikipedia.org/wiki/Folklore",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Legendary creature",
+            "link": "https://en.wikipedia.org/wiki/Legendary_creature",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Myth",
+            "link": "https://en.wikipedia.org/wiki/Myth",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Comparative mythology",
+                "link": "https://en.wikipedia.org/wiki/Comparative_mythology",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Paradise",
+            "link": "https://en.wikipedia.org/wiki/Paradise",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "By culture",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-By_culture-Mythology",
+        "children": [
+          {
+            "name": "Australian Aboriginal religion and mythology",
+            "link": "https://en.wikipedia.org/wiki/Australian_Aboriginal_religion_and_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chinese mythology",
+            "link": "https://en.wikipedia.org/wiki/Chinese_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Egyptian mythology",
+            "link": "https://en.wikipedia.org/wiki/Egyptian_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Greek mythology",
+            "link": "https://en.wikipedia.org/wiki/Greek_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Japanese mythology",
+            "link": "https://en.wikipedia.org/wiki/Japanese_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Korean mythology",
+            "link": "https://en.wikipedia.org/wiki/Korean_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mythologies of the Indigenous peoples of the Americas",
+            "link": "https://en.wikipedia.org/wiki/Mythologies_of_the_Indigenous_peoples_of_the_Americas",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Norse mythology",
+            "link": "https://en.wikipedia.org/wiki/Norse_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Persian mythology",
+            "link": "https://en.wikipedia.org/wiki/Persian_mythology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Roman mythology",
+            "link": "https://en.wikipedia.org/wiki/Roman_mythology",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Abrahamic mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Abrahamic_mythology-Mythology",
+        "children": [
+          {
+            "name": "Abraham",
+            "link": "https://en.wikipedia.org/wiki/Abraham",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Adam and Eve",
+            "link": "https://en.wikipedia.org/wiki/Adam_and_Eve",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cain and Abel",
+                "link": "https://en.wikipedia.org/wiki/Cain_and_Abel",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Daniel (biblical figure)",
+            "link": "https://en.wikipedia.org/wiki/Daniel_(biblical_figure)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "David",
+            "link": "https://en.wikipedia.org/wiki/David",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Elijah",
+            "link": "https://en.wikipedia.org/wiki/Elijah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ezra",
+            "link": "https://en.wikipedia.org/wiki/Ezra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Isaac",
+            "link": "https://en.wikipedia.org/wiki/Isaac",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Isaiah",
+            "link": "https://en.wikipedia.org/wiki/Isaiah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ishmael",
+            "link": "https://en.wikipedia.org/wiki/Ishmael",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Jacob",
+            "link": "https://en.wikipedia.org/wiki/Jacob",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Joseph (Genesis)",
+            "link": "https://en.wikipedia.org/wiki/Joseph_(Genesis)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Moses",
+            "link": "https://en.wikipedia.org/wiki/Moses",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Noah",
+            "link": "https://en.wikipedia.org/wiki/Noah",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Solomon",
+            "link": "https://en.wikipedia.org/wiki/Solomon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Yahweh",
+            "link": "https://en.wikipedia.org/wiki/Yahweh",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Egyptian mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Egyptian_mythology-Mythology",
+        "children": [
+          {
+            "name": "Amun",
+            "link": "https://en.wikipedia.org/wiki/Amun",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Anubis",
+            "link": "https://en.wikipedia.org/wiki/Anubis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hathor",
+            "link": "https://en.wikipedia.org/wiki/Hathor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Horus",
+            "link": "https://en.wikipedia.org/wiki/Horus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Isis",
+            "link": "https://en.wikipedia.org/wiki/Isis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Osiris",
+            "link": "https://en.wikipedia.org/wiki/Osiris",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ra",
+            "link": "https://en.wikipedia.org/wiki/Ra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Thoth",
+            "link": "https://en.wikipedia.org/wiki/Thoth",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hindu mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Hindu_mythology-Mythology",
+        "children": [
+          {
+            "name": "Brahma",
+            "link": "https://en.wikipedia.org/wiki/Brahma",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ganesha",
+            "link": "https://en.wikipedia.org/wiki/Ganesha",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Kali",
+            "link": "https://en.wikipedia.org/wiki/Kali",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Krishna",
+            "link": "https://en.wikipedia.org/wiki/Krishna",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rama",
+            "link": "https://en.wikipedia.org/wiki/Rama",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shiva",
+            "link": "https://en.wikipedia.org/wiki/Shiva",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vishnu",
+            "link": "https://en.wikipedia.org/wiki/Vishnu",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Greco-Roman mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Greco-Roman_mythology-Mythology",
+        "children": [
+          {
+            "name": "Greek mythological heroes",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Greek_mythological_heroes-Greco-Roman_mythology",
+            "children": [
+              {
+                "name": "Achilles",
+                "link": "https://en.wikipedia.org/wiki/Achilles",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Aeneas",
+                "link": "https://en.wikipedia.org/wiki/Aeneas",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Amazons",
+                "link": "https://en.wikipedia.org/wiki/Amazons",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Heracles",
+                "link": "https://en.wikipedia.org/wiki/Heracles",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Odysseus",
+                "link": "https://en.wikipedia.org/wiki/Odysseus",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Perseus",
+                "link": "https://en.wikipedia.org/wiki/Perseus",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Greek deities",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Greek_deities-Greco-Roman_mythology",
+            "children": [
+              {
+                "name": "Aphrodite",
+                "link": "https://en.wikipedia.org/wiki/Aphrodite",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Apollo",
+                "link": "https://en.wikipedia.org/wiki/Apollo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Artemis",
+                "link": "https://en.wikipedia.org/wiki/Artemis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Athena",
+                "link": "https://en.wikipedia.org/wiki/Athena",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Demeter",
+                "link": "https://en.wikipedia.org/wiki/Demeter",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hades",
+                "link": "https://en.wikipedia.org/wiki/Hades",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hera",
+                "link": "https://en.wikipedia.org/wiki/Hera",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hermes",
+                "link": "https://en.wikipedia.org/wiki/Hermes",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hephaestus",
+                "link": "https://en.wikipedia.org/wiki/Hephaestus",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Poseidon",
+                "link": "https://en.wikipedia.org/wiki/Poseidon",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Titans",
+                "link": "https://en.wikipedia.org/wiki/Titans",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Zeus",
+                "link": "https://en.wikipedia.org/wiki/Zeus",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Roman deities",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Roman_deities-Greco-Roman_mythology",
+            "children": [
+              {
+                "name": "Jupiter (god)",
+                "link": "https://en.wikipedia.org/wiki/Jupiter_(god)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mars (mythology)",
+                "link": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Minerva",
+                "link": "https://en.wikipedia.org/wiki/Minerva",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Venus (mythology)",
+                "link": "https://en.wikipedia.org/wiki/Venus_(mythology)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Chinese mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Chinese_mythology-Mythology",
+        "children": [
+          {
+            "name": "Jade Emperor",
+            "link": "https://en.wikipedia.org/wiki/Jade_Emperor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Three Sovereigns and Five Emperors",
+            "link": "https://en.wikipedia.org/wiki/Three_Sovereigns_and_Five_Emperors",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Yellow Emperor",
+                "link": "https://en.wikipedia.org/wiki/Yellow_Emperor",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mesopotamian mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Mesopotamian_mythology-Mythology",
+        "children": [
+          {
+            "name": "Enki",
+            "link": "https://en.wikipedia.org/wiki/Enki",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Enlil",
+            "link": "https://en.wikipedia.org/wiki/Enlil",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Inanna",
+            "link": "https://en.wikipedia.org/wiki/Inanna",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Native American mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Native_American_mythology-Mythology",
+        "children": [
+          {
+            "name": "Coyote (mythology)",
+            "link": "https://en.wikipedia.org/wiki/Coyote_(mythology)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Great Spirit",
+            "link": "https://en.wikipedia.org/wiki/Great_Spirit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Quetzalcōātl",
+            "link": "https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Norse mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Norse_mythology-Mythology",
+        "children": [
+          {
+            "name": "Odin",
+            "link": "https://en.wikipedia.org/wiki/Odin",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Freyja",
+            "link": "https://en.wikipedia.org/wiki/Freyja",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Thor",
+            "link": "https://en.wikipedia.org/wiki/Thor",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Other mythology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Other_mythology-Mythology",
+        "children": [
+          {
+            "name": "African mythology",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-African_mythology-Other_mythology",
+            "children": [
+              {
+                "name": "Anansi",
+                "link": "https://en.wikipedia.org/wiki/Anansi",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Central Asia mythology",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Central_Asia_mythology-Other_mythology",
+            "children": [
+              {
+                "name": "Tengri",
+                "link": "https://en.wikipedia.org/wiki/Tengri",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Shinto mythology",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Shinto_mythology-Other_mythology",
+            "children": [
+              {
+                "name": "Amaterasu",
+                "link": "https://en.wikipedia.org/wiki/Amaterasu",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mythological creatures",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Mythological_creatures-Mythology",
+        "children": [
+          {
+            "name": "Angel",
+            "link": "https://en.wikipedia.org/wiki/Angel",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Centaur",
+            "link": "https://en.wikipedia.org/wiki/Centaur",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Personifications of death",
+            "link": "https://en.wikipedia.org/wiki/Personifications_of_death",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Demon",
+            "link": "https://en.wikipedia.org/wiki/Demon",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Lilith",
+                "link": "https://en.wikipedia.org/wiki/Lilith",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Devil",
+            "link": "https://en.wikipedia.org/wiki/Devil",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Satan",
+                "link": "https://en.wikipedia.org/wiki/Satan",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dragon",
+            "link": "https://en.wikipedia.org/wiki/Dragon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fairy",
+            "link": "https://en.wikipedia.org/wiki/Fairy",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Leprechaun",
+                "link": "https://en.wikipedia.org/wiki/Leprechaun",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Ghost",
+            "link": "https://en.wikipedia.org/wiki/Ghost",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Giant",
+            "link": "https://en.wikipedia.org/wiki/Giant",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Jinn",
+            "link": "https://en.wikipedia.org/wiki/Jinn",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mermaid",
+            "link": "https://en.wikipedia.org/wiki/Mermaid",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Minotaur",
+            "link": "https://en.wikipedia.org/wiki/Minotaur",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pegasus",
+            "link": "https://en.wikipedia.org/wiki/Pegasus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Phoenix (mythology)",
+            "link": "https://en.wikipedia.org/wiki/Phoenix_(mythology)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Siren (mythology)",
+            "link": "https://en.wikipedia.org/wiki/Siren_(mythology)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sphinx",
+            "link": "https://en.wikipedia.org/wiki/Sphinx",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Unicorn",
+            "link": "https://en.wikipedia.org/wiki/Unicorn",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vampire",
+            "link": "https://en.wikipedia.org/wiki/Vampire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Werewolf",
+            "link": "https://en.wikipedia.org/wiki/Werewolf",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Zombie",
+            "link": "https://en.wikipedia.org/wiki/Zombie",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mythological places",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Mythological_places-Mythology",
+        "children": [
+          {
+            "name": "Atlantis",
+            "link": "https://en.wikipedia.org/wiki/Atlantis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "El Dorado",
+            "link": "https://en.wikipedia.org/wiki/El_Dorado",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mythological items",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Mythological_items-Mythology",
+        "children": [
+          {
+            "name": "Holy Grail",
+            "link": "https://en.wikipedia.org/wiki/Holy_Grail",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

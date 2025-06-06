@@ -1,0 +1,1936 @@
+[
+  {
+    "name": "Basics",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Basics-Mathematics",
+    "children": [
+      {
+        "name": "Mathematics",
+        "link": "https://en.wikipedia.org/wiki/Mathematics",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Arithmetic",
+        "link": "https://en.wikipedia.org/wiki/Arithmetic",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Addition",
+            "link": "https://en.wikipedia.org/wiki/Addition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Subtraction",
+            "link": "https://en.wikipedia.org/wiki/Subtraction",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Multiplication",
+            "link": "https://en.wikipedia.org/wiki/Multiplication",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Division",
+            "link": "https://en.wikipedia.org/wiki/Division_(mathematics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Euclidean algorithm",
+                "link": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fraction",
+            "link": "https://en.wikipedia.org/wiki/Fraction",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Percentage",
+                "link": "https://en.wikipedia.org/wiki/Percentage",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Modular arithmetic",
+            "link": "https://en.wikipedia.org/wiki/Modular_arithmetic",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Number",
+        "link": "https://en.wikipedia.org/wiki/Number",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Integer",
+            "link": "https://en.wikipedia.org/wiki/Integer",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Natural number",
+                "link": "https://en.wikipedia.org/wiki/Natural_number",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Parity",
+                "link": "https://en.wikipedia.org/wiki/Parity_(mathematics)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Real number",
+            "link": "https://en.wikipedia.org/wiki/Real_number",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Rational number",
+                "link": "https://en.wikipedia.org/wiki/Rational_number",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Irrational number",
+                "link": "https://en.wikipedia.org/wiki/Irrational_number",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Negative number",
+                "link": "https://en.wikipedia.org/wiki/Negative_number",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Complex number",
+            "link": "https://en.wikipedia.org/wiki/Complex_number",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Imaginary number",
+                "link": "https://en.wikipedia.org/wiki/Imaginary_number",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Positional notation",
+        "link": "https://en.wikipedia.org/wiki/Positional_notation",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Numerical digit",
+            "link": "https://en.wikipedia.org/wiki/Numerical_digit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Decimal",
+            "link": "https://en.wikipedia.org/wiki/Decimal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Arabic numerals",
+            "link": "https://en.wikipedia.org/wiki/Arabic_numerals",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Roman numerals",
+            "link": "https://en.wikipedia.org/wiki/Roman_numerals",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Binary number",
+            "link": "https://en.wikipedia.org/wiki/Binary_number",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Scientific notation",
+        "link": "https://en.wikipedia.org/wiki/Scientific_notation",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Order of operations",
+        "link": "https://en.wikipedia.org/wiki/Order_of_operations",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Function",
+        "link": "https://en.wikipedia.org/wiki/Function_(mathematics)",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Exponentiation",
+            "link": "https://en.wikipedia.org/wiki/Exponentiation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Logarithm",
+            "link": "https://en.wikipedia.org/wiki/Logarithm",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "nth root",
+            "link": "https://en.wikipedia.org/wiki/Nth_root",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Square root",
+                "link": "https://en.wikipedia.org/wiki/Square_root",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Exponential function",
+            "link": "https://en.wikipedia.org/wiki/Exponential_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Inverse function",
+            "link": "https://en.wikipedia.org/wiki/Inverse_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Implicit function",
+            "link": "https://en.wikipedia.org/wiki/Implicit_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Function composition",
+            "link": "https://en.wikipedia.org/wiki/Function_composition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Graph of a function",
+            "link": "https://en.wikipedia.org/wiki/Graph_of_a_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Parametric equation",
+            "link": "https://en.wikipedia.org/wiki/Parametric_equation",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Equation",
+        "link": "https://en.wikipedia.org/wiki/Equation",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Series",
+            "link": "https://en.wikipedia.org/wiki/Series_(mathematics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Equation solving",
+            "link": "https://en.wikipedia.org/wiki/Equation_solving",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polynomial",
+            "link": "https://en.wikipedia.org/wiki/Polynomial",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Variable",
+        "link": "https://en.wikipedia.org/wiki/Variable_(mathematics)",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Constant",
+        "link": "https://en.wikipedia.org/wiki/Constant_(mathematics)",
+        "layer": 2,
+        "children": [
+          {
+            "name": "π",
+            "link": "https://en.wikipedia.org/wiki/Pi",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "e",
+            "link": "https://en.wikipedia.org/wiki/E_(mathematical_constant)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "i",
+            "link": "https://en.wikipedia.org/wiki/Imaginary_unit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "0",
+            "link": "https://en.wikipedia.org/wiki/0",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "1",
+            "link": "https://en.wikipedia.org/wiki/1",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Golden ratio",
+            "link": "https://en.wikipedia.org/wiki/Golden_ratio",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Formula",
+        "link": "https://en.wikipedia.org/wiki/Formula",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Theorem",
+        "link": "https://en.wikipedia.org/wiki/Theorem",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Conjecture",
+        "link": "https://en.wikipedia.org/wiki/Conjecture",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Factorial",
+        "link": "https://en.wikipedia.org/wiki/Factorial",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Gamma function",
+            "link": "https://en.wikipedia.org/wiki/Gamma_function",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hilbert's problems",
+        "link": "https://en.wikipedia.org/wiki/Hilbert%27s_problems",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Geometry",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Geometry-Mathematics",
+    "children": [
+      {
+        "name": "Geometry",
+        "link": "https://en.wikipedia.org/wiki/Geometry",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Coordinate system",
+        "link": "https://en.wikipedia.org/wiki/Coordinate_system",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Cartesian coordinate system",
+            "link": "https://en.wikipedia.org/wiki/Cartesian_coordinate_system",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polar coordinate system",
+            "link": "https://en.wikipedia.org/wiki/Polar_coordinate_system",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dimension",
+        "link": "https://en.wikipedia.org/wiki/Dimension",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Point",
+        "link": "https://en.wikipedia.org/wiki/Point_(geometry)",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Line",
+        "link": "https://en.wikipedia.org/wiki/Line_(geometry)",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Curve",
+        "link": "https://en.wikipedia.org/wiki/Curve",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Euclidean plane",
+        "link": "https://en.wikipedia.org/wiki/Euclidean_plane",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Plane (mathematics)",
+            "link": "https://en.wikipedia.org/wiki/Plane_(mathematics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Angle",
+            "link": "https://en.wikipedia.org/wiki/Angle",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Right angle",
+                "link": "https://en.wikipedia.org/wiki/Right_angle",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Area",
+            "link": "https://en.wikipedia.org/wiki/Area",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shape",
+            "link": "https://en.wikipedia.org/wiki/Shape",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polygon",
+            "link": "https://en.wikipedia.org/wiki/Polygon",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Triangle",
+                "link": "https://en.wikipedia.org/wiki/Triangle",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Quadrilateral",
+                "link": "https://en.wikipedia.org/wiki/Quadrilateral",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Square",
+                    "link": "https://en.wikipedia.org/wiki/Square",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Conic section",
+            "link": "https://en.wikipedia.org/wiki/Conic_section",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Circle",
+                "link": "https://en.wikipedia.org/wiki/Circle",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ellipse",
+                "link": "https://en.wikipedia.org/wiki/Ellipse",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Parabola",
+                "link": "https://en.wikipedia.org/wiki/Parabola",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hyperbola",
+                "link": "https://en.wikipedia.org/wiki/Hyperbola",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Three-dimensional space",
+        "link": "https://en.wikipedia.org/wiki/Three-dimensional_space",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Volume",
+            "link": "https://en.wikipedia.org/wiki/Volume",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sphere",
+            "link": "https://en.wikipedia.org/wiki/Sphere",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polyhedron",
+            "link": "https://en.wikipedia.org/wiki/Polyhedron",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cube",
+                "link": "https://en.wikipedia.org/wiki/Cube",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Trigonometry",
+        "link": "https://en.wikipedia.org/wiki/Trigonometry",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Trigonometric functions",
+            "link": "https://en.wikipedia.org/wiki/Trigonometric_functions",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hyperbolic functions",
+            "link": "https://en.wikipedia.org/wiki/Hyperbolic_functions",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Topology",
+        "link": "https://en.wikipedia.org/wiki/Topology",
+        "layer": 2,
+        "children": [
+          {
+            "name": "General topology",
+            "link": "https://en.wikipedia.org/wiki/General_topology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Topological space",
+            "link": "https://en.wikipedia.org/wiki/Topological_space",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Compact space",
+            "link": "https://en.wikipedia.org/wiki/Compact_space",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Manifold",
+            "link": "https://en.wikipedia.org/wiki/Manifold",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Open set",
+            "link": "https://en.wikipedia.org/wiki/Open_set",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Homology",
+            "link": "https://en.wikipedia.org/wiki/Homology_(mathematics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Homotopy",
+            "link": "https://en.wikipedia.org/wiki/Homotopy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Euler characteristic",
+            "link": "https://en.wikipedia.org/wiki/Euler_characteristic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Knot theory",
+            "link": "https://en.wikipedia.org/wiki/Knot_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Poincaré conjecture",
+            "link": "https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Length",
+        "link": "https://en.wikipedia.org/wiki/Length",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Distance",
+        "link": "https://en.wikipedia.org/wiki/Distance",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Metric space",
+            "link": "https://en.wikipedia.org/wiki/Metric_space",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Symmetry",
+        "link": "https://en.wikipedia.org/wiki/Symmetry",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Symmetry in mathematics",
+            "link": "https://en.wikipedia.org/wiki/Symmetry_in_mathematics",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Analytic geometry",
+        "link": "https://en.wikipedia.org/wiki/Analytic_geometry",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Differential geometry",
+        "link": "https://en.wikipedia.org/wiki/Differential_geometry",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Riemannian geometry",
+            "link": "https://en.wikipedia.org/wiki/Riemannian_geometry",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Riemannian manifold",
+                "link": "https://en.wikipedia.org/wiki/Riemannian_manifold",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Euclidean geometry",
+        "link": "https://en.wikipedia.org/wiki/Euclidean_geometry",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Convex set",
+            "link": "https://en.wikipedia.org/wiki/Convex_set",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pythagorean theorem",
+            "link": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Non-Euclidean geometry",
+        "link": "https://en.wikipedia.org/wiki/Non-Euclidean_geometry",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Fractal",
+        "link": "https://en.wikipedia.org/wiki/Fractal",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Tensor",
+        "link": "https://en.wikipedia.org/wiki/Tensor",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Tessellation",
+        "link": "https://en.wikipedia.org/wiki/Tessellation",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Algebra",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Algebra-Mathematics",
+    "children": [
+      {
+        "name": "Algebra",
+        "link": "https://en.wikipedia.org/wiki/Algebra",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Elementary algebra",
+            "link": "https://en.wikipedia.org/wiki/Elementary_algebra",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Linear algebra",
+        "link": "https://en.wikipedia.org/wiki/Linear_algebra",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Linear equation",
+            "link": "https://en.wikipedia.org/wiki/Linear_equation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Gaussian elimination",
+            "link": "https://en.wikipedia.org/wiki/Gaussian_elimination",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Matrix",
+            "link": "https://en.wikipedia.org/wiki/Matrix_(mathematics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Determinant",
+                "link": "https://en.wikipedia.org/wiki/Determinant",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Eigenvalues and eigenvectors",
+                "link": "https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Vector space",
+            "link": "https://en.wikipedia.org/wiki/Vector_space",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Euclidean vector",
+                "link": "https://en.wikipedia.org/wiki/Euclidean_vector",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Cross product",
+                    "link": "https://en.wikipedia.org/wiki/Cross_product",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Dot product",
+                    "link": "https://en.wikipedia.org/wiki/Dot_product",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Algebraic geometry",
+        "link": "https://en.wikipedia.org/wiki/Algebraic_geometry",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Algebraic variety",
+            "link": "https://en.wikipedia.org/wiki/Algebraic_variety",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Boolean algebra",
+        "link": "https://en.wikipedia.org/wiki/Boolean_algebra",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Inequality",
+        "link": "https://en.wikipedia.org/wiki/Inequality_(mathematics)",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Quadratic equation",
+        "link": "https://en.wikipedia.org/wiki/Quadratic_equation",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Abstract algebra",
+        "link": "https://en.wikipedia.org/wiki/Abstract_algebra",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Algebraic topology",
+            "link": "https://en.wikipedia.org/wiki/Algebraic_topology",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Sheaf",
+                "link": "https://en.wikipedia.org/wiki/Sheaf_(mathematics)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Associative property",
+            "link": "https://en.wikipedia.org/wiki/Associative_property",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Commutative algebra",
+            "link": "https://en.wikipedia.org/wiki/Commutative_algebra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Commutative property",
+            "link": "https://en.wikipedia.org/wiki/Commutative_property",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Distributive property",
+            "link": "https://en.wikipedia.org/wiki/Distributive_property",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Field (mathematics)",
+            "link": "https://en.wikipedia.org/wiki/Field_(mathematics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fundamental theorem of algebra",
+            "link": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Galois theory",
+            "link": "https://en.wikipedia.org/wiki/Galois_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Group",
+            "link": "https://en.wikipedia.org/wiki/Group_(mathematics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Abelian group",
+                "link": "https://en.wikipedia.org/wiki/Abelian_group",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Classification of finite simple groups",
+                "link": "https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fundamental group",
+                "link": "https://en.wikipedia.org/wiki/Fundamental_group",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Group representation",
+                "link": "https://en.wikipedia.org/wiki/Group_representation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Group theory",
+                "link": "https://en.wikipedia.org/wiki/Group_theory",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Homological algebra",
+            "link": "https://en.wikipedia.org/wiki/Homological_algebra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Isomorphism",
+            "link": "https://en.wikipedia.org/wiki/Isomorphism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Module",
+            "link": "https://en.wikipedia.org/wiki/Module_(mathematics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Representation theory",
+            "link": "https://en.wikipedia.org/wiki/Representation_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ring theory",
+            "link": "https://en.wikipedia.org/wiki/Ring_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Commutative ring",
+                "link": "https://en.wikipedia.org/wiki/Commutative_ring",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ring",
+                "link": "https://en.wikipedia.org/wiki/Ring_(mathematics)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Statistics and probability",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Statistics_and_probability-Mathematics",
+    "children": [
+      {
+        "name": "Statistics",
+        "link": "https://en.wikipedia.org/wiki/Statistics",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Bayesian inference",
+            "link": "https://en.wikipedia.org/wiki/Bayesian_inference",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Correlation",
+            "link": "https://en.wikipedia.org/wiki/Correlation",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Regression",
+                "link": "https://en.wikipedia.org/wiki/Regression_analysis",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Least squares",
+                    "link": "https://en.wikipedia.org/wiki/Ordinary_least_squares",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Covariance",
+            "link": "https://en.wikipedia.org/wiki/Covariance",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Data and information visualization",
+            "link": "https://en.wikipedia.org/wiki/Data_and_information_visualization",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Design of experiments",
+            "link": "https://en.wikipedia.org/wiki/Design_of_experiments",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Randomized controlled trial",
+                "link": "https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mean",
+            "link": "https://en.wikipedia.org/wiki/Mean",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Median",
+            "link": "https://en.wikipedia.org/wiki/Median",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Meta-analysis",
+            "link": "https://en.wikipedia.org/wiki/Meta-analysis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mode",
+            "link": "https://en.wikipedia.org/wiki/Mode_(statistics)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Observational study",
+            "link": "https://en.wikipedia.org/wiki/Observational_study",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Standard deviation",
+            "link": "https://en.wikipedia.org/wiki/Standard_deviation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Standard error",
+            "link": "https://en.wikipedia.org/wiki/Standard_error",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Statistical hypothesis test",
+            "link": "https://en.wikipedia.org/wiki/Statistical_hypothesis_test",
+            "layer": 3,
+            "children": [
+              {
+                "name": "p-value",
+                "link": "https://en.wikipedia.org/wiki/P-value",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chi-squared test",
+                "link": "https://en.wikipedia.org/wiki/Chi-squared_test",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Student'st-test",
+                "link": "https://en.wikipedia.org/wiki/Student%27s_t-test",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Survey methodology",
+            "link": "https://en.wikipedia.org/wiki/Survey_methodology",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Statistical population",
+                "link": "https://en.wikipedia.org/wiki/Statistical_population",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sampling",
+                "link": "https://en.wikipedia.org/wiki/Sampling_(statistics)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Probability",
+        "link": "https://en.wikipedia.org/wiki/Probability",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Probability theory",
+            "link": "https://en.wikipedia.org/wiki/Probability_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bayes' theorem",
+            "link": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Central limit theorem",
+            "link": "https://en.wikipedia.org/wiki/Central_limit_theorem",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Expected value",
+            "link": "https://en.wikipedia.org/wiki/Expected_value",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Law of large numbers",
+            "link": "https://en.wikipedia.org/wiki/Law_of_large_numbers",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Markov chain",
+            "link": "https://en.wikipedia.org/wiki/Markov_chain",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Probability density function",
+            "link": "https://en.wikipedia.org/wiki/Probability_density_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Probability distribution",
+            "link": "https://en.wikipedia.org/wiki/Probability_distribution",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Binomial distribution",
+                "link": "https://en.wikipedia.org/wiki/Binomial_distribution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Exponential distribution",
+                "link": "https://en.wikipedia.org/wiki/Exponential_distribution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Normal distribution",
+                "link": "https://en.wikipedia.org/wiki/Normal_distribution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Poisson distribution",
+                "link": "https://en.wikipedia.org/wiki/Poisson_distribution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Discrete uniform distribution",
+                "link": "https://en.wikipedia.org/wiki/Discrete_uniform_distribution",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Random variable",
+            "link": "https://en.wikipedia.org/wiki/Random_variable",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Stochastic process",
+            "link": "https://en.wikipedia.org/wiki/Stochastic_process",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Variance",
+            "link": "https://en.wikipedia.org/wiki/Variance",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Discrete mathematics",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Discrete_mathematics-Mathematics",
+    "children": [
+      {
+        "name": "Discrete mathematics",
+        "link": "https://en.wikipedia.org/wiki/Discrete_mathematics",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Mathematical logic",
+        "link": "https://en.wikipedia.org/wiki/Mathematical_logic",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Mathematical proof",
+            "link": "https://en.wikipedia.org/wiki/Mathematical_proof",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Axiom",
+            "link": "https://en.wikipedia.org/wiki/Axiom",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computability theory",
+            "link": "https://en.wikipedia.org/wiki/Computability_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Computable function",
+                "link": "https://en.wikipedia.org/wiki/Computable_function",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "First-order logic",
+            "link": "https://en.wikipedia.org/wiki/First-order_logic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Gödel's incompleteness theorems",
+            "link": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mathematical induction",
+            "link": "https://en.wikipedia.org/wiki/Mathematical_induction",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Propositional calculus",
+            "link": "https://en.wikipedia.org/wiki/Propositional_calculus",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Combinatorics",
+        "link": "https://en.wikipedia.org/wiki/Combinatorics",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Combination",
+            "link": "https://en.wikipedia.org/wiki/Combination",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Permutation",
+            "link": "https://en.wikipedia.org/wiki/Permutation",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Theoretical computer science",
+        "link": "https://en.wikipedia.org/wiki/Theoretical_computer_science",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Algorithm",
+            "link": "https://en.wikipedia.org/wiki/Algorithm",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Abstract machine",
+            "link": "https://en.wikipedia.org/wiki/Abstract_machine",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Numerical integration",
+                "link": "https://en.wikipedia.org/wiki/Numerical_integration",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Coding theory",
+            "link": "https://en.wikipedia.org/wiki/Coding_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Data compression",
+                "link": "https://en.wikipedia.org/wiki/Data_compression",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Error detection and correction",
+                "link": "https://en.wikipedia.org/wiki/Error_detection_and_correction",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Computational complexity theory",
+            "link": "https://en.wikipedia.org/wiki/Computational_complexity_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "P versus NP problem",
+                "link": "https://en.wikipedia.org/wiki/P_versus_NP_problem",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Data structure",
+            "link": "https://en.wikipedia.org/wiki/Data_structure",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Formal language",
+            "link": "https://en.wikipedia.org/wiki/Formal_language",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Theory of computation",
+            "link": "https://en.wikipedia.org/wiki/Theory_of_computation",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Set theory",
+        "link": "https://en.wikipedia.org/wiki/Set_theory",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Set",
+            "link": "https://en.wikipedia.org/wiki/Set_(mathematics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Empty set",
+                "link": "https://en.wikipedia.org/wiki/Empty_set",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Subset",
+                "link": "https://en.wikipedia.org/wiki/Subset",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Axiom of choice",
+            "link": "https://en.wikipedia.org/wiki/Axiom_of_choice",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cantor's theorem",
+            "link": "https://en.wikipedia.org/wiki/Cantor%27s_theorem",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Equivalence relation",
+            "link": "https://en.wikipedia.org/wiki/Equivalence_relation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Intersection (set theory)",
+            "link": "https://en.wikipedia.org/wiki/Intersection_(set_theory)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Naive set theory",
+            "link": "https://en.wikipedia.org/wiki/Naive_set_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Russell's paradox",
+                "link": "https://en.wikipedia.org/wiki/Russell%27s_paradox",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Union (set theory)",
+            "link": "https://en.wikipedia.org/wiki/Union_(set_theory)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Venn diagram",
+            "link": "https://en.wikipedia.org/wiki/Venn_diagram",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Graph theory",
+        "link": "https://en.wikipedia.org/wiki/Graph_theory",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Graph (discrete mathematics)",
+            "link": "https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Calculus and analysis",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Calculus_and_analysis-Mathematics",
+    "children": [
+      {
+        "name": "Calculus",
+        "link": "https://en.wikipedia.org/wiki/Calculus",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Limit",
+            "link": "https://en.wikipedia.org/wiki/Limit_(mathematics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Infinity",
+                "link": "https://en.wikipedia.org/wiki/Infinity",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Limit of a function",
+                "link": "https://en.wikipedia.org/wiki/Limit_of_a_function",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Limit of a sequence",
+                "link": "https://en.wikipedia.org/wiki/Limit_of_a_sequence",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sequence",
+                "link": "https://en.wikipedia.org/wiki/Sequence",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Fibonacci sequence",
+                    "link": "https://en.wikipedia.org/wiki/Fibonacci_sequence",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Fundamental theorem of calculus",
+            "link": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Continuous function",
+            "link": "https://en.wikipedia.org/wiki/Continuous_function",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Differential calculus",
+            "link": "https://en.wikipedia.org/wiki/Differential_calculus",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Derivative",
+                "link": "https://en.wikipedia.org/wiki/Derivative",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Differential equation",
+                "link": "https://en.wikipedia.org/wiki/Differential_equation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ordinary differential equation",
+                "link": "https://en.wikipedia.org/wiki/Ordinary_differential_equation",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Integral",
+            "link": "https://en.wikipedia.org/wiki/Integral",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Laplace transform",
+                "link": "https://en.wikipedia.org/wiki/Laplace_transform",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Multivariable calculus",
+            "link": "https://en.wikipedia.org/wiki/Multivariable_calculus",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Multiple integral",
+                "link": "https://en.wikipedia.org/wiki/Multiple_integral",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Partial derivative",
+                "link": "https://en.wikipedia.org/wiki/Partial_derivative",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Laplace's equation",
+                    "link": "https://en.wikipedia.org/wiki/Laplace%27s_equation",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Partial differential equation",
+                    "link": "https://en.wikipedia.org/wiki/Partial_differential_equation",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Vector calculus",
+                "link": "https://en.wikipedia.org/wiki/Vector_calculus",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Del",
+                    "link": "https://en.wikipedia.org/wiki/Del",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Taylor series",
+            "link": "https://en.wikipedia.org/wiki/Taylor_series",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mathematical analysis",
+        "link": "https://en.wikipedia.org/wiki/Mathematical_analysis",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Approximation theory",
+            "link": "https://en.wikipedia.org/wiki/Approximation_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Numerical analysis",
+            "link": "https://en.wikipedia.org/wiki/Numerical_analysis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Complex analysis",
+            "link": "https://en.wikipedia.org/wiki/Complex_analysis",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cauchy's integral formula",
+                "link": "https://en.wikipedia.org/wiki/Cauchy%27s_integral_formula",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Euler's formula",
+                "link": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Euler's identity",
+                "link": "https://en.wikipedia.org/wiki/Euler%27s_identity",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Holomorphic function",
+                "link": "https://en.wikipedia.org/wiki/Holomorphic_function",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Riemann surface",
+                "link": "https://en.wikipedia.org/wiki/Riemann_surface",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Functional analysis",
+            "link": "https://en.wikipedia.org/wiki/Functional_analysis",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Hilbert space",
+                "link": "https://en.wikipedia.org/wiki/Hilbert_space",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Harmonic analysis",
+            "link": "https://en.wikipedia.org/wiki/Harmonic_analysis",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Fourier analysis",
+                "link": "https://en.wikipedia.org/wiki/Fourier_analysis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fourier series",
+                "link": "https://en.wikipedia.org/wiki/Fourier_series",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fourier transform",
+                "link": "https://en.wikipedia.org/wiki/Fourier_transform",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Real analysis",
+            "link": "https://en.wikipedia.org/wiki/Real_analysis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Calculus of variations",
+            "link": "https://en.wikipedia.org/wiki/Calculus_of_variations",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Other-Mathematics",
+    "children": [
+      {
+        "name": "Number theory",
+        "link": "https://en.wikipedia.org/wiki/Number_theory",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Prime number",
+            "link": "https://en.wikipedia.org/wiki/Prime_number",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Prime number theorem",
+                "link": "https://en.wikipedia.org/wiki/Prime_number_theorem",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Euclid's theorem",
+                "link": "https://en.wikipedia.org/wiki/Euclid%27s_theorem",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fundamental theorem of arithmetic",
+            "link": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Algebraic number theory",
+            "link": "https://en.wikipedia.org/wiki/Algebraic_number_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Algebraic number field",
+                "link": "https://en.wikipedia.org/wiki/Algebraic_number_field",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Class field theory",
+                "link": "https://en.wikipedia.org/wiki/Class_field_theory",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Analytic number theory",
+            "link": "https://en.wikipedia.org/wiki/Analytic_number_theory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Riemann hypothesis",
+                "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Diophantine equation",
+            "link": "https://en.wikipedia.org/wiki/Diophantine_equation",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Fermat's Last Theorem",
+                "link": "https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Applied mathematics",
+        "link": "https://en.wikipedia.org/wiki/Applied_mathematics",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Mathematical optimization",
+            "link": "https://en.wikipedia.org/wiki/Mathematical_optimization",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Linear programming",
+                "link": "https://en.wikipedia.org/wiki/Linear_programming",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nonlinear programming",
+                "link": "https://en.wikipedia.org/wiki/Nonlinear_programming",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Operations research",
+                "link": "https://en.wikipedia.org/wiki/Operations_research",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Game theory",
+            "link": "https://en.wikipedia.org/wiki/Game_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Information theory",
+            "link": "https://en.wikipedia.org/wiki/Information_theory",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dynamical systems theory",
+        "link": "https://en.wikipedia.org/wiki/Dynamical_systems_theory",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Dynamical system",
+            "link": "https://en.wikipedia.org/wiki/Dynamical_system",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Control theory",
+            "link": "https://en.wikipedia.org/wiki/Control_theory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chaos theory",
+            "link": "https://en.wikipedia.org/wiki/Chaos_theory",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Category theory",
+        "link": "https://en.wikipedia.org/wiki/Category_theory",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Pure mathematics",
+        "link": "https://en.wikipedia.org/wiki/Pure_mathematics",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  }
+]

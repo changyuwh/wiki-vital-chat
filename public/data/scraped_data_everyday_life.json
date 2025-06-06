@@ -1,0 +1,3275 @@
+[
+  {
+    "name": "Clothing and fashion",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Clothing_and_fashion-Everyday_life",
+    "children": [
+      {
+        "name": "Clothing",
+        "link": "https://en.wikipedia.org/wiki/Clothing",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Jewellery",
+        "link": "https://en.wikipedia.org/wiki/Jewellery",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Belt",
+        "link": "https://en.wikipedia.org/wiki/Belt_(clothing)",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Button",
+        "link": "https://en.wikipedia.org/wiki/Button",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Cloak",
+        "link": "https://en.wikipedia.org/wiki/Cloak",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Coat",
+        "link": "https://en.wikipedia.org/wiki/Coat",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Cosmetics",
+        "link": "https://en.wikipedia.org/wiki/Cosmetics",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Perfume",
+            "link": "https://en.wikipedia.org/wiki/Perfume",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dress",
+        "link": "https://en.wikipedia.org/wiki/Dress",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Skirt",
+            "link": "https://en.wikipedia.org/wiki/Skirt",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Glove",
+        "link": "https://en.wikipedia.org/wiki/Glove",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Hairstyle",
+        "link": "https://en.wikipedia.org/wiki/Hairstyle",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Beard",
+            "link": "https://en.wikipedia.org/wiki/Beard",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Moustache",
+            "link": "https://en.wikipedia.org/wiki/Moustache",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wig",
+            "link": "https://en.wikipedia.org/wiki/Wig",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Handbag",
+        "link": "https://en.wikipedia.org/wiki/Handbag",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Hat",
+        "link": "https://en.wikipedia.org/wiki/Hat",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Mask",
+        "link": "https://en.wikipedia.org/wiki/Mask",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Nightwear",
+        "link": "https://en.wikipedia.org/wiki/Nightwear",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Nudity",
+        "link": "https://en.wikipedia.org/wiki/Nudity",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Scarf",
+        "link": "https://en.wikipedia.org/wiki/Scarf",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Shirt",
+        "link": "https://en.wikipedia.org/wiki/Shirt",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Shoe",
+        "link": "https://en.wikipedia.org/wiki/Shoe",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Boot",
+            "link": "https://en.wikipedia.org/wiki/Boot",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Suit",
+        "link": "https://en.wikipedia.org/wiki/Suit",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Swimsuit",
+        "link": "https://en.wikipedia.org/wiki/Swimsuit",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Trousers",
+        "link": "https://en.wikipedia.org/wiki/Trousers",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Underwear",
+        "link": "https://en.wikipedia.org/wiki/Underwear",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Bra",
+            "link": "https://en.wikipedia.org/wiki/Bra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sock",
+            "link": "https://en.wikipedia.org/wiki/Sock",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Diaper",
+            "link": "https://en.wikipedia.org/wiki/Diaper",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Umbrella",
+        "link": "https://en.wikipedia.org/wiki/Umbrella",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Uniform",
+        "link": "https://en.wikipedia.org/wiki/Uniform",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Veil",
+        "link": "https://en.wikipedia.org/wiki/Veil",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Wallet",
+        "link": "https://en.wikipedia.org/wiki/Wallet",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Zipper",
+        "link": "https://en.wikipedia.org/wiki/Zipper",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Cooking, food and drink",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Cooking,_food_and_drink-Everyday_life",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Food",
+            "link": "https://en.wikipedia.org/wiki/Food",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Eating",
+                "link": "https://en.wikipedia.org/wiki/Eating",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vegetable",
+                "link": "https://en.wikipedia.org/wiki/Vegetable",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Drink",
+            "link": "https://en.wikipedia.org/wiki/Drink",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Drinking",
+                "link": "https://en.wikipedia.org/wiki/Drinking",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Meal",
+            "link": "https://en.wikipedia.org/wiki/Meal",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Breakfast",
+                "link": "https://en.wikipedia.org/wiki/Breakfast",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lunch",
+                "link": "https://en.wikipedia.org/wiki/Lunch",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dinner",
+                "link": "https://en.wikipedia.org/wiki/Dinner",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Snack",
+                "link": "https://en.wikipedia.org/wiki/Snack",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dieting",
+            "link": "https://en.wikipedia.org/wiki/Dieting",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vegetarianism",
+            "link": "https://en.wikipedia.org/wiki/Vegetarianism",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Veganism",
+                "link": "https://en.wikipedia.org/wiki/Veganism",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Cuisine",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Cuisine-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Cuisine",
+            "link": "https://en.wikipedia.org/wiki/Cuisine",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chinese cuisine",
+                "link": "https://en.wikipedia.org/wiki/Chinese_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fast food",
+                "link": "https://en.wikipedia.org/wiki/Fast_food",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "French cuisine",
+                "link": "https://en.wikipedia.org/wiki/French_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Japanese cuisine",
+                "link": "https://en.wikipedia.org/wiki/Japanese_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indian cuisine",
+                "link": "https://en.wikipedia.org/wiki/Indian_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Italian cuisine",
+                "link": "https://en.wikipedia.org/wiki/Italian_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mexican cuisine",
+                "link": "https://en.wikipedia.org/wiki/Mexican_cuisine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Middle Eastern cuisine",
+                "link": "https://en.wikipedia.org/wiki/Middle_Eastern_cuisine",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Food types",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Food_types-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Biscuit",
+            "link": "https://en.wikipedia.org/wiki/Biscuit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Breakfast cereal",
+            "link": "https://en.wikipedia.org/wiki/Breakfast_cereal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Casserole",
+            "link": "https://en.wikipedia.org/wiki/Casserole",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Curry",
+            "link": "https://en.wikipedia.org/wiki/Curry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dessert",
+            "link": "https://en.wikipedia.org/wiki/Dessert",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cake",
+                "link": "https://en.wikipedia.org/wiki/Cake",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Candy",
+                "link": "https://en.wikipedia.org/wiki/Candy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chocolate",
+                "link": "https://en.wikipedia.org/wiki/Chocolate",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Dumpling",
+            "link": "https://en.wikipedia.org/wiki/Dumpling",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Noodle",
+            "link": "https://en.wikipedia.org/wiki/Noodle",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pasta",
+            "link": "https://en.wikipedia.org/wiki/Pasta",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pastry",
+            "link": "https://en.wikipedia.org/wiki/Pastry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pie",
+            "link": "https://en.wikipedia.org/wiki/Pie",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pizza",
+            "link": "https://en.wikipedia.org/wiki/Pizza",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Porridge",
+            "link": "https://en.wikipedia.org/wiki/Porridge",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Salad",
+            "link": "https://en.wikipedia.org/wiki/Salad",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sandwich",
+            "link": "https://en.wikipedia.org/wiki/Sandwich",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Hamburger",
+                "link": "https://en.wikipedia.org/wiki/Hamburger",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soup",
+            "link": "https://en.wikipedia.org/wiki/Soup",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Stew",
+            "link": "https://en.wikipedia.org/wiki/Stew",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sushi",
+            "link": "https://en.wikipedia.org/wiki/Sushi",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Preparation and serving",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Preparation_and_serving-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Cooking",
+            "link": "https://en.wikipedia.org/wiki/Cooking",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Baking",
+                "link": "https://en.wikipedia.org/wiki/Baking",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cooking oil",
+                "link": "https://en.wikipedia.org/wiki/Cooking_oil",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Vegetable oil",
+                    "link": "https://en.wikipedia.org/wiki/Vegetable_oil",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Frying",
+                "link": "https://en.wikipedia.org/wiki/Frying",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Grilling",
+                "link": "https://en.wikipedia.org/wiki/Grilling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Steaming",
+                "link": "https://en.wikipedia.org/wiki/Steaming",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Food preservation",
+            "link": "https://en.wikipedia.org/wiki/Food_preservation",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Canning",
+                "link": "https://en.wikipedia.org/wiki/Canning",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fruit preserves",
+                "link": "https://en.wikipedia.org/wiki/Fruit_preserves",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pickling",
+                "link": "https://en.wikipedia.org/wiki/Pickling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Smoking (cooking)",
+                "link": "https://en.wikipedia.org/wiki/Smoking_(cooking)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Brewing",
+            "link": "https://en.wikipedia.org/wiki/Brewing",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bar",
+            "link": "https://en.wikipedia.org/wiki/Bar_(establishment)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Restaurant",
+            "link": "https://en.wikipedia.org/wiki/Restaurant",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Meat and other animal products",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Meat_and_other_animal_products-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Meat",
+            "link": "https://en.wikipedia.org/wiki/Meat",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Beef",
+                "link": "https://en.wikipedia.org/wiki/Beef",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Veal",
+                    "link": "https://en.wikipedia.org/wiki/Veal",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Lamb and mutton",
+                "link": "https://en.wikipedia.org/wiki/Lamb_and_mutton",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pork",
+                "link": "https://en.wikipedia.org/wiki/Pork",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Bacon",
+                    "link": "https://en.wikipedia.org/wiki/Bacon",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Ham",
+                    "link": "https://en.wikipedia.org/wiki/Ham",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Lard",
+                    "link": "https://en.wikipedia.org/wiki/Lard",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Poultry",
+                "link": "https://en.wikipedia.org/wiki/Poultry",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Chicken as food",
+                    "link": "https://en.wikipedia.org/wiki/Chicken_as_food",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Sausage",
+                "link": "https://en.wikipedia.org/wiki/Sausage",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Seafood",
+                "link": "https://en.wikipedia.org/wiki/Seafood",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Fish as food",
+                    "link": "https://en.wikipedia.org/wiki/Fish_as_food",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Eggs as food",
+            "link": "https://en.wikipedia.org/wiki/Eggs_as_food",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Honey",
+            "link": "https://en.wikipedia.org/wiki/Honey",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Dairy and analogues",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Dairy_and_analogues-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Milk",
+            "link": "https://en.wikipedia.org/wiki/Milk",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Butter",
+            "link": "https://en.wikipedia.org/wiki/Butter",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cream",
+            "link": "https://en.wikipedia.org/wiki/Cream",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Margarine",
+            "link": "https://en.wikipedia.org/wiki/Margarine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cheese",
+            "link": "https://en.wikipedia.org/wiki/Cheese",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ice cream",
+            "link": "https://en.wikipedia.org/wiki/Ice_cream",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Soy milk",
+            "link": "https://en.wikipedia.org/wiki/Soy_milk",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Tofu",
+                "link": "https://en.wikipedia.org/wiki/Tofu",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Yogurt",
+            "link": "https://en.wikipedia.org/wiki/Yogurt",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Grains",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Grains-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Bread",
+            "link": "https://en.wikipedia.org/wiki/Bread",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cereal",
+            "link": "https://en.wikipedia.org/wiki/Cereal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Flour",
+            "link": "https://en.wikipedia.org/wiki/Flour",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seasonings and condiments",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Seasonings_and_condiments-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Condiment",
+            "link": "https://en.wikipedia.org/wiki/Condiment",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Ketchup",
+                "link": "https://en.wikipedia.org/wiki/Ketchup",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mayonnaise",
+                "link": "https://en.wikipedia.org/wiki/Mayonnaise",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mustard",
+                "link": "https://en.wikipedia.org/wiki/Mustard_(condiment)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sauce",
+                "link": "https://en.wikipedia.org/wiki/Sauce",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Chutney",
+                    "link": "https://en.wikipedia.org/wiki/Chutney",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Soy sauce",
+                    "link": "https://en.wikipedia.org/wiki/Soy_sauce",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Herb",
+            "link": "https://en.wikipedia.org/wiki/Herb",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Salt",
+            "link": "https://en.wikipedia.org/wiki/Salt",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spice",
+            "link": "https://en.wikipedia.org/wiki/Spice",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sugar",
+            "link": "https://en.wikipedia.org/wiki/Sugar",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vinegar",
+            "link": "https://en.wikipedia.org/wiki/Vinegar",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Drinks",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Drinks-Cooking,_food_and_drink",
+        "children": [
+          {
+            "name": "Non-alcoholic drinks",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Non-alcoholic_drinks-Drinks",
+            "children": [
+              {
+                "name": "Coffee",
+                "link": "https://en.wikipedia.org/wiki/Coffee",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tea",
+                "link": "https://en.wikipedia.org/wiki/Tea",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Drinking water",
+                "link": "https://en.wikipedia.org/wiki/Drinking_water",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hot chocolate",
+                "link": "https://en.wikipedia.org/wiki/Hot_chocolate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Juice",
+                "link": "https://en.wikipedia.org/wiki/Juice",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Soft drink",
+                "link": "https://en.wikipedia.org/wiki/Soft_drink",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Coca-Cola",
+                    "link": "https://en.wikipedia.org/wiki/Coca-Cola",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Alcoholic drinks",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Alcoholic_drinks-Drinks",
+            "children": [
+              {
+                "name": "Alcoholic beverage",
+                "link": "https://en.wikipedia.org/wiki/Alcoholic_beverage",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Beer",
+                    "link": "https://en.wikipedia.org/wiki/Beer",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Wine",
+                    "link": "https://en.wikipedia.org/wiki/Wine",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Cider",
+                    "link": "https://en.wikipedia.org/wiki/Cider",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Cocktail",
+                    "link": "https://en.wikipedia.org/wiki/Cocktail",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Liquor",
+                    "link": "https://en.wikipedia.org/wiki/Liquor",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Brandy",
+                        "link": "https://en.wikipedia.org/wiki/Brandy",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Gin",
+                        "link": "https://en.wikipedia.org/wiki/Gin",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Rum",
+                        "link": "https://en.wikipedia.org/wiki/Rum",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Sake",
+                        "link": "https://en.wikipedia.org/wiki/Sake",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Tequila",
+                        "link": "https://en.wikipedia.org/wiki/Tequila",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Vodka",
+                        "link": "https://en.wikipedia.org/wiki/Vodka",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Whisky",
+                        "link": "https://en.wikipedia.org/wiki/Whisky",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Family and kinship",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Family_and_kinship-Everyday_life",
+    "children": [
+      {
+        "name": "Family and kinship: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Family_and_kinship:_General-Family_and_kinship",
+        "children": [
+          {
+            "name": "Family",
+            "link": "https://en.wikipedia.org/wiki/Family",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Household",
+                "link": "https://en.wikipedia.org/wiki/Household",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nuclear family",
+                "link": "https://en.wikipedia.org/wiki/Nuclear_family",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Extended family",
+                "link": "https://en.wikipedia.org/wiki/Extended_family",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Stepfamily",
+                "link": "https://en.wikipedia.org/wiki/Stepfamily",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Kinship",
+            "link": "https://en.wikipedia.org/wiki/Kinship",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Affinity",
+                "link": "https://en.wikipedia.org/wiki/Affinity_(law)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Clan",
+                "link": "https://en.wikipedia.org/wiki/Clan",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Consanguinity",
+                "link": "https://en.wikipedia.org/wiki/Consanguinity",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lineage",
+                "link": "https://en.wikipedia.org/wiki/Lineage_(anthropology)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Interpersonal relationships",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Interpersonal_relationships-Family_and_kinship",
+        "children": [
+          {
+            "name": "Interpersonal relationship",
+            "link": "https://en.wikipedia.org/wiki/Interpersonal_relationship",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Friendship",
+                "link": "https://en.wikipedia.org/wiki/Friendship",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Intimate relationship",
+                "link": "https://en.wikipedia.org/wiki/Intimate_relationship",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Breakup",
+                    "link": "https://en.wikipedia.org/wiki/Breakup",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Cohabitation",
+                    "link": "https://en.wikipedia.org/wiki/Cohabitation",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Concubinage",
+                    "link": "https://en.wikipedia.org/wiki/Concubinage",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Infidelity",
+                    "link": "https://en.wikipedia.org/wiki/Infidelity",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Same-sex relationship",
+                    "link": "https://en.wikipedia.org/wiki/Same-sex_relationship",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marriage and parenting",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Marriage_and_parenting-Family_and_kinship",
+        "children": [
+          {
+            "name": "Marriage",
+            "link": "https://en.wikipedia.org/wiki/Marriage",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Arranged marriage",
+                "link": "https://en.wikipedia.org/wiki/Arranged_marriage",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Civil union",
+                "link": "https://en.wikipedia.org/wiki/Civil_union",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Courtship",
+                "link": "https://en.wikipedia.org/wiki/Courtship",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Dating",
+                    "link": "https://en.wikipedia.org/wiki/Dating",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Romance",
+                    "link": "https://en.wikipedia.org/wiki/Romance_(love)",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Wedding",
+                "link": "https://en.wikipedia.org/wiki/Wedding",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Divorce",
+                "link": "https://en.wikipedia.org/wiki/Divorce",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Monogamy",
+                "link": "https://en.wikipedia.org/wiki/Monogamy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Polygamy",
+                "link": "https://en.wikipedia.org/wiki/Polygamy",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Parenting",
+            "link": "https://en.wikipedia.org/wiki/Parenting",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Childbirth",
+                "link": "https://en.wikipedia.org/wiki/Childbirth",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Family planning",
+                "link": "https://en.wikipedia.org/wiki/Family_planning",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Adoption",
+                "link": "https://en.wikipedia.org/wiki/Adoption",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Orphan",
+                    "link": "https://en.wikipedia.org/wiki/Orphan",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Family members",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Family_members-Family_and_kinship",
+        "children": [
+          {
+            "name": "Husband",
+            "link": "https://en.wikipedia.org/wiki/Husband",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wife",
+            "link": "https://en.wikipedia.org/wiki/Wife",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Parent",
+            "link": "https://en.wikipedia.org/wiki/Parent",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Father",
+                "link": "https://en.wikipedia.org/wiki/Father",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mother",
+                "link": "https://en.wikipedia.org/wiki/Mother",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sibling",
+            "link": "https://en.wikipedia.org/wiki/Sibling",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Brother",
+                "link": "https://en.wikipedia.org/wiki/Brother",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sister",
+                "link": "https://en.wikipedia.org/wiki/Sister",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Twin",
+                "link": "https://en.wikipedia.org/wiki/Twin",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Grandparent",
+            "link": "https://en.wikipedia.org/wiki/Grandparent",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cousin",
+            "link": "https://en.wikipedia.org/wiki/Cousin",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Godparent",
+            "link": "https://en.wikipedia.org/wiki/Godparent",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pet",
+            "link": "https://en.wikipedia.org/wiki/Pet",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Household items",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Household_items-Everyday_life",
+    "children": [
+      {
+        "name": "Furniture and interior design",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Furniture_and_interior_design-Household_items",
+        "children": [
+          {
+            "name": "Furniture",
+            "link": "https://en.wikipedia.org/wiki/Furniture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bathtub",
+            "link": "https://en.wikipedia.org/wiki/Bathtub",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bed",
+            "link": "https://en.wikipedia.org/wiki/Bed",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cabinetry",
+            "link": "https://en.wikipedia.org/wiki/Cabinetry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Carpet",
+            "link": "https://en.wikipedia.org/wiki/Carpet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chair",
+            "link": "https://en.wikipedia.org/wiki/Chair",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Couch",
+            "link": "https://en.wikipedia.org/wiki/Couch",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pillow",
+            "link": "https://en.wikipedia.org/wiki/Pillow",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shower",
+            "link": "https://en.wikipedia.org/wiki/Shower",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Table",
+            "link": "https://en.wikipedia.org/wiki/Table_(furniture)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Cooking and eating",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Cooking_and_eating-Household_items",
+        "children": [
+          {
+            "name": "Chopsticks",
+            "link": "https://en.wikipedia.org/wiki/Chopsticks",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cookware and bakeware",
+            "link": "https://en.wikipedia.org/wiki/Cookware_and_bakeware",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cutlery",
+            "link": "https://en.wikipedia.org/wiki/Cutlery",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Fork",
+                "link": "https://en.wikipedia.org/wiki/Fork",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spoon",
+                "link": "https://en.wikipedia.org/wiki/Spoon",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Tableware",
+            "link": "https://en.wikipedia.org/wiki/Tableware",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cup",
+                "link": "https://en.wikipedia.org/wiki/Cup",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Plate",
+                "link": "https://en.wikipedia.org/wiki/Plate_(dishware)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Housing",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Housing-Everyday_life",
+    "children": [
+      {
+        "name": "Residential and housing units",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Residential_and_housing_units-Housing",
+        "children": [
+          {
+            "name": "Home",
+            "link": "https://en.wikipedia.org/wiki/Home",
+            "layer": 3,
+            "children": [
+              {
+                "name": "House",
+                "link": "https://en.wikipedia.org/wiki/House",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Apartment",
+                "link": "https://en.wikipedia.org/wiki/Apartment",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hut",
+                "link": "https://en.wikipedia.org/wiki/Hut",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Igloo",
+                "link": "https://en.wikipedia.org/wiki/Igloo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Palace",
+                "link": "https://en.wikipedia.org/wiki/Palace",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tent",
+                "link": "https://en.wikipedia.org/wiki/Tent",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hotel",
+            "link": "https://en.wikipedia.org/wiki/Hotel",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Rooms and spaces",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Rooms_and_spaces-Housing",
+        "children": [
+          {
+            "name": "Bathroom",
+            "link": "https://en.wikipedia.org/wiki/Bathroom",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bedroom",
+            "link": "https://en.wikipedia.org/wiki/Bedroom",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Garage",
+            "link": "https://en.wikipedia.org/wiki/Garage_(residential)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Kitchen",
+            "link": "https://en.wikipedia.org/wiki/Kitchen",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sauna",
+            "link": "https://en.wikipedia.org/wiki/Sauna",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sexuality and gender",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Sexuality_and_gender-Everyday_life",
+    "children": [
+      {
+        "name": "Human sexuality",
+        "link": "https://en.wikipedia.org/wiki/Human_sexuality",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Gender",
+        "link": "https://en.wikipedia.org/wiki/Gender",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Man",
+            "link": "https://en.wikipedia.org/wiki/Man",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Woman",
+            "link": "https://en.wikipedia.org/wiki/Woman",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Transgender",
+            "link": "https://en.wikipedia.org/wiki/Transgender",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Intersex",
+        "link": "https://en.wikipedia.org/wiki/Intersex",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Sexual orientation",
+        "link": "https://en.wikipedia.org/wiki/Sexual_orientation",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Heterosexuality",
+            "link": "https://en.wikipedia.org/wiki/Heterosexuality",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Homosexuality",
+            "link": "https://en.wikipedia.org/wiki/Homosexuality",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bisexuality",
+            "link": "https://en.wikipedia.org/wiki/Bisexuality",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Asexuality",
+            "link": "https://en.wikipedia.org/wiki/Asexuality",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "LGBTQ people",
+            "link": "https://en.wikipedia.org/wiki/LGBTQ_people",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Human sexual activity",
+        "link": "https://en.wikipedia.org/wiki/Human_sexual_activity",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Sexual intercourse",
+            "link": "https://en.wikipedia.org/wiki/Sexual_intercourse",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Foreplay",
+            "link": "https://en.wikipedia.org/wiki/Foreplay",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Kiss",
+                "link": "https://en.wikipedia.org/wiki/Kiss",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Oral sex",
+            "link": "https://en.wikipedia.org/wiki/Oral_sex",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Anal sex",
+            "link": "https://en.wikipedia.org/wiki/Anal_sex",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "BDSM",
+            "link": "https://en.wikipedia.org/wiki/BDSM",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Incest",
+            "link": "https://en.wikipedia.org/wiki/Incest",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Masturbation",
+            "link": "https://en.wikipedia.org/wiki/Masturbation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Orgasm",
+            "link": "https://en.wikipedia.org/wiki/Orgasm",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Promiscuity",
+            "link": "https://en.wikipedia.org/wiki/Promiscuity",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Prostitution",
+            "link": "https://en.wikipedia.org/wiki/Prostitution",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Birth control",
+        "link": "https://en.wikipedia.org/wiki/Birth_control",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Combined oral contraceptive pill",
+            "link": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Condom",
+            "link": "https://en.wikipedia.org/wiki/Condom",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fertility",
+            "link": "https://en.wikipedia.org/wiki/Fertility",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sex education",
+        "link": "https://en.wikipedia.org/wiki/Sex_education",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Age of consent",
+        "link": "https://en.wikipedia.org/wiki/Age_of_consent",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Pornography",
+        "link": "https://en.wikipedia.org/wiki/Pornography",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Sexual attraction",
+        "link": "https://en.wikipedia.org/wiki/Sexual_attraction",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Sexual fetishism",
+        "link": "https://en.wikipedia.org/wiki/Sexual_fetishism",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Virginity",
+        "link": "https://en.wikipedia.org/wiki/Virginity",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Stages of life",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Stages_of_life-Everyday_life",
+    "children": [
+      {
+        "name": "Infant",
+        "link": "https://en.wikipedia.org/wiki/Infant",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Child",
+        "link": "https://en.wikipedia.org/wiki/Child",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Boy",
+            "link": "https://en.wikipedia.org/wiki/Boy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Girl",
+            "link": "https://en.wikipedia.org/wiki/Girl",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Adolescence",
+        "link": "https://en.wikipedia.org/wiki/Adolescence",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Adult",
+        "link": "https://en.wikipedia.org/wiki/Adult",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Young adult",
+            "link": "https://en.wikipedia.org/wiki/Young_adult",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Middle age",
+            "link": "https://en.wikipedia.org/wiki/Middle_age",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Old age",
+            "link": "https://en.wikipedia.org/wiki/Old_age",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sports and recreation",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Sports_and_recreation-Everyday_life",
+    "children": [
+      {
+        "name": "Entertainment",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Entertainment-Sports_and_recreation",
+        "children": [
+          {
+            "name": "Entertainment and leisure",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Entertainment_and_leisure-Entertainment",
+            "children": [
+              {
+                "name": "Entertainment",
+                "link": "https://en.wikipedia.org/wiki/Entertainment",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Leisure",
+                "link": "https://en.wikipedia.org/wiki/Leisure",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Hobby",
+                    "link": "https://en.wikipedia.org/wiki/Hobby",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Aquarium",
+                "link": "https://en.wikipedia.org/wiki/Aquarium",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Beauty pageant",
+                "link": "https://en.wikipedia.org/wiki/Beauty_pageant",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Collecting",
+                "link": "https://en.wikipedia.org/wiki/Collecting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Karaoke",
+                "link": "https://en.wikipedia.org/wiki/Karaoke",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Party",
+                "link": "https://en.wikipedia.org/wiki/Party",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Puzzle",
+                "link": "https://en.wikipedia.org/wiki/Puzzle",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Crossword",
+                    "link": "https://en.wikipedia.org/wiki/Crossword",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Jigsaw puzzle",
+                    "link": "https://en.wikipedia.org/wiki/Jigsaw_puzzle",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Maze",
+                    "link": "https://en.wikipedia.org/wiki/Maze",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Riddle",
+                    "link": "https://en.wikipedia.org/wiki/Riddle",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Rubik's Cube",
+                    "link": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Professional wrestling",
+                "link": "https://en.wikipedia.org/wiki/Professional_wrestling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Quiz",
+                "link": "https://en.wikipedia.org/wiki/Quiz",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Recreation and tourism",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Recreation_and_tourism-Entertainment",
+            "children": [
+              {
+                "name": "Recreation",
+                "link": "https://en.wikipedia.org/wiki/Recreation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tourism",
+                "link": "https://en.wikipedia.org/wiki/Tourism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Play (activity)",
+                "link": "https://en.wikipedia.org/wiki/Play_(activity)",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Playground",
+                    "link": "https://en.wikipedia.org/wiki/Playground",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Amusement park",
+                "link": "https://en.wikipedia.org/wiki/Amusement_park",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Camping",
+                "link": "https://en.wikipedia.org/wiki/Camping",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hiking",
+                "link": "https://en.wikipedia.org/wiki/Hiking",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Zoo",
+                "link": "https://en.wikipedia.org/wiki/Zoo",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Toys",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Toys-Entertainment",
+            "children": [
+              {
+                "name": "Toy",
+                "link": "https://en.wikipedia.org/wiki/Toy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Action figure",
+                "link": "https://en.wikipedia.org/wiki/Action_figure",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Doll",
+                "link": "https://en.wikipedia.org/wiki/Doll",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Barbie",
+                    "link": "https://en.wikipedia.org/wiki/Barbie",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Frisbee",
+                "link": "https://en.wikipedia.org/wiki/Frisbee",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kite",
+                "link": "https://en.wikipedia.org/wiki/Kite",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lego",
+                "link": "https://en.wikipedia.org/wiki/Lego",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Marble (toy)",
+                "link": "https://en.wikipedia.org/wiki/Marble_(toy)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Scale model",
+                "link": "https://en.wikipedia.org/wiki/Scale_model",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spinning top",
+                "link": "https://en.wikipedia.org/wiki/Spinning_top",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Stuffed toy",
+                "link": "https://en.wikipedia.org/wiki/Stuffed_toy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Yo-yo",
+                "link": "https://en.wikipedia.org/wiki/Yo-yo",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Games",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Games-Entertainment",
+            "children": [
+              {
+                "name": "Game",
+                "link": "https://en.wikipedia.org/wiki/Game",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Board game",
+                "link": "https://en.wikipedia.org/wiki/Board_game",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Backgammon",
+                    "link": "https://en.wikipedia.org/wiki/Backgammon",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Chess",
+                    "link": "https://en.wikipedia.org/wiki/Chess",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Checkers",
+                    "link": "https://en.wikipedia.org/wiki/Checkers",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Go",
+                    "link": "https://en.wikipedia.org/wiki/Go_(game)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Mancala",
+                    "link": "https://en.wikipedia.org/wiki/Mancala",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Monopoly",
+                    "link": "https://en.wikipedia.org/wiki/Monopoly_(game)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Pachisi",
+                    "link": "https://en.wikipedia.org/wiki/Pachisi",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Shogi",
+                    "link": "https://en.wikipedia.org/wiki/Shogi",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Xiangqi",
+                    "link": "https://en.wikipedia.org/wiki/Xiangqi",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Card game",
+                "link": "https://en.wikipedia.org/wiki/Card_game",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Tarot",
+                    "link": "https://en.wikipedia.org/wiki/Tarot",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Blackjack",
+                    "link": "https://en.wikipedia.org/wiki/Blackjack",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Contract bridge",
+                    "link": "https://en.wikipedia.org/wiki/Contract_bridge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Poker",
+                    "link": "https://en.wikipedia.org/wiki/Poker",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Gambling",
+                "link": "https://en.wikipedia.org/wiki/Gambling",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Casino",
+                    "link": "https://en.wikipedia.org/wiki/Casino",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Dice",
+                    "link": "https://en.wikipedia.org/wiki/Dice",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Lottery",
+                    "link": "https://en.wikipedia.org/wiki/Lottery",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Roulette",
+                    "link": "https://en.wikipedia.org/wiki/Roulette",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Slot machine",
+                    "link": "https://en.wikipedia.org/wiki/Slot_machine",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Video game",
+                "link": "https://en.wikipedia.org/wiki/Video_game",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Video game console",
+                    "link": "https://en.wikipedia.org/wiki/Video_game_console",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Arcade game",
+                "link": "https://en.wikipedia.org/wiki/Arcade_game",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Pinball",
+                    "link": "https://en.wikipedia.org/wiki/Pinball",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Dominoes",
+                "link": "https://en.wikipedia.org/wiki/Dominoes",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hide-and-seek",
+                "link": "https://en.wikipedia.org/wiki/Hide-and-seek",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hopscotch",
+                "link": "https://en.wikipedia.org/wiki/Hopscotch",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mahjong",
+                "link": "https://en.wikipedia.org/wiki/Mahjong",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tag",
+                "link": "https://en.wikipedia.org/wiki/Tag_(game)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sports",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Sports-Sports_and_recreation",
+        "children": [
+          {
+            "name": "Basics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Basics_2-Sports",
+            "children": [
+              {
+                "name": "Sport",
+                "link": "https://en.wikipedia.org/wiki/Sport",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Doping in sport",
+                    "link": "https://en.wikipedia.org/wiki/Doping_in_sport",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Extreme sport",
+                    "link": "https://en.wikipedia.org/wiki/Extreme_sport",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Sports equipment",
+                    "link": "https://en.wikipedia.org/wiki/Sports_equipment",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Ball",
+                        "link": "https://en.wikipedia.org/wiki/Ball",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Women's sports",
+                    "link": "https://en.wikipedia.org/wiki/Women%27s_sports",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Olympic Games",
+                "link": "https://en.wikipedia.org/wiki/Olympic_Games",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Ancient Olympic Games",
+                    "link": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Paralympic Games",
+                    "link": "https://en.wikipedia.org/wiki/Paralympic_Games",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Summer Olympic Games",
+                    "link": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Winter Olympic Games",
+                    "link": "https://en.wikipedia.org/wiki/Winter_Olympic_Games",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Asian Games",
+                "link": "https://en.wikipedia.org/wiki/Asian_Games",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mascot",
+                "link": "https://en.wikipedia.org/wiki/Mascot",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Stadium",
+                "link": "https://en.wikipedia.org/wiki/Stadium",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Team sports",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Team_sports-Sports",
+            "children": [
+              {
+                "name": "American football",
+                "link": "https://en.wikipedia.org/wiki/American_football",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "National Football League",
+                    "link": "https://en.wikipedia.org/wiki/National_Football_League",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Association football",
+                "link": "https://en.wikipedia.org/wiki/Association_football",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "FIFA World Cup",
+                    "link": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "La Liga",
+                    "link": "https://en.wikipedia.org/wiki/La_Liga",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Premier League",
+                    "link": "https://en.wikipedia.org/wiki/Premier_League",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "UEFA Champions League",
+                    "link": "https://en.wikipedia.org/wiki/UEFA_Champions_League",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Australian rules football",
+                "link": "https://en.wikipedia.org/wiki/Australian_rules_football",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Baseball",
+                "link": "https://en.wikipedia.org/wiki/Baseball",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Major League Baseball",
+                    "link": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Softball",
+                    "link": "https://en.wikipedia.org/wiki/Softball",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Basketball",
+                "link": "https://en.wikipedia.org/wiki/Basketball",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "National Basketball Association",
+                    "link": "https://en.wikipedia.org/wiki/National_Basketball_Association",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cricket",
+                "link": "https://en.wikipedia.org/wiki/Cricket",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Cricket World Cup",
+                    "link": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Curling",
+                "link": "https://en.wikipedia.org/wiki/Curling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Field hockey",
+                "link": "https://en.wikipedia.org/wiki/Field_hockey",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Handball",
+                "link": "https://en.wikipedia.org/wiki/Handball",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ice hockey",
+                "link": "https://en.wikipedia.org/wiki/Ice_hockey",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "National Hockey League",
+                    "link": "https://en.wikipedia.org/wiki/National_Hockey_League",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Kabaddi",
+                "link": "https://en.wikipedia.org/wiki/Kabaddi",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lacrosse",
+                "link": "https://en.wikipedia.org/wiki/Lacrosse",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Netball",
+                "link": "https://en.wikipedia.org/wiki/Netball",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Polo",
+                "link": "https://en.wikipedia.org/wiki/Polo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rugby football",
+                "link": "https://en.wikipedia.org/wiki/Rugby_football",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Rugby league",
+                    "link": "https://en.wikipedia.org/wiki/Rugby_league",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Rugby sevens",
+                    "link": "https://en.wikipedia.org/wiki/Rugby_sevens",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Rugby union",
+                    "link": "https://en.wikipedia.org/wiki/Rugby_union",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Rugby World Cup",
+                        "link": "https://en.wikipedia.org/wiki/Rugby_World_Cup",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Tug of war",
+                "link": "https://en.wikipedia.org/wiki/Tug_of_war",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Volleyball",
+                "link": "https://en.wikipedia.org/wiki/Volleyball",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Beach volleyball",
+                    "link": "https://en.wikipedia.org/wiki/Beach_volleyball",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Athletics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Athletics-Sports",
+            "children": [
+              {
+                "name": "Athletics",
+                "link": "https://en.wikipedia.org/wiki/Sport_of_athletics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Running",
+                "link": "https://en.wikipedia.org/wiki/Running",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Jumping",
+                "link": "https://en.wikipedia.org/wiki/Jumping",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Track and field",
+                "link": "https://en.wikipedia.org/wiki/Track_and_field",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "100 metres",
+                    "link": "https://en.wikipedia.org/wiki/100_metres",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Decathlon",
+                    "link": "https://en.wikipedia.org/wiki/Decathlon",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Discus throw",
+                    "link": "https://en.wikipedia.org/wiki/Discus_throw",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "High jump",
+                    "link": "https://en.wikipedia.org/wiki/High_jump",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Hurdling",
+                    "link": "https://en.wikipedia.org/wiki/Hurdling",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Javelin throw",
+                    "link": "https://en.wikipedia.org/wiki/Javelin_throw",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Long jump",
+                    "link": "https://en.wikipedia.org/wiki/Long_jump",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Marathon",
+                    "link": "https://en.wikipedia.org/wiki/Marathon",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Pole vault",
+                    "link": "https://en.wikipedia.org/wiki/Pole_vault",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Shot put",
+                    "link": "https://en.wikipedia.org/wiki/Shot_put",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Walking",
+                "link": "https://en.wikipedia.org/wiki/Walking",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Skating",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Skating-Sports",
+            "children": [
+              {
+                "name": "Ice skating",
+                "link": "https://en.wikipedia.org/wiki/Ice_skating",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Figure skating",
+                    "link": "https://en.wikipedia.org/wiki/Figure_skating",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Speed skating",
+                    "link": "https://en.wikipedia.org/wiki/Speed_skating",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Roller skating",
+                "link": "https://en.wikipedia.org/wiki/Roller_skating",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Skateboarding",
+                "link": "https://en.wikipedia.org/wiki/Skateboarding",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Water sports",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Water_sports-Sports",
+            "children": [
+              {
+                "name": "Canoeing",
+                "link": "https://en.wikipedia.org/wiki/Canoeing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Diving",
+                "link": "https://en.wikipedia.org/wiki/Diving_(sport)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rowing",
+                "link": "https://en.wikipedia.org/wiki/Rowing_(sport)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sailing (sport)",
+                "link": "https://en.wikipedia.org/wiki/Sailing_(sport)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Underwater diving",
+                "link": "https://en.wikipedia.org/wiki/Underwater_diving",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Scuba diving",
+                    "link": "https://en.wikipedia.org/wiki/Scuba_diving",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Swimming",
+                "link": "https://en.wikipedia.org/wiki/Swimming",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Swimming pool",
+                    "link": "https://en.wikipedia.org/wiki/Swimming_pool",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Swimming (sport)",
+                    "link": "https://en.wikipedia.org/wiki/Swimming_(sport)",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Water polo",
+                "link": "https://en.wikipedia.org/wiki/Water_polo",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Combat sport and martial arts",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Combat_sport_and_martial_arts-Sports",
+            "children": [
+              {
+                "name": "Martial arts",
+                "link": "https://en.wikipedia.org/wiki/Martial_arts",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Boxing",
+                "link": "https://en.wikipedia.org/wiki/Boxing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Brazilian jiu-jitsu",
+                "link": "https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Capoeira",
+                "link": "https://en.wikipedia.org/wiki/Capoeira",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chinese martial arts",
+                "link": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Jujutsu",
+                "link": "https://en.wikipedia.org/wiki/Jujutsu",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Karate",
+                "link": "https://en.wikipedia.org/wiki/Karate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kickboxing",
+                "link": "https://en.wikipedia.org/wiki/Kickboxing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mixed martial arts",
+                "link": "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Muay Thai",
+                "link": "https://en.wikipedia.org/wiki/Muay_Thai",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Taekwondo",
+                "link": "https://en.wikipedia.org/wiki/Taekwondo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wrestling",
+                "link": "https://en.wikipedia.org/wiki/Wrestling",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Judo",
+                    "link": "https://en.wikipedia.org/wiki/Judo",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Sumo",
+                    "link": "https://en.wikipedia.org/wiki/Sumo",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Other individual sports",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Other_individual_sports-Sports",
+            "children": [
+              {
+                "name": "Angling",
+                "link": "https://en.wikipedia.org/wiki/Angling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Archery",
+                "link": "https://en.wikipedia.org/wiki/Archery",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Auto racing",
+                "link": "https://en.wikipedia.org/wiki/Auto_racing",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Formula One",
+                    "link": "https://en.wikipedia.org/wiki/Formula_One",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Badminton",
+                "link": "https://en.wikipedia.org/wiki/Badminton",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Bowling",
+                "link": "https://en.wikipedia.org/wiki/Bowling",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Tenpin bowling",
+                    "link": "https://en.wikipedia.org/wiki/Tenpin_bowling",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Bodybuilding",
+                "link": "https://en.wikipedia.org/wiki/Bodybuilding",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Bullfighting",
+                "link": "https://en.wikipedia.org/wiki/Bullfighting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Climbing",
+                "link": "https://en.wikipedia.org/wiki/Climbing",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Mountaineering",
+                    "link": "https://en.wikipedia.org/wiki/Mountaineering",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Rock climbing",
+                    "link": "https://en.wikipedia.org/wiki/Rock_climbing",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cue sports",
+                "link": "https://en.wikipedia.org/wiki/Cue_sports",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Pool",
+                    "link": "https://en.wikipedia.org/wiki/Pool_(cue_sports)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Snooker",
+                    "link": "https://en.wikipedia.org/wiki/Snooker",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cycle sport",
+                "link": "https://en.wikipedia.org/wiki/Cycle_sport",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Mountain biking",
+                    "link": "https://en.wikipedia.org/wiki/Mountain_biking",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Tour de France",
+                    "link": "https://en.wikipedia.org/wiki/Tour_de_France",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Darts",
+                "link": "https://en.wikipedia.org/wiki/Darts",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Equestrianism",
+                "link": "https://en.wikipedia.org/wiki/Equestrianism",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Horse racing",
+                    "link": "https://en.wikipedia.org/wiki/Horse_racing",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Fencing",
+                "link": "https://en.wikipedia.org/wiki/Fencing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gladiator",
+                "link": "https://en.wikipedia.org/wiki/Gladiator",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Golf",
+                "link": "https://en.wikipedia.org/wiki/Golf",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gymnastics",
+                "link": "https://en.wikipedia.org/wiki/Gymnastics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Powerlifting",
+                "link": "https://en.wikipedia.org/wiki/Powerlifting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rodeo",
+                "link": "https://en.wikipedia.org/wiki/Rodeo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Shooting sports",
+                "link": "https://en.wikipedia.org/wiki/Shooting_sports",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Biathlon",
+                    "link": "https://en.wikipedia.org/wiki/Biathlon",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Skiing",
+                "link": "https://en.wikipedia.org/wiki/Skiing",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Alpine skiing",
+                    "link": "https://en.wikipedia.org/wiki/Alpine_skiing",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Ski jumping",
+                    "link": "https://en.wikipedia.org/wiki/Ski_jumping",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Slalom skiing",
+                    "link": "https://en.wikipedia.org/wiki/Slalom_skiing",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Sled",
+                "link": "https://en.wikipedia.org/wiki/Sled",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Bobsleigh",
+                    "link": "https://en.wikipedia.org/wiki/Bobsleigh",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Luge",
+                    "link": "https://en.wikipedia.org/wiki/Luge",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Snowboarding",
+                "link": "https://en.wikipedia.org/wiki/Snowboarding",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Squash",
+                "link": "https://en.wikipedia.org/wiki/Squash_(sport)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Surfing",
+                "link": "https://en.wikipedia.org/wiki/Surfing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Table tennis",
+                "link": "https://en.wikipedia.org/wiki/Table_tennis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tennis",
+                "link": "https://en.wikipedia.org/wiki/Tennis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Olympic weightlifting",
+                "link": "https://en.wikipedia.org/wiki/Olympic_weightlifting",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

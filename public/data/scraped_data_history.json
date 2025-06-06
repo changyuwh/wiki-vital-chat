@@ -1,0 +1,4999 @@
+[
+  {
+    "name": "Basics",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Basics-History",
+    "children": [
+      {
+        "name": "Human history",
+        "link": "https://en.wikipedia.org/wiki/Human_history",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "History",
+        "link": "https://en.wikipedia.org/wiki/History",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Historical method",
+            "link": "https://en.wikipedia.org/wiki/Historical_method",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Civilization",
+        "link": "https://en.wikipedia.org/wiki/Civilization",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Archive",
+        "link": "https://en.wikipedia.org/wiki/Archive",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "History by continent and region",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-History_by_continent_and_region-History",
+    "children": [
+      {
+        "name": "History of Africa",
+        "link": "https://en.wikipedia.org/wiki/History_of_Africa",
+        "layer": 2,
+        "children": [
+          {
+            "name": "History of North Africa",
+            "link": "https://en.wikipedia.org/wiki/History_of_North_Africa",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of Europe",
+        "link": "https://en.wikipedia.org/wiki/History_of_Europe",
+        "layer": 2,
+        "children": [
+          {
+            "name": "History of Scandinavia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Scandinavia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the Mediterranean region",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_Mediterranean_region",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of North America",
+        "link": "https://en.wikipedia.org/wiki/History_of_North_America",
+        "layer": 2,
+        "children": [
+          {
+            "name": "History of the Caribbean",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_Caribbean",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of South America",
+        "link": "https://en.wikipedia.org/wiki/History_of_South_America",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "History of Oceania",
+        "link": "https://en.wikipedia.org/wiki/History_of_Oceania",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "History of Asia",
+        "link": "https://en.wikipedia.org/wiki/History_of_Asia",
+        "layer": 2,
+        "children": [
+          {
+            "name": "History of East Asia",
+            "link": "https://en.wikipedia.org/wiki/History_of_East_Asia",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of China",
+                "link": "https://en.wikipedia.org/wiki/History_of_China",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of Korea",
+                "link": "https://en.wikipedia.org/wiki/History_of_Korea",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "History of India",
+            "link": "https://en.wikipedia.org/wiki/History_of_India",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Southeast Asia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Southeast_Asia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Central Asia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Central_Asia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the Middle East",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_Middle_East",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of Antarctica",
+        "link": "https://en.wikipedia.org/wiki/History_of_Antarctica",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "History by country",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-History_by_country-History",
+    "children": [
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa-History_by_country",
+        "children": [
+          {
+            "name": "History of Egypt",
+            "link": "https://en.wikipedia.org/wiki/History_of_Egypt",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Ethiopia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Ethiopia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Morocco",
+            "link": "https://en.wikipedia.org/wiki/History_of_Morocco",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Nigeria",
+            "link": "https://en.wikipedia.org/wiki/History_of_Nigeria",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of South Africa",
+            "link": "https://en.wikipedia.org/wiki/History_of_South_Africa",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Sudan",
+            "link": "https://en.wikipedia.org/wiki/History_of_Sudan",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas-History_by_country",
+        "children": [
+          {
+            "name": "History of Argentina",
+            "link": "https://en.wikipedia.org/wiki/History_of_Argentina",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Brazil",
+            "link": "https://en.wikipedia.org/wiki/History_of_Brazil",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Canada",
+            "link": "https://en.wikipedia.org/wiki/History_of_Canada",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Colombia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Colombia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Mexico",
+            "link": "https://en.wikipedia.org/wiki/History_of_Mexico",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Peru",
+            "link": "https://en.wikipedia.org/wiki/History_of_Peru",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the United States",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_United_States",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Oceania",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Oceania-History_by_country",
+        "children": [
+          {
+            "name": "History of Australia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Australia",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia-History_by_country",
+        "children": [
+          {
+            "name": "History of Afghanistan",
+            "link": "https://en.wikipedia.org/wiki/History_of_Afghanistan",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the People's Republic of China",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of India (1947–present)",
+            "link": "https://en.wikipedia.org/wiki/History_of_India_(1947%E2%80%93present)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Indonesia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Indonesia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Iran",
+            "link": "https://en.wikipedia.org/wiki/History_of_Iran",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Iraq",
+            "link": "https://en.wikipedia.org/wiki/History_of_Iraq",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of Mesopotamia",
+                "link": "https://en.wikipedia.org/wiki/History_of_Mesopotamia",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "History of Israel",
+            "link": "https://en.wikipedia.org/wiki/History_of_Israel",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Japan",
+            "link": "https://en.wikipedia.org/wiki/History_of_Japan",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Pakistan",
+            "link": "https://en.wikipedia.org/wiki/History_of_Pakistan",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the Philippines",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_Philippines",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Saudi Arabia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Saudi_Arabia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Thailand",
+            "link": "https://en.wikipedia.org/wiki/History_of_Thailand",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Turkey",
+            "link": "https://en.wikipedia.org/wiki/History_of_Turkey",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Vietnam",
+            "link": "https://en.wikipedia.org/wiki/History_of_Vietnam",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe-History_by_country",
+        "children": [
+          {
+            "name": "History of Austria",
+            "link": "https://en.wikipedia.org/wiki/History_of_Austria",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Germany",
+            "link": "https://en.wikipedia.org/wiki/History_of_Germany",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Greece",
+            "link": "https://en.wikipedia.org/wiki/History_of_Greece",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the Netherlands",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_Netherlands",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of France",
+            "link": "https://en.wikipedia.org/wiki/History_of_France",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Ireland",
+            "link": "https://en.wikipedia.org/wiki/History_of_Ireland",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Italy",
+            "link": "https://en.wikipedia.org/wiki/History_of_Italy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Poland",
+            "link": "https://en.wikipedia.org/wiki/History_of_Poland",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Portugal",
+            "link": "https://en.wikipedia.org/wiki/History_of_Portugal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Russia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Russia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Spain",
+            "link": "https://en.wikipedia.org/wiki/History_of_Spain",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of Ukraine",
+            "link": "https://en.wikipedia.org/wiki/History_of_Ukraine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of the United Kingdom",
+            "link": "https://en.wikipedia.org/wiki/History_of_the_United_Kingdom",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of England",
+                "link": "https://en.wikipedia.org/wiki/History_of_England",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of Scotland",
+                "link": "https://en.wikipedia.org/wiki/History_of_Scotland",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prehistory",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Prehistory-History",
+    "children": [
+      {
+        "name": "Prehistory",
+        "link": "https://en.wikipedia.org/wiki/Prehistory",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Early human migrations",
+        "link": "https://en.wikipedia.org/wiki/Early_human_migrations",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Stone Age",
+        "link": "https://en.wikipedia.org/wiki/Stone_Age",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Paleolithic",
+            "link": "https://en.wikipedia.org/wiki/Paleolithic",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Lower Paleolithic",
+                "link": "https://en.wikipedia.org/wiki/Lower_Paleolithic",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Middle Paleolithic",
+                "link": "https://en.wikipedia.org/wiki/Middle_Paleolithic",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Control of fire by early humans",
+                    "link": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Upper Paleolithic",
+                "link": "https://en.wikipedia.org/wiki/Upper_Paleolithic",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Behavioral modernity",
+                    "link": "https://en.wikipedia.org/wiki/Behavioral_modernity",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mesolithic",
+            "link": "https://en.wikipedia.org/wiki/Mesolithic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Neolithic",
+            "link": "https://en.wikipedia.org/wiki/Neolithic",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Neolithic Revolution",
+                "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cradle of civilization",
+                "link": "https://en.wikipedia.org/wiki/Cradle_of_civilization",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Prehistoric Egypt",
+                "link": "https://en.wikipedia.org/wiki/Prehistoric_Egypt",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Proto-Indo-Europeans",
+                "link": "https://en.wikipedia.org/wiki/Proto-Indo-Europeans",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ancient",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Ancient-History",
+    "children": [
+      {
+        "name": "Ancient: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Ancient:_General-Ancient",
+        "children": [
+          {
+            "name": "Ancient history",
+            "link": "https://en.wikipedia.org/wiki/Ancient_history",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bronze Age",
+            "link": "https://en.wikipedia.org/wiki/Bronze_Age",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chalcolithic",
+                "link": "https://en.wikipedia.org/wiki/Chalcolithic",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Iron Age",
+            "link": "https://en.wikipedia.org/wiki/Iron_Age",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Classical antiquity",
+            "link": "https://en.wikipedia.org/wiki/Classical_antiquity",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Hellenistic period",
+                "link": "https://en.wikipedia.org/wiki/Hellenistic_period",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Late antiquity",
+            "link": "https://en.wikipedia.org/wiki/Late_antiquity",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Silk Road",
+            "link": "https://en.wikipedia.org/wiki/Silk_Road",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa_2-Ancient",
+        "children": [
+          {
+            "name": "Ancient Egypt",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Old Kingdom of Egypt",
+                "link": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Middle Kingdom of Egypt",
+                "link": "https://en.wikipedia.org/wiki/Middle_Kingdom_of_Egypt",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "New Kingdom of Egypt",
+                "link": "https://en.wikipedia.org/wiki/New_Kingdom_of_Egypt",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ptolemaic Kingdom",
+                "link": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pharaoh",
+                "link": "https://en.wikipedia.org/wiki/Pharaoh",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Valley of the Kings",
+                "link": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Kingdom of Aksum",
+            "link": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bantu expansion",
+            "link": "https://en.wikipedia.org/wiki/Bantu_expansion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Carthage",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Carthage",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Punic Wars",
+                "link": "https://en.wikipedia.org/wiki/Punic_Wars",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Nok culture",
+            "link": "https://en.wikipedia.org/wiki/Nok_culture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nubia",
+            "link": "https://en.wikipedia.org/wiki/Nubia",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Kingdom of Kush",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Kush",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Land of Punt",
+            "link": "https://en.wikipedia.org/wiki/Land_of_Punt",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas_2-Ancient",
+        "children": [
+          {
+            "name": "Ancestral Puebloans",
+            "link": "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Andean civilizations",
+            "link": "https://en.wikipedia.org/wiki/Andean_civilizations",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chavín culture",
+                "link": "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Caral–Supe civilization",
+                "link": "https://en.wikipedia.org/wiki/Caral%E2%80%93Supe_civilization",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mesoamerica",
+            "link": "https://en.wikipedia.org/wiki/Mesoamerica",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Maya civilization",
+                "link": "https://en.wikipedia.org/wiki/Maya_civilization",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Olmecs",
+                "link": "https://en.wikipedia.org/wiki/Olmecs",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Zapotec civilization",
+                "link": "https://en.wikipedia.org/wiki/Zapotec_civilization",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Paleo-Indians",
+            "link": "https://en.wikipedia.org/wiki/Paleo-Indians",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Clovis culture",
+                "link": "https://en.wikipedia.org/wiki/Clovis_culture",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Peopling of the Americas",
+            "link": "https://en.wikipedia.org/wiki/Peopling_of_the_Americas",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia_2-Ancient",
+        "children": [
+          {
+            "name": "Central Asia, Iran, Caucasus",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Central_Asia,_Iran,_Caucasus-Asia_2",
+            "children": [
+              {
+                "name": "Achaemenid Empire",
+                "link": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Atropatene",
+                "link": "https://en.wikipedia.org/wiki/Atropatene",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Bactria",
+                "link": "https://en.wikipedia.org/wiki/Bactria",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Caucasian Albania",
+                "link": "https://en.wikipedia.org/wiki/Caucasian_Albania",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Elam",
+                "link": "https://en.wikipedia.org/wiki/Elam",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Iberia",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Iberia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Medes",
+                "link": "https://en.wikipedia.org/wiki/Medes",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Parthian Empire",
+                "link": "https://en.wikipedia.org/wiki/Parthian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Roman–Persian wars",
+                "link": "https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sasanian Empire",
+                "link": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sogdia",
+                "link": "https://en.wikipedia.org/wiki/Sogdia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tocharians",
+                "link": "https://en.wikipedia.org/wiki/Tocharians",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "East Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-East_Asia-Asia_2",
+            "children": [
+              {
+                "name": "Gojoseon",
+                "link": "https://en.wikipedia.org/wiki/Gojoseon",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Han dynasty",
+                "link": "https://en.wikipedia.org/wiki/Han_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Jin dynasty",
+                "link": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Jōmon period",
+                "link": "https://en.wikipedia.org/wiki/J%C5%8Dmon_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Northern and Southern dynasties",
+                "link": "https://en.wikipedia.org/wiki/Northern_and_Southern_dynasties",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Shang dynasty",
+                "link": "https://en.wikipedia.org/wiki/Shang_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sixteen Kingdoms",
+                "link": "https://en.wikipedia.org/wiki/Sixteen_Kingdoms",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Qin dynasty",
+                "link": "https://en.wikipedia.org/wiki/Qin_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spring and Autumn period",
+                "link": "https://en.wikipedia.org/wiki/Spring_and_Autumn_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Three Kingdoms",
+                "link": "https://en.wikipedia.org/wiki/Three_Kingdoms",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Three Kingdoms of Korea",
+                "link": "https://en.wikipedia.org/wiki/Three_Kingdoms_of_Korea",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Warring States period",
+                "link": "https://en.wikipedia.org/wiki/Warring_States_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Xia dynasty",
+                "link": "https://en.wikipedia.org/wiki/Xia_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Xiongnu",
+                "link": "https://en.wikipedia.org/wiki/Xiongnu",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Yayoi period",
+                "link": "https://en.wikipedia.org/wiki/Yayoi_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Zhou dynasty",
+                "link": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Southeast Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Southeast_Asia-Asia_2",
+            "children": [
+              {
+                "name": "Hồng Bàng dynasty",
+                "link": "https://en.wikipedia.org/wiki/H%E1%BB%93ng_B%C3%A0ng_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nanyue",
+                "link": "https://en.wikipedia.org/wiki/Nanyue",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pyu city-states",
+                "link": "https://en.wikipedia.org/wiki/Pyu_city-states",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "South Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-South_Asia-Asia_2",
+            "children": [
+              {
+                "name": "Gupta Empire",
+                "link": "https://en.wikipedia.org/wiki/Gupta_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indus Valley Civilisation",
+                "link": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chola dynasty",
+                "link": "https://en.wikipedia.org/wiki/Chola_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indo-Greek Kingdom",
+                "link": "https://en.wikipedia.org/wiki/Indo-Greek_Kingdom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indo-Scythians",
+                "link": "https://en.wikipedia.org/wiki/Indo-Scythians",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kushan Empire",
+                "link": "https://en.wikipedia.org/wiki/Kushan_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Magadha",
+                "link": "https://en.wikipedia.org/wiki/Magadha",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Maurya Empire",
+                "link": "https://en.wikipedia.org/wiki/Maurya_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Satavahana dynasty",
+                "link": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vedic period",
+                "link": "https://en.wikipedia.org/wiki/Vedic_period",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "West Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-West_Asia-Asia_2",
+            "children": [
+              {
+                "name": "Fertile Crescent",
+                "link": "https://en.wikipedia.org/wiki/Fertile_Crescent",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Mesopotamia",
+                    "link": "https://en.wikipedia.org/wiki/Mesopotamia",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Sumer",
+                        "link": "https://en.wikipedia.org/wiki/Sumer",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Assyria",
+                        "link": "https://en.wikipedia.org/wiki/Assyria",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Babylonia",
+                "link": "https://en.wikipedia.org/wiki/Babylonia",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Chaldea",
+                    "link": "https://en.wikipedia.org/wiki/Chaldea",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Akkadian Empire",
+                "link": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Amorites",
+                "link": "https://en.wikipedia.org/wiki/Amorites",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Armenia",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Armenia_(antiquity)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ebla",
+                "link": "https://en.wikipedia.org/wiki/Ebla",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of ancient Israel and Judah",
+                "link": "https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hittites",
+                "link": "https://en.wikipedia.org/wiki/Hittites",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lydia",
+                "link": "https://en.wikipedia.org/wiki/Lydia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mitanni",
+                "link": "https://en.wikipedia.org/wiki/Mitanni",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Phoenicia",
+                "link": "https://en.wikipedia.org/wiki/Phoenicia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Phrygia",
+                "link": "https://en.wikipedia.org/wiki/Phrygia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Seleucid Empire",
+                "link": "https://en.wikipedia.org/wiki/Seleucid_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sheba",
+                "link": "https://en.wikipedia.org/wiki/Sheba",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Trojan War",
+                "link": "https://en.wikipedia.org/wiki/Trojan_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Urartu",
+                "link": "https://en.wikipedia.org/wiki/Urartu",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe_2-Ancient",
+        "children": [
+          {
+            "name": "Ancient Greece",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Greece",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Minoan civilization",
+                "link": "https://en.wikipedia.org/wiki/Minoan_civilization",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mycenaean Greece",
+                "link": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Classical Athens",
+                "link": "https://en.wikipedia.org/wiki/Classical_Athens",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sparta",
+                "link": "https://en.wikipedia.org/wiki/Sparta",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Battle of Marathon",
+                "link": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Delian League",
+                "link": "https://en.wikipedia.org/wiki/Delian_League",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Greco-Persian Wars",
+                "link": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Peloponnesian War",
+                "link": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Macedonia",
+                "link": "https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Etruscan civilization",
+            "link": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ancient Rome",
+            "link": "https://en.wikipedia.org/wiki/Ancient_Rome",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Roman Kingdom",
+                "link": "https://en.wikipedia.org/wiki/Roman_Kingdom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Roman Republic",
+                "link": "https://en.wikipedia.org/wiki/Roman_Republic",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Macedonian Wars",
+                    "link": "https://en.wikipedia.org/wiki/Macedonian_Wars",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Gallic Wars",
+                    "link": "https://en.wikipedia.org/wiki/Gallic_Wars",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Roman Empire",
+                "link": "https://en.wikipedia.org/wiki/Roman_Empire",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Julio-Claudian dynasty",
+                    "link": "https://en.wikipedia.org/wiki/Julio-Claudian_dynasty",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Nerva–Antonine dynasty",
+                    "link": "https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Crisis of the Third Century",
+                    "link": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Western Roman Empire",
+                "link": "https://en.wikipedia.org/wiki/Western_Roman_Empire",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Fall of the Western Roman Empire",
+                    "link": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Celts",
+            "link": "https://en.wikipedia.org/wiki/Celts",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dacians",
+            "link": "https://en.wikipedia.org/wiki/Dacians",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Odrysian kingdom",
+            "link": "https://en.wikipedia.org/wiki/Odrysian_kingdom",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sarmatians",
+            "link": "https://en.wikipedia.org/wiki/Sarmatians",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Scythians",
+            "link": "https://en.wikipedia.org/wiki/Scythians",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Migration Period",
+            "link": "https://en.wikipedia.org/wiki/Migration_Period",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Alans",
+                "link": "https://en.wikipedia.org/wiki/Alans",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Goths",
+                "link": "https://en.wikipedia.org/wiki/Goths",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Huns",
+                "link": "https://en.wikipedia.org/wiki/Huns",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Saxons",
+                "link": "https://en.wikipedia.org/wiki/Saxons",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vandals",
+                "link": "https://en.wikipedia.org/wiki/Vandals",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Post-classical",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Post-classical-History",
+    "children": [
+      {
+        "name": "Post-classical: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Post-classical:_General-Post-classical",
+        "children": [
+          {
+            "name": "Post-classical history",
+            "link": "https://en.wikipedia.org/wiki/Post-classical_history",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Early Muslim conquests",
+            "link": "https://en.wikipedia.org/wiki/Early_Muslim_conquests",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Feudalism",
+            "link": "https://en.wikipedia.org/wiki/Feudalism",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Serfdom",
+                "link": "https://en.wikipedia.org/wiki/Serfdom",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Guild",
+            "link": "https://en.wikipedia.org/wiki/Guild",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nobility",
+            "link": "https://en.wikipedia.org/wiki/Nobility",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Boyar",
+                "link": "https://en.wikipedia.org/wiki/Boyar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Knight",
+                "link": "https://en.wikipedia.org/wiki/Knight",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Chivalry",
+                    "link": "https://en.wikipedia.org/wiki/Chivalry",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa_3-Post-classical",
+        "children": [
+          {
+            "name": "Ajuran Sultanate",
+            "link": "https://en.wikipedia.org/wiki/Ajuran_Sultanate",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Almoravid dynasty",
+            "link": "https://en.wikipedia.org/wiki/Almoravid_dynasty",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ethiopian Empire",
+            "link": "https://en.wikipedia.org/wiki/Ethiopian_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ghana Empire",
+            "link": "https://en.wikipedia.org/wiki/Ghana_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Kanem–Bornu Empire",
+            "link": "https://en.wikipedia.org/wiki/Kanem%E2%80%93Bornu_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mali Empire",
+            "link": "https://en.wikipedia.org/wiki/Mali_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Songhai Empire",
+            "link": "https://en.wikipedia.org/wiki/Songhai_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Trans-Saharan trade",
+            "link": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas_3-Post-classical",
+        "children": [
+          {
+            "name": "Aztecs",
+            "link": "https://en.wikipedia.org/wiki/Aztecs",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Inca Empire",
+            "link": "https://en.wikipedia.org/wiki/Inca_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chimor",
+            "link": "https://en.wikipedia.org/wiki/Chimor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mississippian culture",
+            "link": "https://en.wikipedia.org/wiki/Mississippian_culture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Moche culture",
+            "link": "https://en.wikipedia.org/wiki/Moche_culture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pre-Columbian era",
+            "link": "https://en.wikipedia.org/wiki/Pre-Columbian_era",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wari culture",
+            "link": "https://en.wikipedia.org/wiki/Wari_culture",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia_3-Post-classical",
+        "children": [
+          {
+            "name": "West Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-West_Asia_2-Asia_3",
+            "children": [
+              {
+                "name": "Islamic Golden Age",
+                "link": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Crusades",
+                "link": "https://en.wikipedia.org/wiki/Crusades",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Crusader states",
+                    "link": "https://en.wikipedia.org/wiki/Crusader_states",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Ottoman Empire",
+                "link": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Abbasid Caliphate",
+                "link": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fatimid Caliphate",
+                "link": "https://en.wikipedia.org/wiki/Fatimid_Caliphate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sultanate of Rum",
+                "link": "https://en.wikipedia.org/wiki/Sultanate_of_Rum",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Umayyad Caliphate",
+                "link": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mamluk",
+                "link": "https://en.wikipedia.org/wiki/Mamluk",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Central Asia and Iran",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Central_Asia_and_Iran-Asia_3",
+            "children": [
+              {
+                "name": "Aq Qoyunlu",
+                "link": "https://en.wikipedia.org/wiki/Aq_Qoyunlu",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Göktürks",
+                "link": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Golden Horde",
+                "link": "https://en.wikipedia.org/wiki/Golden_Horde",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Seljuk Empire",
+                "link": "https://en.wikipedia.org/wiki/Seljuk_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Qara Qoyunlu",
+                "link": "https://en.wikipedia.org/wiki/Qara_Qoyunlu",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Muslim conquest of Persia",
+                "link": "https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khwarazmian Empire",
+                "link": "https://en.wikipedia.org/wiki/Khwarazmian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Uyghur Khaganate",
+                "link": "https://en.wikipedia.org/wiki/Uyghur_Khaganate",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Southeast Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Southeast_Asia_2-Asia_3",
+            "children": [
+              {
+                "name": "Champa",
+                "link": "https://en.wikipedia.org/wiki/Champa",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khmer Empire",
+                "link": "https://en.wikipedia.org/wiki/Khmer_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Majapahit",
+                "link": "https://en.wikipedia.org/wiki/Majapahit",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Malacca Sultanate",
+                "link": "https://en.wikipedia.org/wiki/Malacca_Sultanate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pagan kingdom",
+                "link": "https://en.wikipedia.org/wiki/Pagan_kingdom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Srivijaya",
+                "link": "https://en.wikipedia.org/wiki/Srivijaya",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Trần dynasty",
+                "link": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_dynasty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "South Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-South_Asia_2-Asia_3",
+            "children": [
+              {
+                "name": "Delhi Sultanate",
+                "link": "https://en.wikipedia.org/wiki/Delhi_Sultanate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Muslim conquests in the Indian subcontinent",
+                "link": "https://en.wikipedia.org/wiki/Muslim_conquests_in_the_Indian_subcontinent",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vijayanagara Empire",
+                "link": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "East Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-East_Asia_2-Asia_3",
+            "children": [
+              {
+                "name": "An Lushan rebellion",
+                "link": "https://en.wikipedia.org/wiki/An_Lushan_rebellion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Five Dynasties and Ten Kingdoms period",
+                "link": "https://en.wikipedia.org/wiki/Five_Dynasties_and_Ten_Kingdoms_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Goryeo",
+                "link": "https://en.wikipedia.org/wiki/Goryeo",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Heian period",
+                "link": "https://en.wikipedia.org/wiki/Heian_period",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Jin",
+                "link": "https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Liao dynasty",
+                "link": "https://en.wikipedia.org/wiki/Liao_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mongol Empire",
+                "link": "https://en.wikipedia.org/wiki/Mongol_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mongol invasions and conquests",
+                "link": "https://en.wikipedia.org/wiki/Mongol_invasions_and_conquests",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ninja",
+                "link": "https://en.wikipedia.org/wiki/Ninja",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Samurai",
+                "link": "https://en.wikipedia.org/wiki/Samurai",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Song dynasty",
+                "link": "https://en.wikipedia.org/wiki/Song_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sui dynasty",
+                "link": "https://en.wikipedia.org/wiki/Sui_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tang dynasty",
+                "link": "https://en.wikipedia.org/wiki/Tang_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tibetan Empire",
+                "link": "https://en.wikipedia.org/wiki/Tibetan_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Yuan dynasty",
+                "link": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe_3-Post-classical",
+        "children": [
+          {
+            "name": "Europe: General",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Europe:_General-Europe_3",
+            "children": [
+              {
+                "name": "Middle Ages",
+                "link": "https://en.wikipedia.org/wiki/Middle_Ages",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Black Death",
+                "link": "https://en.wikipedia.org/wiki/Black_Death",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "East–West Schism",
+                "link": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "House of Habsburg",
+                "link": "https://en.wikipedia.org/wiki/House_of_Habsburg",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Eastern Europe and Central",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Eastern_Europe_and_Central-Europe_3",
+            "children": [
+              {
+                "name": "Pannonian Avars",
+                "link": "https://en.wikipedia.org/wiki/Pannonian_Avars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Bohemia",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Bohemia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "First Bulgarian Empire",
+                "link": "https://en.wikipedia.org/wiki/First_Bulgarian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Second Bulgarian Empire",
+                "link": "https://en.wikipedia.org/wiki/Second_Bulgarian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Byzantine Empire",
+                "link": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Arab–Byzantine wars",
+                    "link": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Byzantine–Bulgarian wars",
+                    "link": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Byzantine–Ottoman wars",
+                    "link": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Ottoman_wars",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Fall of Constantinople",
+                    "link": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cumans",
+                "link": "https://en.wikipedia.org/wiki/Cumans",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Galicia–Volhynia",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Galicia%E2%80%93Volhynia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Grand Duchy of Lithuania",
+                "link": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Lithuania",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Grand Principality of Moscow",
+                "link": "https://en.wikipedia.org/wiki/Grand_Principality_of_Moscow",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Hungary",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hussite Wars",
+                "link": "https://en.wikipedia.org/wiki/Hussite_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khazars",
+                "link": "https://en.wikipedia.org/wiki/Khazars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kievan Rus'",
+                "link": "https://en.wikipedia.org/wiki/Kievan_Rus%27",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Moravia",
+                "link": "https://en.wikipedia.org/wiki/Great_Moravia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Novgorod Republic",
+                "link": "https://en.wikipedia.org/wiki/Novgorod_Republic",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Polish–Lithuanian–Teutonic War",
+                "link": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian%E2%80%93Teutonic_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rurikids",
+                "link": "https://en.wikipedia.org/wiki/Rurikids",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Teutonic Order",
+                "link": "https://en.wikipedia.org/wiki/Teutonic_Order",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vladimir-Suzdal",
+                "link": "https://en.wikipedia.org/wiki/Vladimir-Suzdal",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Volga Bulgaria",
+                "link": "https://en.wikipedia.org/wiki/Volga_Bulgaria",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Western Europe",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Western_Europe-Europe_3",
+            "children": [
+              {
+                "name": "Franks",
+                "link": "https://en.wikipedia.org/wiki/Franks",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hanseatic League",
+                "link": "https://en.wikipedia.org/wiki/Hanseatic_League",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Holy Roman Empire",
+                "link": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Inquisition",
+                "link": "https://en.wikipedia.org/wiki/Inquisition",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Investiture Controversy",
+                "link": "https://en.wikipedia.org/wiki/Investiture_Controversy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kingdom of Germany",
+                "link": "https://en.wikipedia.org/wiki/Kingdom_of_Germany",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Knights Templar",
+                "link": "https://en.wikipedia.org/wiki/Knights_Templar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Normans",
+                "link": "https://en.wikipedia.org/wiki/Normans",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Northern Crusades",
+                "link": "https://en.wikipedia.org/wiki/Northern_Crusades",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ostsiedlung",
+                "link": "https://en.wikipedia.org/wiki/Ostsiedlung",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "House of Plantagenet",
+                "link": "https://en.wikipedia.org/wiki/House_of_Plantagenet",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Viking Age",
+                "link": "https://en.wikipedia.org/wiki/Viking_Age",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Vikings",
+                    "link": "https://en.wikipedia.org/wiki/Vikings",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Wends",
+                "link": "https://en.wikipedia.org/wiki/Wends",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "England",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-England-Western_Europe",
+                "children": [
+                  {
+                    "name": "Kingdom of England",
+                    "link": "https://en.wikipedia.org/wiki/Kingdom_of_England",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Anglo-Saxons",
+                    "link": "https://en.wikipedia.org/wiki/Anglo-Saxons",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Norman Conquest",
+                    "link": "https://en.wikipedia.org/wiki/Norman_Conquest",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Battle of Hastings",
+                        "link": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Wars of the Roses",
+                    "link": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "France",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-France-Western_Europe",
+                "children": [
+                  {
+                    "name": "Capetian dynasty",
+                    "link": "https://en.wikipedia.org/wiki/Capetian_dynasty",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Carolingian Empire",
+                    "link": "https://en.wikipedia.org/wiki/Carolingian_Empire",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Duchy of Burgundy",
+                    "link": "https://en.wikipedia.org/wiki/Duchy_of_Burgundy",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Kingdom of France",
+                    "link": "https://en.wikipedia.org/wiki/Kingdom_of_France",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Hundred Years' War",
+                    "link": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Francia",
+                    "link": "https://en.wikipedia.org/wiki/Francia",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Merovingian dynasty",
+                    "link": "https://en.wikipedia.org/wiki/Merovingian_dynasty",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Spain",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Spain-Western_Europe",
+                "children": [
+                  {
+                    "name": "Al-Andalus",
+                    "link": "https://en.wikipedia.org/wiki/Al-Andalus",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "Umayyad state of Córdoba",
+                        "link": "https://en.wikipedia.org/wiki/Umayyad_state_of_C%C3%B3rdoba",
+                        "layer": 6,
+                        "children": []
+                      },
+                      {
+                        "name": "Reconquista",
+                        "link": "https://en.wikipedia.org/wiki/Reconquista",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Kingdom of Aragon",
+                    "link": "https://en.wikipedia.org/wiki/Kingdom_of_Aragon",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Kingdom of Castile",
+                    "link": "https://en.wikipedia.org/wiki/Kingdom_of_Castile",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Visigothic Kingdom",
+                    "link": "https://en.wikipedia.org/wiki/Visigothic_Kingdom",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Italy",
+                "link": null,
+                "layer": 4,
+                "type": "heading",
+                "heading_id": "h-Italy-Western_Europe",
+                "children": [
+                  {
+                    "name": "Gothic War",
+                    "link": "https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Guelphs and Ghibellines",
+                    "link": "https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "House of Medici",
+                    "link": "https://en.wikipedia.org/wiki/House_of_Medici",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Lombards",
+                    "link": "https://en.wikipedia.org/wiki/Lombards",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Papal States",
+                    "link": "https://en.wikipedia.org/wiki/Papal_States",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Kingdom of Sicily",
+                    "link": "https://en.wikipedia.org/wiki/Kingdom_of_Sicily",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Republic of Genoa",
+                    "link": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Republic of Venice",
+                    "link": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Early modern",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Early_modern-History",
+    "children": [
+      {
+        "name": "Early modern: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Early_modern:_General-Early_modern",
+        "children": [
+          {
+            "name": "Early modern period",
+            "link": "https://en.wikipedia.org/wiki/Early_modern_period",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Age of Discovery",
+            "link": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Magellan expedition",
+                "link": "https://en.wikipedia.org/wiki/Magellan_expedition",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Little Ice Age",
+            "link": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Renaissance",
+            "link": "https://en.wikipedia.org/wiki/Renaissance",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Scientific Revolution",
+            "link": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Seven Years' War",
+            "link": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Colonial empires",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Colonial_empires-Early_modern",
+        "children": [
+          {
+            "name": "British Empire",
+            "link": "https://en.wikipedia.org/wiki/British_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spanish Empire",
+            "link": "https://en.wikipedia.org/wiki/Spanish_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "French colonial empire",
+            "link": "https://en.wikipedia.org/wiki/French_colonial_empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Portuguese Empire",
+            "link": "https://en.wikipedia.org/wiki/Portuguese_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Columbian exchange",
+            "link": "https://en.wikipedia.org/wiki/Columbian_exchange",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Treaty of Tordesillas",
+            "link": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa_4-Early_modern",
+        "children": [
+          {
+            "name": "Slavery in Africa",
+            "link": "https://en.wikipedia.org/wiki/Slavery_in_Africa",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Atlantic slave trade",
+            "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mutapa Empire",
+            "link": "https://en.wikipedia.org/wiki/Mutapa_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Asante Empire",
+            "link": "https://en.wikipedia.org/wiki/Asante_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Kingdom of Kongo",
+            "link": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Oyo Empire",
+            "link": "https://en.wikipedia.org/wiki/Oyo_Empire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Funj Sultanate",
+            "link": "https://en.wikipedia.org/wiki/Funj_Sultanate",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hausa Kingdoms",
+            "link": "https://en.wikipedia.org/wiki/Hausa_Kingdoms",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas_4-Early_modern",
+        "children": [
+          {
+            "name": "American Revolution",
+            "link": "https://en.wikipedia.org/wiki/American_Revolution",
+            "layer": 3,
+            "children": [
+              {
+                "name": "American Revolutionary War",
+                "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "European colonization of the Americas",
+            "link": "https://en.wikipedia.org/wiki/European_colonization_of_the_Americas",
+            "layer": 3,
+            "children": [
+              {
+                "name": "British colonization of the Americas",
+                "link": "https://en.wikipedia.org/wiki/British_colonization_of_the_Americas",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spanish colonization of the Americas",
+                "link": "https://en.wikipedia.org/wiki/Spanish_colonization_of_the_Americas",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Spanish conquest of the Aztec Empire",
+                    "link": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Spanish conquest of the Inca Empire",
+                    "link": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "French and Indian War",
+            "link": "https://en.wikipedia.org/wiki/French_and_Indian_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Haitian Revolution",
+            "link": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Lewis and Clark Expedition",
+            "link": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spanish American wars of independence",
+            "link": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia_4-Early_modern",
+        "children": [
+          {
+            "name": "Basics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Basics_2-Asia_4",
+            "children": [
+              {
+                "name": "Western imperialism in Asia",
+                "link": "https://en.wikipedia.org/wiki/Western_imperialism_in_Asia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dutch East India Company",
+                "link": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "East India Company",
+                "link": "https://en.wikipedia.org/wiki/East_India_Company",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Central and West Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Central_and_West_Asia-Asia_4",
+            "children": [
+              {
+                "name": "Dzungar Khanate",
+                "link": "https://en.wikipedia.org/wiki/Dzungar_Khanate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kazakh Khanate",
+                "link": "https://en.wikipedia.org/wiki/Kazakh_Khanate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khanate of Bukhara",
+                "link": "https://en.wikipedia.org/wiki/Khanate_of_Bukhara",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khanate of Sibir",
+                "link": "https://en.wikipedia.org/wiki/Khanate_of_Sibir",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Safavid dynasty",
+                "link": "https://en.wikipedia.org/wiki/Safavid_dynasty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "East Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-East_Asia_3-Asia_4",
+            "children": [
+              {
+                "name": "1556 Shaanxi earthquake",
+                "link": "https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Edo period",
+                "link": "https://en.wikipedia.org/wiki/Edo_period",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Tokugawa shogunate",
+                    "link": "https://en.wikipedia.org/wiki/Tokugawa_shogunate",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Japanese invasions of Korea",
+                "link": "https://en.wikipedia.org/wiki/Imjin_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Joseon",
+                "link": "https://en.wikipedia.org/wiki/Joseon",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ming dynasty",
+                "link": "https://en.wikipedia.org/wiki/Ming_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Qing dynasty",
+                "link": "https://en.wikipedia.org/wiki/Qing_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sino-Burmese War",
+                "link": "https://en.wikipedia.org/wiki/Sino-Burmese_War",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Southeast Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Southeast_Asia_3-Asia_4",
+            "children": [
+              {
+                "name": "Ayutthaya Kingdom",
+                "link": "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lan Xang",
+                "link": "https://en.wikipedia.org/wiki/Lan_Xang",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lê dynasty",
+                "link": "https://en.wikipedia.org/wiki/L%C3%AA_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Toungoo dynasty",
+                "link": "https://en.wikipedia.org/wiki/Toungoo_dynasty",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "South Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-South_Asia_3-Asia_4",
+            "children": [
+              {
+                "name": "Great Bengal famine of 1770",
+                "link": "https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Deccan sultanates",
+                "link": "https://en.wikipedia.org/wiki/Deccan_sultanates",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Maratha Empire",
+                "link": "https://en.wikipedia.org/wiki/Maratha_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mughal Empire",
+                "link": "https://en.wikipedia.org/wiki/Mughal_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sikh Empire",
+                "link": "https://en.wikipedia.org/wiki/Sikh_Empire",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe_4-Early_modern",
+        "children": [
+          {
+            "name": "Basics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Basics_3-Europe_4",
+            "children": [
+              {
+                "name": "Age of Enlightenment",
+                "link": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Reformation",
+                "link": "https://en.wikipedia.org/wiki/Reformation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Thirty Years' War",
+                "link": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Counter-Reformation",
+                "link": "https://en.wikipedia.org/wiki/Counter-Reformation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Peace of Westphalia",
+                "link": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Eastern Europe and Central",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Eastern_Europe_and_Central_2-Europe_4",
+            "children": [
+              {
+                "name": "Cossacks",
+                "link": "https://en.wikipedia.org/wiki/Cossacks",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Cossack Hetmanate",
+                    "link": "https://en.wikipedia.org/wiki/Cossack_Hetmanate",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Crimean Khanate",
+                "link": "https://en.wikipedia.org/wiki/Crimean_Khanate",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cretan War",
+                "link": "https://en.wikipedia.org/wiki/Cretan_War_(1645%E2%80%931669)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Northern War",
+                "link": "https://en.wikipedia.org/wiki/Great_Northern_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Turkish War",
+                "link": "https://en.wikipedia.org/wiki/Great_Turkish_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "House of Romanov",
+                "link": "https://en.wikipedia.org/wiki/House_of_Romanov",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khanate of Kazan",
+                "link": "https://en.wikipedia.org/wiki/Khanate_of_Kazan",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Polish–Lithuanian Commonwealth",
+                "link": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Partitions of Poland",
+                    "link": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Livonian War",
+                "link": "https://en.wikipedia.org/wiki/Livonian_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Muscovite–Lithuanian Wars",
+                "link": "https://en.wikipedia.org/wiki/Muscovite%E2%80%93Lithuanian_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ottoman wars in Europe",
+                "link": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Battle of Vienna",
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Vienna",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Polish–Muscovite War",
+                "link": "https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tsardom of Russia",
+                "link": "https://en.wikipedia.org/wiki/Tsardom_of_Russia",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Western Europe",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Western_Europe_2-Europe_4",
+            "children": [
+              {
+                "name": "1755 Lisbon earthquake",
+                "link": "https://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Anglo–Dutch wars",
+                "link": "https://en.wikipedia.org/wiki/Anglo%E2%80%93Dutch_wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Eighty Years' War",
+                "link": "https://en.wikipedia.org/wiki/Eighty_Years%27_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Enclosure",
+                "link": "https://en.wikipedia.org/wiki/Enclosure",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "English Civil War",
+                "link": "https://en.wikipedia.org/wiki/English_Civil_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "French Revolution",
+                "link": "https://en.wikipedia.org/wiki/French_Revolution",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "French Revolutionary Wars",
+                    "link": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "French Wars of Religion",
+                "link": "https://en.wikipedia.org/wiki/French_Wars_of_Religion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Huguenots",
+                "link": "https://en.wikipedia.org/wiki/Huguenots",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Italian Wars",
+                "link": "https://en.wikipedia.org/wiki/Italian_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Prussia",
+                "link": "https://en.wikipedia.org/wiki/Prussia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Puritans",
+                "link": "https://en.wikipedia.org/wiki/Puritans",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spanish Inquisition",
+                "link": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "War of the Austrian Succession",
+                "link": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "War of the Spanish Succession",
+                "link": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Modern",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Modern-History",
+    "children": [
+      {
+        "name": "Modern: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Modern:_General-Modern",
+        "children": [
+          {
+            "name": "Modern era",
+            "link": "https://en.wikipedia.org/wiki/Modern_era",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Late modern period",
+                "link": "https://en.wikipedia.org/wiki/Late_modern_period",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Contemporary history",
+            "link": "https://en.wikipedia.org/wiki/Contemporary_history",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "1973 oil crisis",
+            "link": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "COVID-19 pandemic",
+            "link": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Abolitionism",
+            "link": "https://en.wikipedia.org/wiki/Abolitionism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Civil rights movements",
+            "link": "https://en.wikipedia.org/wiki/Civil_rights_movements",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cold War",
+            "link": "https://en.wikipedia.org/wiki/Cold_War",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Nuclear arms race",
+                "link": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Collective farming",
+            "link": "https://en.wikipedia.org/wiki/Collective_farming",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Decolonization",
+            "link": "https://en.wikipedia.org/wiki/Decolonization",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "2008 financial crisis",
+            "link": "https://en.wikipedia.org/wiki/2008_financial_crisis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Great Depression",
+            "link": "https://en.wikipedia.org/wiki/Great_Depression",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Green Revolution",
+            "link": "https://en.wikipedia.org/wiki/Green_Revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Industrial Revolution",
+            "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Information Age",
+            "link": "https://en.wikipedia.org/wiki/Information_Age",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "New Imperialism",
+            "link": "https://en.wikipedia.org/wiki/New_Imperialism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Post–World War II economic expansion",
+            "link": "https://en.wikipedia.org/wiki/Post%E2%80%93World_War_II_economic_expansion",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Second Industrial Revolution",
+            "link": "https://en.wikipedia.org/wiki/Second_Industrial_Revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sexual revolution",
+            "link": "https://en.wikipedia.org/wiki/Sexual_revolution",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Space Race",
+            "link": "https://en.wikipedia.org/wiki/Space_Race",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Moon landing",
+                "link": "https://en.wikipedia.org/wiki/Moon_landing",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Spanish flu",
+            "link": "https://en.wikipedia.org/wiki/Spanish_flu",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "War on terror",
+            "link": "https://en.wikipedia.org/wiki/War_on_terror",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "World War I",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-World_War_I-Modern:_General",
+            "children": [
+              {
+                "name": "World War I",
+                "link": "https://en.wikipedia.org/wiki/World_War_I",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Assassination of Archduke Franz Ferdinand",
+                    "link": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Balfour Declaration",
+                    "link": "https://en.wikipedia.org/wiki/Balfour_Declaration",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Balkans Campaign",
+                    "link": "https://en.wikipedia.org/wiki/Balkans_theatre",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Eastern Front",
+                    "link": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Italian Front",
+                    "link": "https://en.wikipedia.org/wiki/Italian_front_(World_War_I)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Middle Eastern theatre of World War I",
+                    "link": "https://en.wikipedia.org/wiki/Middle_Eastern_theatre_of_World_War_I",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Western Front",
+                    "link": "https://en.wikipedia.org/wiki/Western_Front_(World_War_I)",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "World War II",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-World_War_II-Modern:_General",
+            "children": [
+              {
+                "name": "World War II",
+                "link": "https://en.wikipedia.org/wiki/World_War_II",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Atomic bombings of Hiroshima and Nagasaki",
+                    "link": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Attack on Pearl Harbor",
+                    "link": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Battle of the Atlantic",
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_the_Atlantic",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Battle of Britain",
+                    "link": "https://en.wikipedia.org/wiki/Battle_of_Britain",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Eastern Front",
+                    "link": "https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "The Holocaust",
+                    "link": "https://en.wikipedia.org/wiki/The_Holocaust",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Mediterranean and Middle East theatre of World War II",
+                    "link": "https://en.wikipedia.org/wiki/Mediterranean_and_Middle_East_theatre_of_World_War_II",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Pacific War",
+                    "link": "https://en.wikipedia.org/wiki/Pacific_War",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Western Front",
+                    "link": "https://en.wikipedia.org/wiki/Western_Front_(World_War_II)",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Yalta Conference",
+                    "link": "https://en.wikipedia.org/wiki/Yalta_Conference",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas_5-Modern",
+        "children": [
+          {
+            "name": "North America",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-North_America-Americas_5",
+            "children": [
+              {
+                "name": "American Civil War",
+                "link": "https://en.wikipedia.org/wiki/American_Civil_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "American Indian Wars",
+                "link": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "American frontier",
+                "link": "https://en.wikipedia.org/wiki/American_frontier",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Civil rights movement",
+                "link": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cuban Missile Crisis",
+                "link": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cuban Revolution",
+                "link": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dust Bowl",
+                "link": "https://en.wikipedia.org/wiki/Dust_Bowl",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Manhattan Project",
+                "link": "https://en.wikipedia.org/wiki/Manhattan_Project",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mexican War of Independence",
+                "link": "https://en.wikipedia.org/wiki/Mexican_War_of_Independence",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mexican Revolution",
+                "link": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mexican–American War",
+                "link": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Monroe Doctrine",
+                "link": "https://en.wikipedia.org/wiki/Monroe_Doctrine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "New Deal",
+                "link": "https://en.wikipedia.org/wiki/New_Deal",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "September 11 attacks",
+                "link": "https://en.wikipedia.org/wiki/September_11_attacks",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spanish–American War",
+                "link": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wall Street crash of 1929",
+                "link": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "War of 1812",
+                "link": "https://en.wikipedia.org/wiki/War_of_1812",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "South America",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-South_America-Americas_5",
+            "children": [
+              {
+                "name": "Empire of Brazil",
+                "link": "https://en.wikipedia.org/wiki/Empire_of_Brazil",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gran Colombia",
+                "link": "https://en.wikipedia.org/wiki/Gran_Colombia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Operation Condor",
+                "link": "https://en.wikipedia.org/wiki/Operation_Condor",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "War of the Pacific",
+                "link": "https://en.wikipedia.org/wiki/War_of_the_Pacific",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Paraguayan War",
+                "link": "https://en.wikipedia.org/wiki/Paraguayan_War",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia_5-Modern",
+        "children": [
+          {
+            "name": "Central Asia and Iran",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Central_Asia_and_Iran_2-Asia_5",
+            "children": [
+              {
+                "name": "Afghan conflict",
+                "link": "https://en.wikipedia.org/wiki/Afghan_conflict",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Game",
+                "link": "https://en.wikipedia.org/wiki/Great_Game",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Iran–Iraq War",
+                "link": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Iranian Revolution",
+                "link": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Persian Constitutional Revolution",
+                "link": "https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "East Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-East_Asia_4-Asia_5",
+            "children": [
+              {
+                "name": "1931 China floods",
+                "link": "https://en.wikipedia.org/wiki/1931_China_floods",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Boxer Rebellion",
+                "link": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chinese Civil War",
+                "link": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cultural Revolution",
+                "link": "https://en.wikipedia.org/wiki/Cultural_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Empire of Japan",
+                "link": "https://en.wikipedia.org/wiki/Empire_of_Japan",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "First Opium War",
+                "link": "https://en.wikipedia.org/wiki/First_Opium_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "First Sino-Japanese War",
+                "link": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Leap Forward",
+                "link": "https://en.wikipedia.org/wiki/Great_Leap_Forward",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Korean War",
+                "link": "https://en.wikipedia.org/wiki/Korean_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Meiji Restoration",
+                "link": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russo-Japanese War",
+                "link": "https://en.wikipedia.org/wiki/Russo-Japanese_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Second Opium War",
+                "link": "https://en.wikipedia.org/wiki/Second_Opium_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "1911 Revolution",
+                "link": "https://en.wikipedia.org/wiki/1911_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Second Sino-Japanese War",
+                "link": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Nanjing Massacre",
+                    "link": "https://en.wikipedia.org/wiki/Nanjing_Massacre",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Taiping Rebellion",
+                "link": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "1989 Tiananmen Square protests and massacre",
+                "link": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Southeast Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Southeast_Asia_4-Asia_5",
+            "children": [
+              {
+                "name": "2004 Indian Ocean earthquake and tsunami",
+                "link": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dutch East Indies",
+                "link": "https://en.wikipedia.org/wiki/Dutch_East_Indies",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "French Indochina",
+                "link": "https://en.wikipedia.org/wiki/French_Indochina",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indonesian National Revolution",
+                "link": "https://en.wikipedia.org/wiki/Indonesian_National_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nguyễn dynasty",
+                "link": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Philippine–American War",
+                "link": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Philippine Revolution",
+                "link": "https://en.wikipedia.org/wiki/Philippine_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Konbaung dynasty",
+                "link": "https://en.wikipedia.org/wiki/Konbaung_dynasty",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vietnam War",
+                "link": "https://en.wikipedia.org/wiki/Vietnam_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Khmer Rouge",
+                "link": "https://en.wikipedia.org/wiki/Khmer_Rouge",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "First Indochina War",
+                "link": "https://en.wikipedia.org/wiki/First_Indochina_War",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "South Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-South_Asia_4-Asia_5",
+            "children": [
+              {
+                "name": "1970 Bhola cyclone",
+                "link": "https://en.wikipedia.org/wiki/1970_Bhola_cyclone",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Bangladesh Liberation War",
+                "link": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "British Raj",
+                "link": "https://en.wikipedia.org/wiki/British_Raj",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indian independence movement",
+                "link": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Indian Rebellion of 1857",
+                "link": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Partition of India",
+                "link": "https://en.wikipedia.org/wiki/Partition_of_India",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sri Lankan civil war",
+                "link": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "West Asia",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-West_Asia_3-Asia_5",
+            "children": [
+              {
+                "name": "Arab–Israeli conflict",
+                "link": "https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Armenian genocide",
+                "link": "https://en.wikipedia.org/wiki/Armenian_genocide",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gulf War",
+                "link": "https://en.wikipedia.org/wiki/Gulf_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Iraq War",
+                "link": "https://en.wikipedia.org/wiki/Iraq_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Israeli–Palestinian conflict",
+                "link": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Turkish War of Independence",
+                "link": "https://en.wikipedia.org/wiki/Turkish_War_of_Independence",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe_5-Modern",
+        "children": [
+          {
+            "name": "Basics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Basics_4-Europe_5",
+            "children": [
+              {
+                "name": "Austrian Empire",
+                "link": "https://en.wikipedia.org/wiki/Austrian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Austria-Hungary",
+                "link": "https://en.wikipedia.org/wiki/Austria-Hungary",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Congress of Vienna",
+                "link": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "European integration",
+                "link": "https://en.wikipedia.org/wiki/European_integration",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Iron Curtain",
+                "link": "https://en.wikipedia.org/wiki/Iron_Curtain",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Revolutions of 1848",
+                "link": "https://en.wikipedia.org/wiki/Revolutions_of_1848",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Treaty of Versailles",
+                "link": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Eastern Europe",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Eastern_Europe-Europe_5",
+            "children": [
+              {
+                "name": "Balkan Wars",
+                "link": "https://en.wikipedia.org/wiki/Balkan_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chernobyl disaster",
+                "link": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Congress of Berlin",
+                "link": "https://en.wikipedia.org/wiki/Congress_of_Berlin",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Crimean War",
+                "link": "https://en.wikipedia.org/wiki/Crimean_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Czechoslovakia",
+                "link": "https://en.wikipedia.org/wiki/Czechoslovakia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Eastern Bloc",
+                "link": "https://en.wikipedia.org/wiki/Eastern_Bloc",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Warsaw Pact",
+                    "link": "https://en.wikipedia.org/wiki/Warsaw_Pact",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "French invasion of Russia",
+                "link": "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Greek War of Independence",
+                "link": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hungarian Revolution of 1956",
+                "link": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Polish–Soviet War",
+                "link": "https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Prague Spring",
+                "link": "https://en.wikipedia.org/wiki/Prague_Spring",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russian Revolution of 1905",
+                "link": "https://en.wikipedia.org/wiki/Russian_Revolution_of_1905",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Revolutions of 1989",
+                "link": "https://en.wikipedia.org/wiki/Revolutions_of_1989",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russian Civil War",
+                "link": "https://en.wikipedia.org/wiki/Russian_Civil_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russian Empire",
+                "link": "https://en.wikipedia.org/wiki/Russian_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russian Revolution",
+                "link": "https://en.wikipedia.org/wiki/Russian_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Russo-Turkish War",
+                "link": "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Soviet Union",
+                "link": "https://en.wikipedia.org/wiki/Soviet_Union",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Dissolution of the Soviet Union",
+                    "link": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Great Purge",
+                    "link": "https://en.wikipedia.org/wiki/Great_Purge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Gulag",
+                    "link": "https://en.wikipedia.org/wiki/Gulag",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Holodomor",
+                    "link": "https://en.wikipedia.org/wiki/Holodomor",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Population transfer in the Soviet Union",
+                    "link": "https://en.wikipedia.org/wiki/Population_transfer_in_the_Soviet_Union",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Yugoslavia",
+                "link": "https://en.wikipedia.org/wiki/Yugoslavia",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Western Europe",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Western_Europe_3-Europe_5",
+            "children": [
+              {
+                "name": "Berlin Wall",
+                "link": "https://en.wikipedia.org/wiki/Berlin_Wall",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dreyfus affair",
+                "link": "https://en.wikipedia.org/wiki/Dreyfus_affair",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Franco-Prussian War",
+                "link": "https://en.wikipedia.org/wiki/Franco-Prussian_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "German Confederation",
+                "link": "https://en.wikipedia.org/wiki/German_Confederation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "German Empire",
+                "link": "https://en.wikipedia.org/wiki/German_Empire",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "German reunification",
+                "link": "https://en.wikipedia.org/wiki/German_reunification",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Great Famine",
+                "link": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Unification of Italy",
+                "link": "https://en.wikipedia.org/wiki/Unification_of_Italy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "July Revolution",
+                "link": "https://en.wikipedia.org/wiki/July_Revolution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Napoleonic Wars",
+                "link": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nazi Germany",
+                "link": "https://en.wikipedia.org/wiki/Nazi_Germany",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Nazi concentration camps",
+                    "link": "https://en.wikipedia.org/wiki/Nazi_concentration_camps",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Paris Commune",
+                "link": "https://en.wikipedia.org/wiki/Paris_Commune",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sinking of the RMSTitanic",
+                "link": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Spanish Civil War",
+                "link": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "The Troubles",
+                "link": "https://en.wikipedia.org/wiki/The_Troubles",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Unification of Germany",
+                "link": "https://en.wikipedia.org/wiki/Unification_of_Germany",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa_5-Modern",
+        "children": [
+          {
+            "name": "Algerian War",
+            "link": "https://en.wikipedia.org/wiki/Algerian_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Angolan Civil War",
+            "link": "https://en.wikipedia.org/wiki/Angolan_Civil_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Anglo-Zulu War",
+            "link": "https://en.wikipedia.org/wiki/Anglo-Zulu_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Apartheid",
+            "link": "https://en.wikipedia.org/wiki/Apartheid",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Congo Free State",
+            "link": "https://en.wikipedia.org/wiki/Congo_Free_State",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ethiopian Civil War",
+            "link": "https://en.wikipedia.org/wiki/Ethiopian_Civil_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nigerian Civil War",
+            "link": "https://en.wikipedia.org/wiki/Nigerian_Civil_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rwandan genocide",
+            "link": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Scramble for Africa",
+            "link": "https://en.wikipedia.org/wiki/Scramble_for_Africa",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Second Boer War",
+            "link": "https://en.wikipedia.org/wiki/Second_Boer_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Second Congo War",
+            "link": "https://en.wikipedia.org/wiki/Second_Congo_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Second Italo-Ethiopian War",
+            "link": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sokoto Caliphate",
+            "link": "https://en.wikipedia.org/wiki/Sokoto_Caliphate",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Historical cities",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Historical_cities-History",
+    "children": [
+      {
+        "name": "Africa",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Africa_6-Historical_cities",
+        "children": [
+          {
+            "name": "Carthage",
+            "link": "https://en.wikipedia.org/wiki/Carthage",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Great Zimbabwe",
+            "link": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Memphis",
+            "link": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Meroë",
+            "link": "https://en.wikipedia.org/wiki/Mero%C3%AB",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Thebes",
+            "link": "https://en.wikipedia.org/wiki/Thebes,_Egypt",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Timbuktu",
+            "link": "https://en.wikipedia.org/wiki/Timbuktu",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Americas",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Americas_6-Historical_cities",
+        "children": [
+          {
+            "name": "Cahokia",
+            "link": "https://en.wikipedia.org/wiki/Cahokia",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tenochtitlan",
+            "link": "https://en.wikipedia.org/wiki/Tenochtitlan",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Teotihuacan",
+            "link": "https://en.wikipedia.org/wiki/Teotihuacan",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tikal",
+            "link": "https://en.wikipedia.org/wiki/Tikal",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tiwanaku",
+            "link": "https://en.wikipedia.org/wiki/Tiwanaku",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asia",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Asia_6-Historical_cities",
+        "children": [
+          {
+            "name": "Antioch",
+            "link": "https://en.wikipedia.org/wiki/Antioch",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Babylon",
+            "link": "https://en.wikipedia.org/wiki/Babylon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Çatalhöyük",
+            "link": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ctesiphon",
+            "link": "https://en.wikipedia.org/wiki/Ctesiphon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Göbekli Tepe",
+            "link": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Jericho",
+            "link": "https://en.wikipedia.org/wiki/Jericho",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mohenjo-daro",
+            "link": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nineveh",
+            "link": "https://en.wikipedia.org/wiki/Nineveh",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Palmyra",
+            "link": "https://en.wikipedia.org/wiki/Palmyra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Persepolis",
+            "link": "https://en.wikipedia.org/wiki/Persepolis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Petra",
+            "link": "https://en.wikipedia.org/wiki/Petra",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Susa",
+            "link": "https://en.wikipedia.org/wiki/Susa",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Troy",
+            "link": "https://en.wikipedia.org/wiki/Troy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ugarit",
+            "link": "https://en.wikipedia.org/wiki/Ugarit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ur",
+            "link": "https://en.wikipedia.org/wiki/Ur",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Uruk",
+            "link": "https://en.wikipedia.org/wiki/Uruk",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Europe_6-Historical_cities",
+        "children": [
+          {
+            "name": "Constantinople",
+            "link": "https://en.wikipedia.org/wiki/Constantinople",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Knossos",
+            "link": "https://en.wikipedia.org/wiki/Knossos",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pompeii",
+            "link": "https://en.wikipedia.org/wiki/Pompeii",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "History by subject matter",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-History_by_subject_matter-History",
+    "children": [
+      {
+        "name": "History of art",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_art-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of art",
+            "link": "https://en.wikipedia.org/wiki/History_of_art",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of architecture",
+                "link": "https://en.wikipedia.org/wiki/History_of_architecture",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of film",
+                "link": "https://en.wikipedia.org/wiki/History_of_film",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of literature",
+                "link": "https://en.wikipedia.org/wiki/History_of_literature",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of music",
+                "link": "https://en.wikipedia.org/wiki/History_of_music",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "History of opera",
+                    "link": "https://en.wikipedia.org/wiki/History_of_opera",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "History of theatre",
+                "link": "https://en.wikipedia.org/wiki/History_of_theatre",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History of everyday life",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_everyday_life-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of human sexuality",
+            "link": "https://en.wikipedia.org/wiki/History_of_human_sexuality",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of philosophy and religion",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_philosophy_and_religion-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of atheism",
+            "link": "https://en.wikipedia.org/wiki/History_of_atheism",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of philosophy",
+            "link": "https://en.wikipedia.org/wiki/History_of_philosophy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of political thought",
+            "link": "https://en.wikipedia.org/wiki/History_of_political_thought",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of religion",
+            "link": "https://en.wikipedia.org/wiki/History_of_religion",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of Buddhism",
+                "link": "https://en.wikipedia.org/wiki/History_of_Buddhism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of Christianity",
+                "link": "https://en.wikipedia.org/wiki/History_of_Christianity",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of Hinduism",
+                "link": "https://en.wikipedia.org/wiki/History_of_Hinduism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of Islam",
+                "link": "https://en.wikipedia.org/wiki/History_of_Islam",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Jewish history",
+                "link": "https://en.wikipedia.org/wiki/Jewish_history",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History of science and technology",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_science_and_technology-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of agriculture",
+            "link": "https://en.wikipedia.org/wiki/History_of_agriculture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of communication",
+            "link": "https://en.wikipedia.org/wiki/History_of_communication",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of writing",
+                "link": "https://en.wikipedia.org/wiki/History_of_writing",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "History of mathematics",
+            "link": "https://en.wikipedia.org/wiki/History_of_mathematics",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of science",
+            "link": "https://en.wikipedia.org/wiki/History_of_science",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of astronomy",
+                "link": "https://en.wikipedia.org/wiki/History_of_astronomy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of biology",
+                "link": "https://en.wikipedia.org/wiki/History_of_biology",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of chemistry",
+                "link": "https://en.wikipedia.org/wiki/History_of_chemistry",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of geography",
+                "link": "https://en.wikipedia.org/wiki/History_of_geography",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of geology",
+                "link": "https://en.wikipedia.org/wiki/History_of_geology",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of linguistics",
+                "link": "https://en.wikipedia.org/wiki/History_of_linguistics",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of physics",
+                "link": "https://en.wikipedia.org/wiki/History_of_physics",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "History of medicine",
+            "link": "https://en.wikipedia.org/wiki/History_of_medicine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of technology",
+            "link": "https://en.wikipedia.org/wiki/History_of_technology",
+            "layer": 3,
+            "children": [
+              {
+                "name": "History of computing hardware",
+                "link": "https://en.wikipedia.org/wiki/History_of_computing_hardware",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "History of transport",
+                "link": "https://en.wikipedia.org/wiki/History_of_transport",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "History of aviation",
+                    "link": "https://en.wikipedia.org/wiki/History_of_aviation",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "History of spaceflight",
+                    "link": "https://en.wikipedia.org/wiki/History_of_spaceflight",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Maritime history",
+                    "link": "https://en.wikipedia.org/wiki/Maritime_history",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "History of society and the social sciences",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_society_and_the_social_sciences-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of economic thought",
+            "link": "https://en.wikipedia.org/wiki/History_of_economic_thought",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of psychology",
+            "link": "https://en.wikipedia.org/wiki/History_of_psychology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of sociology",
+            "link": "https://en.wikipedia.org/wiki/History_of_sociology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Legal history",
+            "link": "https://en.wikipedia.org/wiki/Legal_history",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Military history",
+            "link": "https://en.wikipedia.org/wiki/Military_history",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Women's history",
+            "link": "https://en.wikipedia.org/wiki/Women%27s_history",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "History of games and sport",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-History_of_games_and_sport-History_by_subject_matter",
+        "children": [
+          {
+            "name": "History of games",
+            "link": "https://en.wikipedia.org/wiki/History_of_games",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "History of sport",
+            "link": "https://en.wikipedia.org/wiki/History_of_sport",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Auxiliary historical sciences",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Auxiliary_historical_sciences-History",
+    "children": [
+      {
+        "name": "Archaeology",
+        "link": "https://en.wikipedia.org/wiki/Archaeology",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Archaeological culture",
+            "link": "https://en.wikipedia.org/wiki/Archaeological_culture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Excavation",
+            "link": "https://en.wikipedia.org/wiki/Archaeological_excavation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Radiocarbon dating",
+            "link": "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Chronology",
+        "link": "https://en.wikipedia.org/wiki/Chronology",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Epigraphy",
+        "link": "https://en.wikipedia.org/wiki/Epigraphy",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Flag",
+        "link": "https://en.wikipedia.org/wiki/Flag",
+        "layer": 2,
+        "children": [
+          {
+            "name": "National flag",
+            "link": "https://en.wikipedia.org/wiki/National_flag",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Genealogy",
+        "link": "https://en.wikipedia.org/wiki/Genealogy",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Heraldry",
+        "link": "https://en.wikipedia.org/wiki/Heraldry",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Historiography",
+        "link": "https://en.wikipedia.org/wiki/Historiography",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Palaeography",
+        "link": "https://en.wikipedia.org/wiki/Palaeography",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,5382 @@
+[
+  {
+    "name": "Technology: General",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Technology:_General-Technology",
+    "children": [
+      {
+        "name": "Technology",
+        "link": "https://en.wikipedia.org/wiki/Technology",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Invention",
+        "link": "https://en.wikipedia.org/wiki/Invention",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Agriculture",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Agriculture-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics-Agriculture",
+        "children": [
+          {
+            "name": "Agricultural science",
+            "link": "https://en.wikipedia.org/wiki/Agricultural_science",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Crop",
+            "link": "https://en.wikipedia.org/wiki/Crop",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Forms",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Forms-Agriculture",
+        "children": [
+          {
+            "name": "Aquaculture",
+            "link": "https://en.wikipedia.org/wiki/Aquaculture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Beekeeping",
+            "link": "https://en.wikipedia.org/wiki/Beekeeping",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dairy",
+            "link": "https://en.wikipedia.org/wiki/Dairy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Gardening",
+            "link": "https://en.wikipedia.org/wiki/Gardening",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Intensive farming",
+            "link": "https://en.wikipedia.org/wiki/Intensive_farming",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Orchard",
+            "link": "https://en.wikipedia.org/wiki/Orchard",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Organic farming",
+            "link": "https://en.wikipedia.org/wiki/Organic_farming",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sustainable agriculture",
+            "link": "https://en.wikipedia.org/wiki/Sustainable_agriculture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Subsistence agriculture",
+            "link": "https://en.wikipedia.org/wiki/Subsistence_agriculture",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Buildings and infrastructure",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Buildings_and_infrastructure-Agriculture",
+        "children": [
+          {
+            "name": "Garden",
+            "link": "https://en.wikipedia.org/wiki/Garden",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Farm",
+            "link": "https://en.wikipedia.org/wiki/Farm",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Barn",
+            "link": "https://en.wikipedia.org/wiki/Barn",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Stable",
+            "link": "https://en.wikipedia.org/wiki/Stable",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Silo",
+            "link": "https://en.wikipedia.org/wiki/Silo",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Granary",
+            "link": "https://en.wikipedia.org/wiki/Granary",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Animal husbandry",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Animal_husbandry-Agriculture",
+        "children": [
+          {
+            "name": "Animal husbandry",
+            "link": "https://en.wikipedia.org/wiki/Animal_husbandry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Domestication",
+            "link": "https://en.wikipedia.org/wiki/Domestication",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Selective breeding",
+            "link": "https://en.wikipedia.org/wiki/Selective_breeding",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Breed",
+            "link": "https://en.wikipedia.org/wiki/Breed",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Livestock",
+            "link": "https://en.wikipedia.org/wiki/Livestock",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hay",
+            "link": "https://en.wikipedia.org/wiki/Hay",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Agronomy and horticulture",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Agronomy_and_horticulture-Agriculture",
+        "children": [
+          {
+            "name": "Basics",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Basics_2-Agronomy_and_horticulture",
+            "children": [
+              {
+                "name": "Agronomy",
+                "link": "https://en.wikipedia.org/wiki/Agronomy",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Horticulture",
+                "link": "https://en.wikipedia.org/wiki/Horticulture",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Plant breeding",
+                "link": "https://en.wikipedia.org/wiki/Plant_breeding",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Cultivar",
+                    "link": "https://en.wikipedia.org/wiki/Cultivar",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Horticultural techniques",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Horticultural_techniques-Agronomy_and_horticulture",
+            "children": [
+              {
+                "name": "Fertilizer",
+                "link": "https://en.wikipedia.org/wiki/Fertilizer",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Harvest",
+                "link": "https://en.wikipedia.org/wiki/Harvest",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Irrigation",
+                "link": "https://en.wikipedia.org/wiki/Irrigation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pesticide",
+                "link": "https://en.wikipedia.org/wiki/Pesticide",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tillage",
+                "link": "https://en.wikipedia.org/wiki/Tillage",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biotechnology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Biotechnology-Technology",
+    "children": [
+      {
+        "name": "Biotechnology",
+        "link": "https://en.wikipedia.org/wiki/Biotechnology",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Genetic engineering",
+        "link": "https://en.wikipedia.org/wiki/Genetic_engineering",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Genetically modified organism",
+            "link": "https://en.wikipedia.org/wiki/Genetically_modified_organism",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Cybernetics",
+        "link": "https://en.wikipedia.org/wiki/Cybernetics",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Cloning",
+        "link": "https://en.wikipedia.org/wiki/Cloning",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Gel electrophoresis",
+        "link": "https://en.wikipedia.org/wiki/Gel_electrophoresis",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Polymerase chain reaction",
+        "link": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+        "layer": 2,
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Computing and information technology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Computing_and_information_technology-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_3-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computing",
+            "link": "https://en.wikipedia.org/wiki/Computing",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Information technology",
+            "link": "https://en.wikipedia.org/wiki/Information_technology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Abacus",
+            "link": "https://en.wikipedia.org/wiki/Abacus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Calculator",
+            "link": "https://en.wikipedia.org/wiki/Calculator",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computer security",
+            "link": "https://en.wikipedia.org/wiki/Computer_security",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Malware",
+                "link": "https://en.wikipedia.org/wiki/Malware",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Data",
+            "link": "https://en.wikipedia.org/wiki/Data_(computer_science)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Data communication",
+                "link": "https://en.wikipedia.org/wiki/Data_communication",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Computer science",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Computer_science-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer science",
+            "link": "https://en.wikipedia.org/wiki/Computer_science",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Artificial intelligence",
+            "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Large language model",
+                "link": "https://en.wikipedia.org/wiki/Large_language_model",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Computer architecture",
+            "link": "https://en.wikipedia.org/wiki/Computer_architecture",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computer simulation",
+            "link": "https://en.wikipedia.org/wiki/Computer_simulation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Parallel computing",
+            "link": "https://en.wikipedia.org/wiki/Parallel_computing",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pixel",
+            "link": "https://en.wikipedia.org/wiki/Pixel",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Computer hardware",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Computer_hardware-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer hardware",
+            "link": "https://en.wikipedia.org/wiki/Computer_hardware",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computer",
+            "link": "https://en.wikipedia.org/wiki/Computer",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Mobile device",
+                "link": "https://en.wikipedia.org/wiki/Mobile_device",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Smartphone",
+                    "link": "https://en.wikipedia.org/wiki/Smartphone",
+                    "layer": 5,
+                    "children": [
+                      {
+                        "name": "iPhone",
+                        "link": "https://en.wikipedia.org/wiki/IPhone",
+                        "layer": 6,
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Personal computer",
+                "link": "https://en.wikipedia.org/wiki/Personal_computer",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Mac (computer)",
+                    "link": "https://en.wikipedia.org/wiki/Mac_(computer)",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Supercomputer",
+                "link": "https://en.wikipedia.org/wiki/Supercomputer",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Central processing unit",
+            "link": "https://en.wikipedia.org/wiki/Central_processing_unit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "ENIAC",
+            "link": "https://en.wikipedia.org/wiki/ENIAC",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Computer software",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Computer_software-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer program",
+            "link": "https://en.wikipedia.org/wiki/Computer_program",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Database",
+            "link": "https://en.wikipedia.org/wiki/Database",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Open-source software",
+            "link": "https://en.wikipedia.org/wiki/Open-source_software",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Software",
+            "link": "https://en.wikipedia.org/wiki/Software",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spreadsheet",
+            "link": "https://en.wikipedia.org/wiki/Spreadsheet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Web browser",
+            "link": "https://en.wikipedia.org/wiki/Web_browser",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Word processor",
+            "link": "https://en.wikipedia.org/wiki/Word_processor",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Operating systems",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Operating_systems-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Operating system",
+            "link": "https://en.wikipedia.org/wiki/Operating_system",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Android",
+            "link": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Linux",
+            "link": "https://en.wikipedia.org/wiki/Linux",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Microsoft Windows",
+            "link": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "MS-DOS",
+            "link": "https://en.wikipedia.org/wiki/MS-DOS",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Unix",
+            "link": "https://en.wikipedia.org/wiki/Unix",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "User interface",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-User_interface-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "User interface",
+            "link": "https://en.wikipedia.org/wiki/User_interface",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computer keyboard",
+            "link": "https://en.wikipedia.org/wiki/Computer_keyboard",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Computer monitor",
+            "link": "https://en.wikipedia.org/wiki/Computer_monitor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mouse (computing)",
+            "link": "https://en.wikipedia.org/wiki/Computer_mouse",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Touchscreen",
+            "link": "https://en.wikipedia.org/wiki/Touchscreen",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Cryptography",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Cryptography-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Cryptography",
+            "link": "https://en.wikipedia.org/wiki/Cryptography",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Authentication",
+            "link": "https://en.wikipedia.org/wiki/Authentication",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Encryption",
+            "link": "https://en.wikipedia.org/wiki/Encryption",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Data storage",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Data_storage-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer file",
+            "link": "https://en.wikipedia.org/wiki/Computer_file",
+            "layer": 3,
+            "children": [
+              {
+                "name": "File system",
+                "link": "https://en.wikipedia.org/wiki/File_system",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Barcode",
+            "link": "https://en.wikipedia.org/wiki/Barcode",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Data storage",
+            "link": "https://en.wikipedia.org/wiki/Data_storage",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hard disk drive",
+            "link": "https://en.wikipedia.org/wiki/Hard_disk_drive",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Magnetic tape",
+            "link": "https://en.wikipedia.org/wiki/Magnetic_tape",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Memory card",
+            "link": "https://en.wikipedia.org/wiki/Memory_card",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Optical disc",
+            "link": "https://en.wikipedia.org/wiki/Optical_disc",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Punched card",
+            "link": "https://en.wikipedia.org/wiki/Punched_card",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Random-access memory",
+            "link": "https://en.wikipedia.org/wiki/Random-access_memory",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Read-only memory",
+            "link": "https://en.wikipedia.org/wiki/Read-only_memory",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Networks",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Networks-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer network",
+            "link": "https://en.wikipedia.org/wiki/Computer_network",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Email",
+            "link": "https://en.wikipedia.org/wiki/Email",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ethernet",
+            "link": "https://en.wikipedia.org/wiki/Ethernet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Router",
+            "link": "https://en.wikipedia.org/wiki/Router_(computing)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wi-Fi",
+            "link": "https://en.wikipedia.org/wiki/Wi-Fi",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Internet",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Internet-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Internet",
+            "link": "https://en.wikipedia.org/wiki/Internet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "HTTP",
+            "link": "https://en.wikipedia.org/wiki/HTTP",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Internet protocol suite",
+            "link": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Search engine",
+            "link": "https://en.wikipedia.org/wiki/Search_engine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Social media",
+            "link": "https://en.wikipedia.org/wiki/Social_media",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Website",
+            "link": "https://en.wikipedia.org/wiki/Website",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "World Wide Web",
+            "link": "https://en.wikipedia.org/wiki/World_Wide_Web",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Programming",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Programming-Computing_and_information_technology",
+        "children": [
+          {
+            "name": "Computer programming",
+            "link": "https://en.wikipedia.org/wiki/Computer_programming",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Character encoding",
+            "link": "https://en.wikipedia.org/wiki/Character_encoding",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Compiler",
+            "link": "https://en.wikipedia.org/wiki/Compiler",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Programming language",
+            "link": "https://en.wikipedia.org/wiki/Programming_language",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Assembly language",
+                "link": "https://en.wikipedia.org/wiki/Assembly_language",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "C",
+                "link": "https://en.wikipedia.org/wiki/C_(programming_language)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "HTML",
+                "link": "https://en.wikipedia.org/wiki/HTML",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Java (programming language)",
+                "link": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "JavaScript",
+                "link": "https://en.wikipedia.org/wiki/JavaScript",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Programming paradigm",
+            "link": "https://en.wikipedia.org/wiki/Programming_paradigm",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Functional programming",
+                "link": "https://en.wikipedia.org/wiki/Functional_programming",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Structured programming",
+                "link": "https://en.wikipedia.org/wiki/Structured_programming",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Object-oriented programming",
+                    "link": "https://en.wikipedia.org/wiki/Object-oriented_programming",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronics",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Electronics-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_4-Electronics",
+        "children": [
+          {
+            "name": "Electronics",
+            "link": "https://en.wikipedia.org/wiki/Electronics",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Consumer electronics",
+                "link": "https://en.wikipedia.org/wiki/Consumer_electronics",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sensor",
+            "link": "https://en.wikipedia.org/wiki/Sensor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Signal processing",
+            "link": "https://en.wikipedia.org/wiki/Signal_processing",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Signal-to-noise ratio",
+                "link": "https://en.wikipedia.org/wiki/Signal-to-noise_ratio",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Circuit design",
+            "link": "https://en.wikipedia.org/wiki/Circuit_design",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Oscilloscope",
+            "link": "https://en.wikipedia.org/wiki/Oscilloscope",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Remote control",
+            "link": "https://en.wikipedia.org/wiki/Remote_control",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Components",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Components-Electronics",
+        "children": [
+          {
+            "name": "Semiconductor device",
+            "link": "https://en.wikipedia.org/wiki/Semiconductor_device",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Transistor",
+                "link": "https://en.wikipedia.org/wiki/Transistor",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Diode",
+                "link": "https://en.wikipedia.org/wiki/Diode",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Light-emitting diode",
+                    "link": "https://en.wikipedia.org/wiki/Light-emitting_diode",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Integrated circuit",
+            "link": "https://en.wikipedia.org/wiki/Integrated_circuit",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Battery",
+            "link": "https://en.wikipedia.org/wiki/Electric_battery",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Amplifier",
+            "link": "https://en.wikipedia.org/wiki/Amplifier",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Antenna",
+            "link": "https://en.wikipedia.org/wiki/Antenna_(radio)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Capacitor",
+            "link": "https://en.wikipedia.org/wiki/Capacitor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cavity magnetron",
+            "link": "https://en.wikipedia.org/wiki/Cavity_magnetron",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Electrical connector",
+            "link": "https://en.wikipedia.org/wiki/Electrical_connector",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Filter",
+            "link": "https://en.wikipedia.org/wiki/Filter_(signal_processing)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Inductor",
+            "link": "https://en.wikipedia.org/wiki/Inductor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Power supply",
+            "link": "https://en.wikipedia.org/wiki/Power_supply",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Printed circuit board",
+            "link": "https://en.wikipedia.org/wiki/Printed_circuit_board",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Resistor",
+            "link": "https://en.wikipedia.org/wiki/Resistor",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Switch",
+            "link": "https://en.wikipedia.org/wiki/Switch",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Circuit breaker",
+                "link": "https://en.wikipedia.org/wiki/Circuit_breaker",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fuse",
+                "link": "https://en.wikipedia.org/wiki/Fuse_(electrical)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Relay",
+                "link": "https://en.wikipedia.org/wiki/Relay",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Transformer",
+            "link": "https://en.wikipedia.org/wiki/Transformer",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vacuum tube",
+            "link": "https://en.wikipedia.org/wiki/Vacuum_tube",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Waveguide",
+            "link": "https://en.wikipedia.org/wiki/Waveguide",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wire",
+            "link": "https://en.wikipedia.org/wiki/Wire",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Engineering",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Engineering-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_5-Engineering",
+        "children": [
+          {
+            "name": "Engineering",
+            "link": "https://en.wikipedia.org/wiki/Engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nanotechnology",
+            "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nuclear technology",
+            "link": "https://en.wikipedia.org/wiki/Nuclear_technology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Technical drawing",
+            "link": "https://en.wikipedia.org/wiki/Technical_drawing",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Disciplines",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Disciplines-Engineering",
+        "children": [
+          {
+            "name": "Civil engineering",
+            "link": "https://en.wikipedia.org/wiki/Civil_engineering",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Architectural engineering",
+                "link": "https://en.wikipedia.org/wiki/Architectural_engineering",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mechanical engineering",
+            "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Aerospace engineering",
+                "link": "https://en.wikipedia.org/wiki/Aerospace_engineering",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Biomedical engineering",
+            "link": "https://en.wikipedia.org/wiki/Biomedical_engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chemical engineering",
+            "link": "https://en.wikipedia.org/wiki/Chemical_engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Electrical engineering",
+            "link": "https://en.wikipedia.org/wiki/Electrical_engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Industrial engineering",
+            "link": "https://en.wikipedia.org/wiki/Industrial_engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Military engineering",
+            "link": "https://en.wikipedia.org/wiki/Military_engineering",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Software engineering",
+            "link": "https://en.wikipedia.org/wiki/Software_engineering",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Industry",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Industry-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_6-Industry",
+        "children": [
+          {
+            "name": "Factory",
+            "link": "https://en.wikipedia.org/wiki/Factory",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Assembly line",
+                "link": "https://en.wikipedia.org/wiki/Assembly_line",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Automation",
+                "link": "https://en.wikipedia.org/wiki/Automation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Industrial robot",
+                "link": "https://en.wikipedia.org/wiki/Industrial_robot",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Interchangeable parts",
+                "link": "https://en.wikipedia.org/wiki/Interchangeable_parts",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mass production",
+                "link": "https://en.wikipedia.org/wiki/Mass_production",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Mechanization",
+                "link": "https://en.wikipedia.org/wiki/Mechanization",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Standardization",
+            "link": "https://en.wikipedia.org/wiki/Standardization",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Waste",
+            "link": "https://en.wikipedia.org/wiki/Waste",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Landfill",
+                "link": "https://en.wikipedia.org/wiki/Landfill",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Recycling",
+                "link": "https://en.wikipedia.org/wiki/Recycling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Waste management",
+                "link": "https://en.wikipedia.org/wiki/Waste_management",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Energy and fuel",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Energy_and_fuel-Industry",
+        "children": [
+          {
+            "name": "Fuel",
+            "link": "https://en.wikipedia.org/wiki/Fuel",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Candle",
+                "link": "https://en.wikipedia.org/wiki/Candle",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Biofuel",
+            "link": "https://en.wikipedia.org/wiki/Biofuel",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Charcoal",
+                "link": "https://en.wikipedia.org/wiki/Charcoal",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fossil fuel",
+            "link": "https://en.wikipedia.org/wiki/Fossil_fuel",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Coal",
+                "link": "https://en.wikipedia.org/wiki/Coal",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Natural gas",
+                "link": "https://en.wikipedia.org/wiki/Natural_gas",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Petroleum",
+                "link": "https://en.wikipedia.org/wiki/Petroleum",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Gasoline",
+                    "link": "https://en.wikipedia.org/wiki/Gasoline",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Kerosene",
+                    "link": "https://en.wikipedia.org/wiki/Kerosene",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Oil refinery",
+                    "link": "https://en.wikipedia.org/wiki/Oil_refinery",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Oil well",
+                    "link": "https://en.wikipedia.org/wiki/Oil_well",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Nuclear power",
+            "link": "https://en.wikipedia.org/wiki/Nuclear_power",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Renewable energy",
+            "link": "https://en.wikipedia.org/wiki/Renewable_energy",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Geothermal power",
+                "link": "https://en.wikipedia.org/wiki/Geothermal_power",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hydropower",
+                "link": "https://en.wikipedia.org/wiki/Hydropower",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Hydroelectricity",
+                    "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Watermill",
+                    "link": "https://en.wikipedia.org/wiki/Watermill",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Solar energy",
+                "link": "https://en.wikipedia.org/wiki/Solar_energy",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Solar power",
+                    "link": "https://en.wikipedia.org/wiki/Solar_power",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Solar cell",
+                    "link": "https://en.wikipedia.org/wiki/Solar_cell",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Wind power",
+                "link": "https://en.wikipedia.org/wiki/Wind_power",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Windmill",
+                    "link": "https://en.wikipedia.org/wiki/Windmill",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Electricity generation and distribution",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Electricity_generation_and_distribution-Energy_and_fuel",
+            "children": [
+              {
+                "name": "Electric light",
+                "link": "https://en.wikipedia.org/wiki/Electric_light",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Incandescent light bulb",
+                    "link": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Electric power transmission",
+                "link": "https://en.wikipedia.org/wiki/Electric_power_transmission",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Electric power distribution",
+                "link": "https://en.wikipedia.org/wiki/Electric_power_distribution",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Electrical grid",
+                "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Electric generator",
+                "link": "https://en.wikipedia.org/wiki/Electric_generator",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Electricity generation",
+                "link": "https://en.wikipedia.org/wiki/Electricity_generation",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Power station",
+                "link": "https://en.wikipedia.org/wiki/Power_station",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Turbine",
+                "link": "https://en.wikipedia.org/wiki/Turbine",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Gas turbine",
+                    "link": "https://en.wikipedia.org/wiki/Gas_turbine",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Steam turbine",
+                    "link": "https://en.wikipedia.org/wiki/Steam_turbine",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Wind turbine",
+                    "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Cooling tower",
+                "link": "https://en.wikipedia.org/wiki/Cooling_tower",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Food, water and health",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Food,_water_and_health-Industry",
+        "children": [
+          {
+            "name": "Bleach",
+            "link": "https://en.wikipedia.org/wiki/Bleach",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Desalination",
+            "link": "https://en.wikipedia.org/wiki/Desalination",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Detergent",
+            "link": "https://en.wikipedia.org/wiki/Detergent",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Laundry",
+            "link": "https://en.wikipedia.org/wiki/Laundry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pasteurization",
+            "link": "https://en.wikipedia.org/wiki/Pasteurization",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Refrigeration",
+            "link": "https://en.wikipedia.org/wiki/Refrigeration",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sanitation",
+            "link": "https://en.wikipedia.org/wiki/Sanitation",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Sanitary sewer",
+                "link": "https://en.wikipedia.org/wiki/Sanitary_sewer",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sewage treatment",
+                "link": "https://en.wikipedia.org/wiki/Sewage_treatment",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Water purification",
+                "link": "https://en.wikipedia.org/wiki/Water_purification",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soap",
+            "link": "https://en.wikipedia.org/wiki/Soap",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Water supply network",
+            "link": "https://en.wikipedia.org/wiki/Water_supply_network",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Aqueduct",
+                "link": "https://en.wikipedia.org/wiki/Aqueduct_(water_supply)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Plumbing",
+                "link": "https://en.wikipedia.org/wiki/Plumbing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Qanat",
+                "link": "https://en.wikipedia.org/wiki/Qanat",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pumping station",
+                "link": "https://en.wikipedia.org/wiki/Pumping_station",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Water tower",
+                "link": "https://en.wikipedia.org/wiki/Water_tower",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Well",
+                "link": "https://en.wikipedia.org/wiki/Well",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Material and chemical",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Material_and_chemical-Industry",
+        "children": [
+          {
+            "name": "Abrasive",
+            "link": "https://en.wikipedia.org/wiki/Abrasive",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Adhesive",
+            "link": "https://en.wikipedia.org/wiki/Adhesive",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ceramic",
+            "link": "https://en.wikipedia.org/wiki/Ceramic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chemical plant",
+            "link": "https://en.wikipedia.org/wiki/Chemical_plant",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Composite material",
+            "link": "https://en.wikipedia.org/wiki/Composite_material",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Explosive",
+            "link": "https://en.wikipedia.org/wiki/Explosive",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Dynamite",
+                "link": "https://en.wikipedia.org/wiki/Dynamite",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Fireworks",
+                "link": "https://en.wikipedia.org/wiki/Fireworks",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Glass",
+            "link": "https://en.wikipedia.org/wiki/Glass",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Natural rubber",
+            "link": "https://en.wikipedia.org/wiki/Natural_rubber",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Paper",
+            "link": "https://en.wikipedia.org/wiki/Paper",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Parchment",
+            "link": "https://en.wikipedia.org/wiki/Parchment",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Papyrus",
+            "link": "https://en.wikipedia.org/wiki/Papyrus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Petrochemical",
+            "link": "https://en.wikipedia.org/wiki/Petrochemical",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Plastic",
+            "link": "https://en.wikipedia.org/wiki/Plastic",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pottery",
+            "link": "https://en.wikipedia.org/wiki/Pottery",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Porcelain",
+                "link": "https://en.wikipedia.org/wiki/Porcelain",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wood",
+            "link": "https://en.wikipedia.org/wiki/Wood",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Woodworking",
+            "link": "https://en.wikipedia.org/wiki/Woodworking",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Carpentry",
+                "link": "https://en.wikipedia.org/wiki/Carpentry",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Metallurgy",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Metallurgy-Industry",
+        "children": [
+          {
+            "name": "Metallurgy",
+            "link": "https://en.wikipedia.org/wiki/Metallurgy",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Smelting",
+                "link": "https://en.wikipedia.org/wiki/Smelting",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Metalworking",
+            "link": "https://en.wikipedia.org/wiki/Metalworking",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Die casting",
+                "link": "https://en.wikipedia.org/wiki/Die_casting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Extrusion",
+                "link": "https://en.wikipedia.org/wiki/Extrusion",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Forging",
+                "link": "https://en.wikipedia.org/wiki/Forging",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Heat treating",
+                "link": "https://en.wikipedia.org/wiki/Heat_treating",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Laser cutting",
+                "link": "https://en.wikipedia.org/wiki/Laser_cutting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rolling",
+                "link": "https://en.wikipedia.org/wiki/Rolling_(metalworking)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Soldering",
+                "link": "https://en.wikipedia.org/wiki/Soldering",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Steelmaking",
+                "link": "https://en.wikipedia.org/wiki/Steelmaking",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Welding",
+                "link": "https://en.wikipedia.org/wiki/Welding",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Infrastructure",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Infrastructure-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_7-Infrastructure",
+        "children": [
+          {
+            "name": "Infrastructure",
+            "link": "https://en.wikipedia.org/wiki/Infrastructure",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Building",
+            "link": "https://en.wikipedia.org/wiki/Building",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Building materials",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Building_materials-Infrastructure",
+        "children": [
+          {
+            "name": "Concrete",
+            "link": "https://en.wikipedia.org/wiki/Concrete",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Masonry",
+            "link": "https://en.wikipedia.org/wiki/Masonry",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Brick",
+                "link": "https://en.wikipedia.org/wiki/Brick",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Quarry",
+                "link": "https://en.wikipedia.org/wiki/Quarry",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Cement",
+            "link": "https://en.wikipedia.org/wiki/Cement",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Lumber",
+            "link": "https://en.wikipedia.org/wiki/Lumber",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Scaffolding",
+            "link": "https://en.wikipedia.org/wiki/Scaffolding",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Infrastructure by type",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Infrastructure_by_type-Infrastructure",
+        "children": [
+          {
+            "name": "Architectural elements",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Architectural_elements-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Arch",
+                "link": "https://en.wikipedia.org/wiki/Arch",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ceiling",
+                "link": "https://en.wikipedia.org/wiki/Ceiling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Column",
+                "link": "https://en.wikipedia.org/wiki/Column",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dome",
+                "link": "https://en.wikipedia.org/wiki/Dome",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Door",
+                "link": "https://en.wikipedia.org/wiki/Door",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Elevator",
+                "link": "https://en.wikipedia.org/wiki/Elevator",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Façade",
+                "link": "https://en.wikipedia.org/wiki/Fa%C3%A7ade",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Floor",
+                "link": "https://en.wikipedia.org/wiki/Floor",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Foundation",
+                "link": "https://en.wikipedia.org/wiki/Foundation_(engineering)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ladder",
+                "link": "https://en.wikipedia.org/wiki/Ladder",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lighting",
+                "link": "https://en.wikipedia.org/wiki/Lighting",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Roof",
+                "link": "https://en.wikipedia.org/wiki/Roof",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Room",
+                "link": "https://en.wikipedia.org/wiki/Room",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Stairs",
+                "link": "https://en.wikipedia.org/wiki/Stairs",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wall",
+                "link": "https://en.wikipedia.org/wiki/Wall",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Window",
+                "link": "https://en.wikipedia.org/wiki/Window",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Coastal infrastructure",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Coastal_infrastructure-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Dock",
+                "link": "https://en.wikipedia.org/wiki/Dock",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Harbor",
+                "link": "https://en.wikipedia.org/wiki/Harbor",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lighthouse",
+                "link": "https://en.wikipedia.org/wiki/Lighthouse",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pier",
+                "link": "https://en.wikipedia.org/wiki/Pier",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Port",
+                "link": "https://en.wikipedia.org/wiki/Port",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Ceremonial buildings",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Ceremonial_buildings-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Pagoda",
+                "link": "https://en.wikipedia.org/wiki/Pagoda",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pyramid",
+                "link": "https://en.wikipedia.org/wiki/Pyramid",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Commercial buildings",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Commercial_buildings-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Office",
+                "link": "https://en.wikipedia.org/wiki/Office",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Warehouse",
+                "link": "https://en.wikipedia.org/wiki/Warehouse",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Mixed-use buildings",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Mixed-use_buildings-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Tower",
+                "link": "https://en.wikipedia.org/wiki/Tower",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Tower block",
+                "link": "https://en.wikipedia.org/wiki/Tower_block",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Skyscraper",
+                "link": "https://en.wikipedia.org/wiki/Skyscraper",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Other components",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Other_components-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Electrical wiring",
+                "link": "https://en.wikipedia.org/wiki/Electrical_wiring",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Heating, ventilation, and air conditioning",
+                "link": "https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Fireplace",
+                    "link": "https://en.wikipedia.org/wiki/Fireplace",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Hydraulic infrastructure",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Hydraulic_infrastructure-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Dam",
+                "link": "https://en.wikipedia.org/wiki/Dam",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Aswan Dam",
+                    "link": "https://en.wikipedia.org/wiki/Aswan_Dam",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Hoover Dam",
+                    "link": "https://en.wikipedia.org/wiki/Hoover_Dam",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Itaipu Dam",
+                    "link": "https://en.wikipedia.org/wiki/Itaipu_Dam",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Three Gorges Dam",
+                    "link": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Drainage",
+                "link": "https://en.wikipedia.org/wiki/Drainage",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Flood management",
+                "link": "https://en.wikipedia.org/wiki/Flood_management",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Flood control in the Netherlands",
+                    "link": "https://en.wikipedia.org/wiki/Flood_control_in_the_Netherlands",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Levee",
+                "link": "https://en.wikipedia.org/wiki/Levee",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Reservoir",
+                "link": "https://en.wikipedia.org/wiki/Reservoir",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Transport infrastructure",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Transport_infrastructure-Infrastructure_by_type",
+            "children": [
+              {
+                "name": "Bridge",
+                "link": "https://en.wikipedia.org/wiki/Bridge",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Akashi Kaikyo Bridge",
+                    "link": "https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Brooklyn Bridge",
+                    "link": "https://en.wikipedia.org/wiki/Brooklyn_Bridge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Golden Gate Bridge",
+                    "link": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Tower Bridge",
+                    "link": "https://en.wikipedia.org/wiki/Tower_Bridge",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Tunnel",
+                "link": "https://en.wikipedia.org/wiki/Tunnel",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Channel Tunnel",
+                    "link": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Machinery and tools",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Machinery_and_tools-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_8-Machinery_and_tools",
+        "children": [
+          {
+            "name": "Machine",
+            "link": "https://en.wikipedia.org/wiki/Machine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Crane (machine)",
+            "link": "https://en.wikipedia.org/wiki/Crane_(machine)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Engine",
+            "link": "https://en.wikipedia.org/wiki/Engine",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Electric motor",
+                "link": "https://en.wikipedia.org/wiki/Electric_motor",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Internal combustion engine",
+                "link": "https://en.wikipedia.org/wiki/Internal_combustion_engine",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Diesel engine",
+                    "link": "https://en.wikipedia.org/wiki/Diesel_engine",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Four-stroke engine",
+                    "link": "https://en.wikipedia.org/wiki/Four-stroke_engine",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Jet engine",
+                "link": "https://en.wikipedia.org/wiki/Jet_engine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Steam engine",
+                "link": "https://en.wikipedia.org/wiki/Steam_engine",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Robotics",
+            "link": "https://en.wikipedia.org/wiki/Robotics",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Robot",
+                "link": "https://en.wikipedia.org/wiki/Robot",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Simple machine",
+            "link": "https://en.wikipedia.org/wiki/Simple_machine",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Inclined plane",
+                "link": "https://en.wikipedia.org/wiki/Inclined_plane",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lever",
+                "link": "https://en.wikipedia.org/wiki/Lever",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pulley",
+                "link": "https://en.wikipedia.org/wiki/Pulley",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Screw mechanism",
+                "link": "https://en.wikipedia.org/wiki/Screw_mechanism",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wedge",
+                "link": "https://en.wikipedia.org/wiki/Wedge",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wheel",
+                "link": "https://en.wikipedia.org/wiki/Wheel",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wheel and axle",
+                "link": "https://en.wikipedia.org/wiki/Wheel_and_axle",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Siphon",
+            "link": "https://en.wikipedia.org/wiki/Siphon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "System",
+            "link": "https://en.wikipedia.org/wiki/System",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Components",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Components_2-Machinery_and_tools",
+        "children": [
+          {
+            "name": "Axle",
+            "link": "https://en.wikipedia.org/wiki/Axle",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Bearing",
+                "link": "https://en.wikipedia.org/wiki/Bearing_(mechanical)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Clutch",
+                "link": "https://en.wikipedia.org/wiki/Clutch",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gear",
+                "link": "https://en.wikipedia.org/wiki/Gear",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Electrical cable",
+            "link": "https://en.wikipedia.org/wiki/Electrical_cable",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chain",
+                "link": "https://en.wikipedia.org/wiki/Chain",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rope",
+                "link": "https://en.wikipedia.org/wiki/Rope",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fastener",
+            "link": "https://en.wikipedia.org/wiki/Fastener",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Knot",
+                "link": "https://en.wikipedia.org/wiki/Knot",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nail (fastener)",
+                "link": "https://en.wikipedia.org/wiki/Nail_(fastener)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Nut (hardware)",
+                "link": "https://en.wikipedia.org/wiki/Nut_(hardware)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rivet",
+                "link": "https://en.wikipedia.org/wiki/Rivet",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Lock and key",
+            "link": "https://en.wikipedia.org/wiki/Lock_and_key",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pipe",
+            "link": "https://en.wikipedia.org/wiki/Pipe_(fluid_conveyance)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Valve",
+                "link": "https://en.wikipedia.org/wiki/Valve",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Spring (device)",
+            "link": "https://en.wikipedia.org/wiki/Spring_(device)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Tools",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Tools-Machinery_and_tools",
+        "children": [
+          {
+            "name": "Tools: General",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Tools:_General-Tools",
+            "children": [
+              {
+                "name": "Tool",
+                "link": "https://en.wikipedia.org/wiki/Tool",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Container",
+                "link": "https://en.wikipedia.org/wiki/Container",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Measuring instruments",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Measuring_instruments-Tools",
+            "children": [
+              {
+                "name": "Instrumentation",
+                "link": "https://en.wikipedia.org/wiki/Instrumentation",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Barometer",
+                    "link": "https://en.wikipedia.org/wiki/Barometer",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Calipers",
+                    "link": "https://en.wikipedia.org/wiki/Calipers",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Photometer",
+                    "link": "https://en.wikipedia.org/wiki/Photometer",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Ruler",
+                    "link": "https://en.wikipedia.org/wiki/Ruler",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Spectrometer",
+                    "link": "https://en.wikipedia.org/wiki/Spectrometer",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Thermometer",
+                    "link": "https://en.wikipedia.org/wiki/Thermometer",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Artist's tools",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Artist's_tools-Tools",
+            "children": [
+              {
+                "name": "Ink",
+                "link": "https://en.wikipedia.org/wiki/Ink",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Modelling clay",
+                "link": "https://en.wikipedia.org/wiki/Modelling_clay",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Paint",
+                "link": "https://en.wikipedia.org/wiki/Paint",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Brush",
+                "link": "https://en.wikipedia.org/wiki/Brush",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pastel",
+                "link": "https://en.wikipedia.org/wiki/Pastel",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pencil",
+                "link": "https://en.wikipedia.org/wiki/Pencil",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pigment",
+                "link": "https://en.wikipedia.org/wiki/Pigment",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pen",
+                "link": "https://en.wikipedia.org/wiki/Pen",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Hand tools",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Hand_tools-Tools",
+            "children": [
+              {
+                "name": "Axe",
+                "link": "https://en.wikipedia.org/wiki/Axe",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Chisel",
+                "link": "https://en.wikipedia.org/wiki/Chisel",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Clamp",
+                "link": "https://en.wikipedia.org/wiki/Clamp_(tool)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Drilling",
+                "link": "https://en.wikipedia.org/wiki/Drilling",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hammer",
+                "link": "https://en.wikipedia.org/wiki/Hammer",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Plane (tool)",
+                "link": "https://en.wikipedia.org/wiki/Plane_(tool)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Saw",
+                "link": "https://en.wikipedia.org/wiki/Saw",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Scissors",
+                "link": "https://en.wikipedia.org/wiki/Scissors",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Agricultural tools",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Agricultural_tools-Tools",
+            "children": [
+              {
+                "name": "Archimedes' screw",
+                "link": "https://en.wikipedia.org/wiki/Archimedes%27_screw",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Harrow (tool)",
+                "link": "https://en.wikipedia.org/wiki/Harrow_(tool)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Hoe (tool)",
+                "link": "https://en.wikipedia.org/wiki/Hoe_(tool)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Machete",
+                "link": "https://en.wikipedia.org/wiki/Machete",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Plough",
+                "link": "https://en.wikipedia.org/wiki/Plough",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rake (tool)",
+                "link": "https://en.wikipedia.org/wiki/Rake_(tool)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sickle",
+                "link": "https://en.wikipedia.org/wiki/Sickle",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Shovel",
+                "link": "https://en.wikipedia.org/wiki/Shovel",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Wheelbarrow",
+                "link": "https://en.wikipedia.org/wiki/Wheelbarrow",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Machinery",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Machinery-Machinery_and_tools",
+        "children": [
+          {
+            "name": "Farm and garden machinery",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Farm_and_garden_machinery-Machinery",
+            "children": [
+              {
+                "name": "Chainsaw",
+                "link": "https://en.wikipedia.org/wiki/Chainsaw",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Combine harvester",
+                "link": "https://en.wikipedia.org/wiki/Combine_harvester",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cotton gin",
+                "link": "https://en.wikipedia.org/wiki/Cotton_gin",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Cultivator",
+                "link": "https://en.wikipedia.org/wiki/Cultivator",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Irrigation sprinkler",
+                "link": "https://en.wikipedia.org/wiki/Irrigation_sprinkler",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lawn mower",
+                "link": "https://en.wikipedia.org/wiki/Lawn_mower",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Household appliances",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Household_appliances-Machinery",
+            "children": [
+              {
+                "name": "Home appliance",
+                "link": "https://en.wikipedia.org/wiki/Home_appliance",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Air conditioning",
+                "link": "https://en.wikipedia.org/wiki/Air_conditioning",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Clothes dryer",
+                "link": "https://en.wikipedia.org/wiki/Clothes_dryer",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Dishwasher",
+                "link": "https://en.wikipedia.org/wiki/Dishwasher",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Furnace (central heating)",
+                "link": "https://en.wikipedia.org/wiki/Furnace_(central_heating)",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Ironing",
+                "link": "https://en.wikipedia.org/wiki/Ironing",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Microwave oven",
+                "link": "https://en.wikipedia.org/wiki/Microwave_oven",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Oven",
+                "link": "https://en.wikipedia.org/wiki/Oven",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Refrigerator",
+                "link": "https://en.wikipedia.org/wiki/Refrigerator",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sewing machine",
+                "link": "https://en.wikipedia.org/wiki/Sewing_machine",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sink",
+                "link": "https://en.wikipedia.org/wiki/Sink",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Stove",
+                "link": "https://en.wikipedia.org/wiki/Stove",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Toilet",
+                "link": "https://en.wikipedia.org/wiki/Toilet",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Vacuum cleaner",
+                "link": "https://en.wikipedia.org/wiki/Vacuum_cleaner",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Washing machine",
+                "link": "https://en.wikipedia.org/wiki/Washing_machine",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Industrial machinery",
+            "link": null,
+            "layer": 3,
+            "type": "heading",
+            "heading_id": "h-Industrial_machinery-Machinery",
+            "children": [
+              {
+                "name": "Centrifuge",
+                "link": "https://en.wikipedia.org/wiki/Centrifuge",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Lathe",
+                "link": "https://en.wikipedia.org/wiki/Lathe",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Loom",
+                "link": "https://en.wikipedia.org/wiki/Loom",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Machine press",
+                "link": "https://en.wikipedia.org/wiki/Machine_press",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Potter's wheel",
+                "link": "https://en.wikipedia.org/wiki/Potter%27s_wheel",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Media and communication",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Media_and_communication-Technology",
+    "children": [
+      {
+        "name": "Means of communication",
+        "link": "https://en.wikipedia.org/wiki/Means_of_communication",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Broadcasting",
+        "link": "https://en.wikipedia.org/wiki/Broadcasting",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Cathode-ray tube",
+        "link": "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Communications satellite",
+        "link": "https://en.wikipedia.org/wiki/Communications_satellite",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Flat-panel display",
+        "link": "https://en.wikipedia.org/wiki/Flat-panel_display",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Liquid-crystal display",
+            "link": "https://en.wikipedia.org/wiki/Liquid-crystal_display",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Image",
+        "link": "https://en.wikipedia.org/wiki/Image",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Image scanner",
+        "link": "https://en.wikipedia.org/wiki/Image_scanner",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Mail",
+        "link": "https://en.wikipedia.org/wiki/Mail",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Postage stamp",
+            "link": "https://en.wikipedia.org/wiki/Postage_stamp",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Mobile phone",
+        "link": "https://en.wikipedia.org/wiki/Mobile_phone",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Podcast",
+        "link": "https://en.wikipedia.org/wiki/Podcast",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Printing",
+        "link": "https://en.wikipedia.org/wiki/Printing",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Book",
+            "link": "https://en.wikipedia.org/wiki/Book",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Scroll",
+                "link": "https://en.wikipedia.org/wiki/Scroll",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Photocopier",
+            "link": "https://en.wikipedia.org/wiki/Photocopier",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Printer",
+            "link": "https://en.wikipedia.org/wiki/Printer_(computing)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Printing press",
+            "link": "https://en.wikipedia.org/wiki/Printing_press",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Radio",
+        "link": "https://en.wikipedia.org/wiki/Radio",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Amateur radio",
+            "link": "https://en.wikipedia.org/wiki/Amateur_radio",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Radio broadcasting",
+            "link": "https://en.wikipedia.org/wiki/Radio_broadcasting",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sound recording and reproduction",
+        "link": "https://en.wikipedia.org/wiki/Sound_recording_and_reproduction",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Loudspeaker",
+            "link": "https://en.wikipedia.org/wiki/Loudspeaker",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Microphone",
+            "link": "https://en.wikipedia.org/wiki/Microphone",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Speech synthesis",
+        "link": "https://en.wikipedia.org/wiki/Speech_synthesis",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Telecommunications",
+        "link": "https://en.wikipedia.org/wiki/Telecommunications",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Signal modulation",
+            "link": "https://en.wikipedia.org/wiki/Signal_modulation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Telegraphy",
+            "link": "https://en.wikipedia.org/wiki/Telegraphy",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Telephone",
+            "link": "https://en.wikipedia.org/wiki/Telephone",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Television",
+        "link": "https://en.wikipedia.org/wiki/Television",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Cable television",
+            "link": "https://en.wikipedia.org/wiki/Cable_television",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Satellite television",
+            "link": "https://en.wikipedia.org/wiki/Satellite_television",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Text messaging",
+        "link": "https://en.wikipedia.org/wiki/Text_messaging",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Typewriter",
+        "link": "https://en.wikipedia.org/wiki/Typewriter",
+        "layer": 2,
+        "children": []
+      },
+      {
+        "name": "Video",
+        "link": "https://en.wikipedia.org/wiki/Video",
+        "layer": 2,
+        "children": [
+          {
+            "name": "Video camera",
+            "link": "https://en.wikipedia.org/wiki/Video_camera",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Medical technology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Medical_technology-Technology",
+    "children": [
+      {
+        "name": "Devices",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Devices-Medical_technology",
+        "children": [
+          {
+            "name": "Artificial organ",
+            "link": "https://en.wikipedia.org/wiki/Artificial_organ",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dentures",
+            "link": "https://en.wikipedia.org/wiki/Dentures",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Prosthesis",
+            "link": "https://en.wikipedia.org/wiki/Prosthesis",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Stethoscope",
+            "link": "https://en.wikipedia.org/wiki/Stethoscope",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wheelchair",
+            "link": "https://en.wikipedia.org/wiki/Wheelchair",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Equipment",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Equipment-Medical_technology",
+        "children": [
+          {
+            "name": "Bandage",
+            "link": "https://en.wikipedia.org/wiki/Bandage",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Syringe",
+            "link": "https://en.wikipedia.org/wiki/Syringe",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Techniques",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Techniques-Medical_technology",
+        "children": [
+          {
+            "name": "Cardiopulmonary bypass",
+            "link": "https://en.wikipedia.org/wiki/Cardiopulmonary_bypass",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Diagnostic technologies",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Diagnostic_technologies-Medical_technology",
+        "children": [
+          {
+            "name": "DNA profiling",
+            "link": "https://en.wikipedia.org/wiki/DNA_profiling",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Electrocardiography",
+            "link": "https://en.wikipedia.org/wiki/Electrocardiography",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Endoscopy",
+            "link": "https://en.wikipedia.org/wiki/Endoscopy",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Transport",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Transport-Medical_technology",
+        "children": [
+          {
+            "name": "Ambulance",
+            "link": "https://en.wikipedia.org/wiki/Ambulance",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Imaging",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Imaging-Medical_technology",
+        "children": [
+          {
+            "name": "Medical imaging",
+            "link": "https://en.wikipedia.org/wiki/Medical_imaging",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Magnetic resonance imaging",
+            "link": "https://en.wikipedia.org/wiki/Magnetic_resonance_imaging",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Medical ultrasonography",
+            "link": "https://en.wikipedia.org/wiki/Medical_ultrasound",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Radiography",
+            "link": "https://en.wikipedia.org/wiki/Radiography",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Military technology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Military_technology-Technology",
+    "children": [
+      {
+        "name": "Military technology: General",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Military_technology:_General-Military_technology",
+        "children": [
+          {
+            "name": "Weapon",
+            "link": "https://en.wikipedia.org/wiki/Weapon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tank",
+            "link": "https://en.wikipedia.org/wiki/Tank",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Military technology",
+            "link": "https://en.wikipedia.org/wiki/Military_technology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Horses in warfare",
+            "link": "https://en.wikipedia.org/wiki/Horses_in_warfare",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chariot",
+                "link": "https://en.wikipedia.org/wiki/Chariot",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Stealth technology",
+            "link": "https://en.wikipedia.org/wiki/Stealth_technology",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "War elephant",
+            "link": "https://en.wikipedia.org/wiki/War_elephant",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Ammunition",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Ammunition-Military_technology",
+        "children": [
+          {
+            "name": "Ammunition",
+            "link": "https://en.wikipedia.org/wiki/Ammunition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Gunpowder",
+            "link": "https://en.wikipedia.org/wiki/Gunpowder",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Armour",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Armour-Military_technology",
+        "children": [
+          {
+            "name": "Armour",
+            "link": "https://en.wikipedia.org/wiki/Armour",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bulletproof vest",
+            "link": "https://en.wikipedia.org/wiki/Bulletproof_vest",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Helmet",
+            "link": "https://en.wikipedia.org/wiki/Helmet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chain mail",
+            "link": "https://en.wikipedia.org/wiki/Chain_mail",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Plate armour",
+            "link": "https://en.wikipedia.org/wiki/Plate_armour",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shield",
+            "link": "https://en.wikipedia.org/wiki/Shield",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Explosive weapons",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Explosive_weapons-Military_technology",
+        "children": [
+          {
+            "name": "Bomb",
+            "link": "https://en.wikipedia.org/wiki/Bomb",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cluster munition",
+            "link": "https://en.wikipedia.org/wiki/Cluster_munition",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Improvised explosive device",
+            "link": "https://en.wikipedia.org/wiki/Improvised_explosive_device",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Grenade",
+            "link": "https://en.wikipedia.org/wiki/Grenade",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Land mine",
+            "link": "https://en.wikipedia.org/wiki/Land_mine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Missile",
+            "link": "https://en.wikipedia.org/wiki/Missile",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Fortification",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Fortification-Military_technology",
+        "children": [
+          {
+            "name": "Fortification",
+            "link": "https://en.wikipedia.org/wiki/Fortification",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Castle",
+                "link": "https://en.wikipedia.org/wiki/Castle",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Defensive wall",
+                "link": "https://en.wikipedia.org/wiki/Defensive_wall",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Incendiary weapons",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Incendiary_weapons-Military_technology",
+        "children": [
+          {
+            "name": "Napalm",
+            "link": "https://en.wikipedia.org/wiki/Napalm",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Melee weapons",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Melee_weapons-Military_technology",
+        "children": [
+          {
+            "name": "Knife",
+            "link": "https://en.wikipedia.org/wiki/Knife",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Dagger",
+                "link": "https://en.wikipedia.org/wiki/Dagger",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sword",
+            "link": "https://en.wikipedia.org/wiki/Sword",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Katana",
+                "link": "https://en.wikipedia.org/wiki/Katana",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rapier",
+                "link": "https://en.wikipedia.org/wiki/Rapier",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Battle axe",
+            "link": "https://en.wikipedia.org/wiki/Battle_axe",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bayonet",
+            "link": "https://en.wikipedia.org/wiki/Bayonet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Club (weapon)",
+            "link": "https://en.wikipedia.org/wiki/Club_(weapon)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spear",
+            "link": "https://en.wikipedia.org/wiki/Spear",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Military aviation",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Military_aviation-Military_technology",
+        "children": [
+          {
+            "name": "Military aircraft",
+            "link": "https://en.wikipedia.org/wiki/Military_aircraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Attack aircraft",
+            "link": "https://en.wikipedia.org/wiki/Attack_aircraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bomber",
+            "link": "https://en.wikipedia.org/wiki/Bomber",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fighter aircraft",
+            "link": "https://en.wikipedia.org/wiki/Fighter_aircraft",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Naval warfare",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Naval_warfare-Military_technology",
+        "children": [
+          {
+            "name": "Aircraft carrier",
+            "link": "https://en.wikipedia.org/wiki/Aircraft_carrier",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Battleship",
+            "link": "https://en.wikipedia.org/wiki/Battleship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Galley",
+            "link": "https://en.wikipedia.org/wiki/Galley",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Naval mine",
+            "link": "https://en.wikipedia.org/wiki/Naval_mine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ship of the line",
+            "link": "https://en.wikipedia.org/wiki/Ship_of_the_line",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Submarine",
+            "link": "https://en.wikipedia.org/wiki/Submarine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Torpedo",
+            "link": "https://en.wikipedia.org/wiki/Torpedo",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Warship",
+            "link": "https://en.wikipedia.org/wiki/Warship",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Projectile weapons",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Projectile_weapons-Military_technology",
+        "children": [
+          {
+            "name": "Boomerang",
+            "link": "https://en.wikipedia.org/wiki/Boomerang",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bow and arrow",
+            "link": "https://en.wikipedia.org/wiki/Bow_and_arrow",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Crossbow",
+            "link": "https://en.wikipedia.org/wiki/Crossbow",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Firearm",
+            "link": "https://en.wikipedia.org/wiki/Firearm",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Rifle",
+                "link": "https://en.wikipedia.org/wiki/Rifle",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Assault rifle",
+                    "link": "https://en.wikipedia.org/wiki/Assault_rifle",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Handgun",
+                "link": "https://en.wikipedia.org/wiki/Handgun",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Machine gun",
+                "link": "https://en.wikipedia.org/wiki/Machine_gun",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Musket",
+                "link": "https://en.wikipedia.org/wiki/Musket",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Shotgun",
+                "link": "https://en.wikipedia.org/wiki/Shotgun",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Gun",
+            "link": "https://en.wikipedia.org/wiki/Gun",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sling",
+            "link": "https://en.wikipedia.org/wiki/Sling_(weapon)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Artillery and siege",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Artillery_and_siege-Military_technology",
+        "children": [
+          {
+            "name": "Artillery",
+            "link": "https://en.wikipedia.org/wiki/Artillery",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ballista",
+            "link": "https://en.wikipedia.org/wiki/Ballista",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Battering ram",
+            "link": "https://en.wikipedia.org/wiki/Battering_ram",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cannon",
+            "link": "https://en.wikipedia.org/wiki/Cannon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Catapult",
+            "link": "https://en.wikipedia.org/wiki/Catapult",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mortar",
+            "link": "https://en.wikipedia.org/wiki/Mortar_(weapon)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Weapons of mass destruction",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Weapons_of_mass_destruction-Military_technology",
+        "children": [
+          {
+            "name": "Weapon of mass destruction",
+            "link": "https://en.wikipedia.org/wiki/Weapon_of_mass_destruction",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Biological warfare",
+            "link": "https://en.wikipedia.org/wiki/Biological_warfare",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Chemical weapon",
+            "link": "https://en.wikipedia.org/wiki/Chemical_weapon",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Nuclear weapon",
+            "link": "https://en.wikipedia.org/wiki/Nuclear_weapon",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Thermonuclear weapon",
+                "link": "https://en.wikipedia.org/wiki/Thermonuclear_weapon",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Navigation and timekeeping",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Navigation_and_timekeeping-Technology",
+    "children": [
+      {
+        "name": "Timekeeping",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Timekeeping-Navigation_and_timekeeping",
+        "children": [
+          {
+            "name": "Calendar",
+            "link": "https://en.wikipedia.org/wiki/Calendar",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Chinese calendar",
+                "link": "https://en.wikipedia.org/wiki/Chinese_calendar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gregorian calendar",
+                "link": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Islamic calendar",
+                "link": "https://en.wikipedia.org/wiki/Islamic_calendar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Julian calendar",
+                "link": "https://en.wikipedia.org/wiki/Julian_calendar",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Leap year",
+                "link": "https://en.wikipedia.org/wiki/Leap_year",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Coordinated Universal Time",
+            "link": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Clock",
+            "link": "https://en.wikipedia.org/wiki/Clock",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Watch",
+                "link": "https://en.wikipedia.org/wiki/Watch",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Atomic clock",
+                "link": "https://en.wikipedia.org/wiki/Atomic_clock",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Pendulum",
+                "link": "https://en.wikipedia.org/wiki/Pendulum",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Sundial",
+                "link": "https://en.wikipedia.org/wiki/Sundial",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Time zone",
+            "link": "https://en.wikipedia.org/wiki/Time_zone",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Daylight saving time",
+                "link": "https://en.wikipedia.org/wiki/Daylight_saving_time",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Navigation",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Navigation-Navigation_and_timekeeping",
+        "children": [
+          {
+            "name": "Navigation",
+            "link": "https://en.wikipedia.org/wiki/Navigation",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Compass",
+                "link": "https://en.wikipedia.org/wiki/Compass",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Celestial navigation",
+                "link": "https://en.wikipedia.org/wiki/Celestial_navigation",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Sextant",
+                    "link": "https://en.wikipedia.org/wiki/Sextant",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Dead reckoning",
+                "link": "https://en.wikipedia.org/wiki/Dead_reckoning",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Gyroscope",
+                "link": "https://en.wikipedia.org/wiki/Gyroscope",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Satellite navigation",
+                "link": "https://en.wikipedia.org/wiki/Satellite_navigation",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Global Positioning System",
+                    "link": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Radar",
+            "link": "https://en.wikipedia.org/wiki/Radar",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sonar",
+            "link": "https://en.wikipedia.org/wiki/Sonar",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Optical technology",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Optical_technology-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_9-Optical_technology",
+        "children": [
+          {
+            "name": "Laser",
+            "link": "https://en.wikipedia.org/wiki/Laser",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Holography",
+            "link": "https://en.wikipedia.org/wiki/Holography",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Optical fiber",
+            "link": "https://en.wikipedia.org/wiki/Optical_fiber",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Optics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Optics-Optical_technology",
+        "children": [
+          {
+            "name": "Lens",
+            "link": "https://en.wikipedia.org/wiki/Lens",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Anti-reflective coating",
+            "link": "https://en.wikipedia.org/wiki/Anti-reflective_coating",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Diffraction grating",
+            "link": "https://en.wikipedia.org/wiki/Diffraction_grating",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mirror",
+            "link": "https://en.wikipedia.org/wiki/Mirror",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Polarizer",
+            "link": "https://en.wikipedia.org/wiki/Polarizer",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Prism (optics)",
+            "link": "https://en.wikipedia.org/wiki/Prism_(optics)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Optical instruments",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Optical_instruments-Optical_technology",
+        "children": [
+          {
+            "name": "Microscope",
+            "link": "https://en.wikipedia.org/wiki/Microscope",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Electron microscope",
+                "link": "https://en.wikipedia.org/wiki/Electron_microscope",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Optical microscope",
+                "link": "https://en.wikipedia.org/wiki/Optical_microscope",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Telescope",
+            "link": "https://en.wikipedia.org/wiki/Telescope",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Optical telescope",
+                "link": "https://en.wikipedia.org/wiki/Optical_telescope",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Radio telescope",
+                "link": "https://en.wikipedia.org/wiki/Radio_telescope",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Theodolite",
+                "link": "https://en.wikipedia.org/wiki/Theodolite",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Camera",
+            "link": "https://en.wikipedia.org/wiki/Camera",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Photography",
+                "link": "https://en.wikipedia.org/wiki/Photography",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Digital photography",
+                    "link": "https://en.wikipedia.org/wiki/Digital_photography",
+                    "layer": 5,
+                    "children": []
+                  },
+                  {
+                    "name": "Fine-art photography",
+                    "link": "https://en.wikipedia.org/wiki/Fine-art_photography",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Photographic film",
+                "link": "https://en.wikipedia.org/wiki/Photographic_film",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Glasses",
+            "link": "https://en.wikipedia.org/wiki/Glasses",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Binoculars",
+            "link": "https://en.wikipedia.org/wiki/Binoculars",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Charge-coupled device",
+            "link": "https://en.wikipedia.org/wiki/Charge-coupled_device",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Interferometry",
+            "link": "https://en.wikipedia.org/wiki/Interferometry",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Space",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Space-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_10-Space",
+        "children": [
+          {
+            "name": "Space exploration",
+            "link": "https://en.wikipedia.org/wiki/Space_exploration",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Exploration of Mars",
+                "link": "https://en.wikipedia.org/wiki/Exploration_of_Mars",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Spaceflight",
+            "link": "https://en.wikipedia.org/wiki/Spaceflight",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Spacecraft",
+            "link": "https://en.wikipedia.org/wiki/Spacecraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rocket",
+            "link": "https://en.wikipedia.org/wiki/Rocket",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Launch vehicle",
+                "link": "https://en.wikipedia.org/wiki/Launch_vehicle",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Rocket engine",
+                "link": "https://en.wikipedia.org/wiki/Rocket_engine",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Satellite",
+            "link": "https://en.wikipedia.org/wiki/Satellite",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Space station",
+            "link": "https://en.wikipedia.org/wiki/Space_station",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Astronaut",
+            "link": "https://en.wikipedia.org/wiki/Astronaut",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Programs and launch sites",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Programs_and_launch_sites-Space",
+        "children": [
+          {
+            "name": "NASA",
+            "link": "https://en.wikipedia.org/wiki/NASA",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Apollo program",
+                "link": "https://en.wikipedia.org/wiki/Apollo_program",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Kennedy Space Center",
+                "link": "https://en.wikipedia.org/wiki/Kennedy_Space_Center",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "Voyager program",
+                "link": "https://en.wikipedia.org/wiki/Voyager_program",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Soviet space program",
+            "link": "https://en.wikipedia.org/wiki/Soviet_space_program",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Baikonur Cosmodrome",
+                "link": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Roscosmos",
+            "link": "https://en.wikipedia.org/wiki/Roscosmos",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "European Space Agency",
+            "link": "https://en.wikipedia.org/wiki/European_Space_Agency",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "China National Space Administration",
+            "link": "https://en.wikipedia.org/wiki/China_National_Space_Administration",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Crewed spacecraft",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Crewed_spacecraft-Space",
+        "children": [
+          {
+            "name": "International Space Station",
+            "link": "https://en.wikipedia.org/wiki/International_Space_Station",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Space Shuttle",
+            "link": "https://en.wikipedia.org/wiki/Space_Shuttle",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Saturn V",
+            "link": "https://en.wikipedia.org/wiki/Saturn_V",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Soyuz (spacecraft)",
+            "link": "https://en.wikipedia.org/wiki/Soyuz_(spacecraft)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Uncrewed spacecraft",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Uncrewed_spacecraft-Space",
+        "children": [
+          {
+            "name": "Hubble Space Telescope",
+            "link": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Ground-based observatories",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Ground-based_observatories-Space",
+        "children": [
+          {
+            "name": "Atacama Large Millimeter Array",
+            "link": "https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Mauna Kea Observatories",
+            "link": "https://en.wikipedia.org/wiki/Mauna_Kea_Observatories",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Textiles",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Textiles-Technology",
+    "children": [
+      {
+        "name": "Fabrics and fibers",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Fabrics_and_fibers-Textiles",
+        "children": [
+          {
+            "name": "Textile",
+            "link": "https://en.wikipedia.org/wiki/Textile",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Canvas",
+            "link": "https://en.wikipedia.org/wiki/Canvas",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cotton",
+            "link": "https://en.wikipedia.org/wiki/Cotton",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Felt",
+            "link": "https://en.wikipedia.org/wiki/Felt",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fiber",
+            "link": "https://en.wikipedia.org/wiki/Fiber",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Lace",
+            "link": "https://en.wikipedia.org/wiki/Lace",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Leather",
+            "link": "https://en.wikipedia.org/wiki/Leather",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Linen",
+            "link": "https://en.wikipedia.org/wiki/Linen",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Silk",
+            "link": "https://en.wikipedia.org/wiki/Silk",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Thread",
+            "link": "https://en.wikipedia.org/wiki/Thread_(yarn)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wool",
+            "link": "https://en.wikipedia.org/wiki/Wool",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Yarn",
+            "link": "https://en.wikipedia.org/wiki/Yarn",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Techniques",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Techniques_2-Textiles",
+        "children": [
+          {
+            "name": "Basket weaving",
+            "link": "https://en.wikipedia.org/wiki/Basket_weaving",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Crochet",
+            "link": "https://en.wikipedia.org/wiki/Crochet",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Dye",
+            "link": "https://en.wikipedia.org/wiki/Dye",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Embroidery",
+            "link": "https://en.wikipedia.org/wiki/Embroidery",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hand spinning",
+            "link": "https://en.wikipedia.org/wiki/Hand_spinning",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Knitting",
+            "link": "https://en.wikipedia.org/wiki/Knitting",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Quilting",
+            "link": "https://en.wikipedia.org/wiki/Quilting",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sewing",
+            "link": "https://en.wikipedia.org/wiki/Sewing",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tapestry",
+            "link": "https://en.wikipedia.org/wiki/Tapestry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Weaving",
+            "link": "https://en.wikipedia.org/wiki/Weaving",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Transportation",
+    "link": null,
+    "layer": 1,
+    "type": "heading",
+    "heading_id": "h-Transportation-Technology",
+    "children": [
+      {
+        "name": "Basics",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Basics_11-Transportation",
+        "children": [
+          {
+            "name": "Transport",
+            "link": "https://en.wikipedia.org/wiki/Transport",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Public transport",
+                "link": "https://en.wikipedia.org/wiki/Public_transport",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Travel",
+            "link": "https://en.wikipedia.org/wiki/Travel",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Freight transport",
+            "link": "https://en.wikipedia.org/wiki/Freight_transport",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cargo",
+                "link": "https://en.wikipedia.org/wiki/Cargo",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Passport",
+            "link": "https://en.wikipedia.org/wiki/Passport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Vehicle",
+            "link": "https://en.wikipedia.org/wiki/Vehicle",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Road transport",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Road_transport-Transportation",
+        "children": [
+          {
+            "name": "Road transport",
+            "link": "https://en.wikipedia.org/wiki/Road_transport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Road",
+            "link": "https://en.wikipedia.org/wiki/Road",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Highway",
+                "link": "https://en.wikipedia.org/wiki/Highway",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Controlled-access highway",
+                    "link": "https://en.wikipedia.org/wiki/Controlled-access_highway",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Trail",
+                "link": "https://en.wikipedia.org/wiki/Trail",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Car",
+            "link": "https://en.wikipedia.org/wiki/Car",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Bicycle",
+            "link": "https://en.wikipedia.org/wiki/Bicycle",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Cycling",
+                "link": "https://en.wikipedia.org/wiki/Cycling",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bus",
+            "link": "https://en.wikipedia.org/wiki/Bus",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Motorcycle",
+            "link": "https://en.wikipedia.org/wiki/Motorcycle",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rickshaw",
+            "link": "https://en.wikipedia.org/wiki/Rickshaw",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Truck",
+            "link": "https://en.wikipedia.org/wiki/Truck",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Taxi",
+            "link": "https://en.wikipedia.org/wiki/Taxi",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Van",
+            "link": "https://en.wikipedia.org/wiki/Van",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Driving",
+            "link": "https://en.wikipedia.org/wiki/Driving",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Parking",
+                "link": "https://en.wikipedia.org/wiki/Parking",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Tire",
+            "link": "https://en.wikipedia.org/wiki/Tire",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Filling station",
+            "link": "https://en.wikipedia.org/wiki/Filling_station",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Traffic collision",
+            "link": "https://en.wikipedia.org/wiki/Traffic_collision",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Animal-powered transport",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Animal-powered_transport-Transportation",
+        "children": [
+          {
+            "name": "Carriage",
+            "link": "https://en.wikipedia.org/wiki/Carriage",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cart",
+            "link": "https://en.wikipedia.org/wiki/Cart",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Saddle",
+            "link": "https://en.wikipedia.org/wiki/Saddle",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Trains",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Trains-Transportation",
+        "children": [
+          {
+            "name": "Train",
+            "link": "https://en.wikipedia.org/wiki/Train",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Locomotive",
+                "link": "https://en.wikipedia.org/wiki/Locomotive",
+                "layer": 4,
+                "children": [
+                  {
+                    "name": "Steam locomotive",
+                    "link": "https://en.wikipedia.org/wiki/Steam_locomotive",
+                    "layer": 5,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Train station",
+                "link": "https://en.wikipedia.org/wiki/Train_station",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Rail transport",
+            "link": "https://en.wikipedia.org/wiki/Rail_transport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Railway track",
+            "link": "https://en.wikipedia.org/wiki/Railway_track",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Rapid transit",
+            "link": "https://en.wikipedia.org/wiki/Rapid_transit",
+            "layer": 3,
+            "children": [
+              {
+                "name": "London Underground",
+                "link": "https://en.wikipedia.org/wiki/London_Underground",
+                "layer": 4,
+                "children": []
+              },
+              {
+                "name": "New York City Subway",
+                "link": "https://en.wikipedia.org/wiki/New_York_City_Subway",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "High-speed rail",
+            "link": "https://en.wikipedia.org/wiki/High-speed_rail",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Shinkansen",
+                "link": "https://en.wikipedia.org/wiki/Shinkansen",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Monorail",
+            "link": "https://en.wikipedia.org/wiki/Monorail",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tram",
+            "link": "https://en.wikipedia.org/wiki/Tram",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Trans-Siberian Railway",
+            "link": "https://en.wikipedia.org/wiki/Trans-Siberian_Railway",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Aviation",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Aviation-Transportation",
+        "children": [
+          {
+            "name": "Aircraft",
+            "link": "https://en.wikipedia.org/wiki/Aircraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Aviation",
+            "link": "https://en.wikipedia.org/wiki/Aviation",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Air traffic control",
+            "link": "https://en.wikipedia.org/wiki/Air_traffic_control",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Aircraft engine",
+            "link": "https://en.wikipedia.org/wiki/Aircraft_engine",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Airline",
+            "link": "https://en.wikipedia.org/wiki/Airline",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Airplane",
+            "link": "https://en.wikipedia.org/wiki/Airplane",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Airport",
+            "link": "https://en.wikipedia.org/wiki/Airport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Airship",
+            "link": "https://en.wikipedia.org/wiki/Airship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Balloon (aeronautics)",
+            "link": "https://en.wikipedia.org/wiki/Balloon_(aeronautics)",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Hot air balloon",
+                "link": "https://en.wikipedia.org/wiki/Hot_air_balloon",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fixed-wing aircraft",
+            "link": "https://en.wikipedia.org/wiki/Fixed-wing_aircraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Glider",
+            "link": "https://en.wikipedia.org/wiki/Glider_(aircraft)",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Helicopter",
+            "link": "https://en.wikipedia.org/wiki/Helicopter",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Jet aircraft",
+            "link": "https://en.wikipedia.org/wiki/Jet_aircraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Parachute",
+            "link": "https://en.wikipedia.org/wiki/Parachute",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Unmanned aerial vehicle",
+            "link": "https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Wing",
+            "link": "https://en.wikipedia.org/wiki/Wing",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Maritime transport",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Maritime_transport-Transportation",
+        "children": [
+          {
+            "name": "Maritime transport",
+            "link": "https://en.wikipedia.org/wiki/Maritime_transport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ship",
+            "link": "https://en.wikipedia.org/wiki/Ship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Canal",
+            "link": "https://en.wikipedia.org/wiki/Canal",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Lock (water navigation)",
+                "link": "https://en.wikipedia.org/wiki/Lock_(water_navigation)",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Barge",
+            "link": "https://en.wikipedia.org/wiki/Barge",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Boat",
+            "link": "https://en.wikipedia.org/wiki/Boat",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Canoe",
+            "link": "https://en.wikipedia.org/wiki/Canoe",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Cargo ship",
+            "link": "https://en.wikipedia.org/wiki/Cargo_ship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Ferry",
+            "link": "https://en.wikipedia.org/wiki/Ferry",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Fishing vessel",
+            "link": "https://en.wikipedia.org/wiki/Fishing_vessel",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Hovercraft",
+            "link": "https://en.wikipedia.org/wiki/Hovercraft",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Merchant ship",
+            "link": "https://en.wikipedia.org/wiki/Merchant_ship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Passenger ship",
+            "link": "https://en.wikipedia.org/wiki/Passenger_ship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Riverboat",
+            "link": "https://en.wikipedia.org/wiki/Riverboat",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Sailing",
+            "link": "https://en.wikipedia.org/wiki/Sailing",
+            "layer": 3,
+            "children": [
+              {
+                "name": "Sail",
+                "link": "https://en.wikipedia.org/wiki/Sail",
+                "layer": 4,
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sailing ship",
+            "link": "https://en.wikipedia.org/wiki/Sailing_ship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Shipbuilding",
+            "link": "https://en.wikipedia.org/wiki/Shipbuilding",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Steamship",
+            "link": "https://en.wikipedia.org/wiki/Steamship",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tanker",
+            "link": "https://en.wikipedia.org/wiki/Tanker_(ship)",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "link": null,
+        "layer": 2,
+        "type": "heading",
+        "heading_id": "h-Other-Transportation",
+        "children": [
+          {
+            "name": "Cable transport",
+            "link": "https://en.wikipedia.org/wiki/Cable_transport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Baby transport",
+            "link": "https://en.wikipedia.org/wiki/Baby_transport",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Pipeline",
+            "link": "https://en.wikipedia.org/wiki/Pipeline",
+            "layer": 3,
+            "children": []
+          },
+          {
+            "name": "Tractor",
+            "link": "https://en.wikipedia.org/wiki/Tractor",
+            "layer": 3,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
