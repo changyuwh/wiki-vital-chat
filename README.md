@@ -26,7 +26,7 @@ The goal is to transform this vast resource into an easily digestible and intera
 
 - Data collection: BeautifulSoup4, Python
 - Frontend: React, Next.js
-- Backend: Next.js API Routes
+- Backend: Next.js API Routes, Wikipedia API
 - AI: Gemini-2.0-flash
 - Deployment: Vercel
 
@@ -38,7 +38,6 @@ Prerequisites: Node.js
 
 ```
 git clone https://github.com/changyuwh/wiki-vital-chat.git
-
 cd wiki-vital-chat
 ```
 
@@ -57,7 +56,6 @@ Create a file named `.env.local` in the root directory of your project and add t
 
 ```
 API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent
-
 API_KEY=your_gemini_api_key
 ```
 

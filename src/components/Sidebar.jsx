@@ -2,6 +2,29 @@
 import { AlignJustify, MoonStar, Sun, ChevronRight, ChevronDown, ChevronsDownUp } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 
+const fetchLinkContent = async (url) => {
+  try {
+    const response = await fetch('/api/scrape', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ url }),
+    });
+
+    if (!response.ok) {
+      const errorData = await response.json();
+      throw new Error(errorData.error || `HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data.content;
+  } catch (error) {
+    console.error('Link scraping failed:', error);
+    throw error;
+  }
+};
+
 const TreeNode = ({ item, level = 0, onTopicSelect }) => {
   const [isExpanded, setIsExpanded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
@@ -41,28 +64,40 @@ const TreeNode = ({ item, level = 0, onTopicSelect }) => {
     }
   };
 
-  const handleTopicClick = () => {
+  const handleTopicClick = async () => {
     if (isClickable) {
-      const prompt = `
-      Read this wiki page: ${item.link}. Write a piece of understandable and comprehensive education content. The main content should include:
-      1) ${item.name}, which is the topic name
-      2) Topic Introduction. Around 20 words
-      3) The most fundamental and essential knowledge, ranking by importance levels with supporting data:
-      - Essential for Everyone
-      - Important for Understanding
-      - Useful for Deeper Knowledge
-      - For Enthusiasts
-      4) End with exactly: "For more in-depth information, refer to [${item.name}](${item.link}), or ask me further questions!"
-      Format your responses using proper markdown syntax. Follow these formatting guidelines:
-      1) Structure:
-      - Use # for "Topic name", ## for "Topic Introduction" and ### for four knowledge levels
-      - Use - for bullet points
-      - Use 1. 2. 3. for numbered lists only for processes or rankings
-      - Leave exactly one blank line after each heading before content begins
-      - Leave exactly one blank line between each major section
-      2) Consistency Rules:
-      - Start responses directly without unnecessary greetings`;
-      onTopicSelect(item.name, prompt);
+      try {
+        const linkContent = await fetchLinkContent(item.link);
+        
+        const prompt = `
+        Based on the following content from ${item.link}, write a piece of understandable and comprehensive education content:
+
+        CONTENT:
+        ${linkContent}
+
+        The main content should include:
+        1) ${item.name}, which is the topic name
+        2) Topic Introduction. Around 20 words
+        3) The most fundamental and essential knowledge, ranking by importance levels with supporting data:
+        - Essential for Everyone
+        - Important for Understanding
+        - Useful for Deeper Knowledge
+        - For Enthusiasts
+        4) End with exactly: "For more in-depth information, refer to [${item.name}](${item.link}), or ask me further questions!"
+        Format your responses using proper markdown syntax. Follow these formatting guidelines:
+        1) Structure:
+        - Use # for "Topic name", ## for "Topic Introduction" and ### for four knowledge levels
+        - Use - for bullet points
+        - Use 1. 2. 3. for numbered lists only for processes or rankings
+        - Leave exactly one blank line after each heading before content begins
+        - Leave exactly one blank line between each major section
+        2) Consistency Rules:
+        - Start responses directly without unnecessary greetings`;
+        
+        onTopicSelect(item.name, prompt);
+      } catch (error) {
+        console.error('Failed to fetch link content:', error);
+      }
     }
   };
 
